@@ -1,0 +1,3038 @@
+0 Requesting Read of address 44032 at time 1:0
+Address 44032 in frame 0, giving data to 0 at time 1:0
+Memory layout at time 1:0
+Frame: 10: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 11: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 12: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 13: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 14: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 15: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 16: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 17: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 18: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 19: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 20: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 21: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 22: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 23: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 24: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 25: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 26: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 27: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 28: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+Frame: 29: Page index: 0 |Process_id: 0|Occupied: 0 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 0 
+1 Requesting Read of address 44032 at time 2:1000
+Address 44032 in frame 1, giving data to 1 at time 2:1000
+2 Requesting Read of address 44032 at time 3:2000
+Address 44032 in frame 2, giving data to 2 at time 3:2000
+3 Requesting Read of address 44032 at time 4:3000
+Address 44032 in frame 3, giving data to 3 at time 4:3000
+4 Requesting Read of address 44032 at time 5:4000
+Address 44032 in frame 4, giving data to 4 at time 5:4000
+5 Requesting Read of address 44032 at time 6:5000
+Address 44032 in frame 5, giving data to 5 at time 6:5000
+6 Requesting Read of address 44032 at time 7:6000
+Address 44032 in frame 6, giving data to 6 at time 7:6000
+7 Requesting Read of address 44032 at time 8:7000
+Address 44032 in frame 7, giving data to 7 at time 8:7000
+8 Requesting Read of address 44032 at time 9:8000
+Address 44032 in frame 8, giving data to 8 at time 9:8000
+9 Requesting Read of address 44032 at time 10:9000
+Address 44032 in frame 9, giving data to 9 at time 10:9000
+10 Requesting Read of address 44032 at time 11:10000
+Address 44032 in frame 10, giving data to 10 at time 11:10000
+11 Requesting Read of address 44032 at time 12:11000
+Address 44032 in frame 11, giving data to 11 at time 12:11000
+12 Requesting Read of address 44032 at time 13:12000
+Address 44032 in frame 12, giving data to 12 at time 13:12000
+13 Requesting Read of address 44032 at time 14:13000
+Address 44032 in frame 13, giving data to 13 at time 14:13000
+14 Requesting Read of address 44032 at time 15:14000
+Address 44032 in frame 14, giving data to 14 at time 15:14000
+15 Requesting Read of address 44032 at time 16:15000
+Address 44032 in frame 15, giving data to 15 at time 16:15000
+16 Requesting Read of address 44032 at time 17:16000
+Address 44032 in frame 16, giving data to 16 at time 17:16000
+0 Requesting Read of address 22528 at time 17:17000
+Address 22528 in frame 17, giving data to 0 at time 17:17000
+1 Requesting Read of address 22528 at time 17:18000
+Address 22528 in frame 18, giving data to 1 at time 17:18000
+2 Requesting Read of address 22528 at time 17:19000
+Address 22528 in frame 19, giving data to 2 at time 17:19000
+3 Requesting Read of address 22528 at time 17:20000
+Address 22528 in frame 20, giving data to 3 at time 17:20000
+4 Requesting Read of address 22528 at time 17:21000
+Address 22528 in frame 21, giving data to 4 at time 17:21000
+5 Requesting Read of address 22528 at time 17:22000
+Address 22528 in frame 22, giving data to 5 at time 17:22000
+6 Requesting Read of address 22528 at time 17:23000
+Address 22528 in frame 23, giving data to 6 at time 17:23000
+7 Requesting Read of address 22528 at time 17:24000
+Address 22528 in frame 24, giving data to 7 at time 17:24000
+8 Requesting Read of address 22528 at time 17:25000
+Address 22528 in frame 25, giving data to 8 at time 17:25000
+9 Requesting Read of address 22528 at time 17:26000
+Address 22528 in frame 26, giving data to 9 at time 17:26000
+10 Requesting Read of address 22528 at time 17:27000
+Address 22528 in frame 27, giving data to 10 at time 17:27000
+11 Requesting Read of address 22528 at time 17:28000
+Address 22528 in frame 28, giving data to 11 at time 17:28000
+12 Requesting Read of address 22528 at time 17:29000
+Address 22528 in frame 29, giving data to 12 at time 17:29000
+13 Requesting Read of address 22528 at time 17:30000
+Address 22528 in frame 30, giving data to 13 at time 17:30000
+14 Requesting Read of address 22528 at time 17:31000
+Address 22528 in frame 31, giving data to 14 at time 17:31000
+15 Requesting Read of address 22528 at time 17:32000
+Address 22528 in frame 32, giving data to 15 at time 17:32000
+16 Requesting Read of address 22528 at time 17:33000
+Address 22528 in frame 33, giving data to 16 at time 17:33000
+0 Requesting Write of address 37888 at time 17:34000
+Address 37888 in frame 34, writing data to 0 at time 17:34000
+1 Requesting Write of address 37888 at time 17:35000
+Address 37888 in frame 35, writing data to 1 at time 17:35000
+2 Requesting Write of address 37888 at time 17:36000
+Address 37888 in frame 36, writing data to 2 at time 17:36000
+3 Requesting Write of address 37888 at time 17:37000
+Address 37888 in frame 37, writing data to 3 at time 17:37000
+4 Requesting Write of address 37888 at time 17:38000
+Address 37888 in frame 38, writing data to 4 at time 17:38000
+5 Requesting Write of address 37888 at time 17:39000
+Address 37888 in frame 39, writing data to 5 at time 17:39000
+6 Requesting Write of address 37888 at time 17:40000
+Address 37888 in frame 40, writing data to 6 at time 17:40000
+7 Requesting Write of address 37888 at time 17:41000
+Address 37888 in frame 41, writing data to 7 at time 17:41000
+8 Requesting Write of address 37888 at time 17:42000
+Address 37888 in frame 42, writing data to 8 at time 17:42000
+9 Requesting Write of address 37888 at time 17:43000
+Address 37888 in frame 43, writing data to 9 at time 17:43000
+10 Requesting Write of address 37888 at time 17:44000
+Address 37888 in frame 44, writing data to 10 at time 17:44000
+11 Requesting Write of address 37888 at time 17:45000
+Address 37888 in frame 45, writing data to 11 at time 17:45000
+12 Requesting Write of address 37888 at time 17:46000
+Address 37888 in frame 46, writing data to 12 at time 17:46000
+13 Requesting Write of address 37888 at time 17:47000
+Address 37888 in frame 47, writing data to 13 at time 17:47000
+14 Requesting Write of address 37888 at time 17:48000
+Address 37888 in frame 48, writing data to 14 at time 17:48000
+15 Requesting Write of address 37888 at time 17:49000
+Address 37888 in frame 49, writing data to 15 at time 17:49000
+16 Requesting Write of address 37888 at time 17:50000
+Address 37888 in frame 50, writing data to 16 at time 17:50000
+Memory layout at time 17:50000
+Frame: 10: Page index: 44 |Process_id: 15242|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 11 
+Frame: 11: Page index: 44 |Process_id: 15243|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 12 
+Frame: 12: Page index: 44 |Process_id: 15244|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 13 
+Frame: 13: Page index: 44 |Process_id: 15245|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 14 
+Frame: 14: Page index: 44 |Process_id: 15246|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 15 
+Frame: 15: Page index: 44 |Process_id: 15247|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 16 
+Frame: 16: Page index: 44 |Process_id: 15248|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 17 
+Frame: 17: Page index: 22 |Process_id: 15232|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 18 
+Frame: 18: Page index: 22 |Process_id: 15233|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 19 
+Frame: 19: Page index: 22 |Process_id: 15234|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 20 
+Frame: 20: Page index: 22 |Process_id: 15235|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 21 
+Frame: 21: Page index: 22 |Process_id: 15236|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 22 
+Frame: 22: Page index: 22 |Process_id: 15237|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 23 
+Frame: 23: Page index: 22 |Process_id: 15238|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 24 
+Frame: 24: Page index: 22 |Process_id: 15239|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 25 
+Frame: 25: Page index: 22 |Process_id: 15240|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 26 
+Frame: 26: Page index: 22 |Process_id: 15241|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 27 
+Frame: 27: Page index: 22 |Process_id: 15242|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 28 
+Frame: 28: Page index: 22 |Process_id: 15243|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 29 
+Frame: 29: Page index: 22 |Process_id: 15244|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 30 
+0 Requesting Write of address 29696 at time 17:51000
+Address 29696 in frame 51, writing data to 0 at time 17:51000
+1 Requesting Write of address 29696 at time 17:52000
+Address 29696 in frame 52, writing data to 1 at time 17:52000
+2 Requesting Write of address 29696 at time 17:53000
+Address 29696 in frame 53, writing data to 2 at time 17:53000
+3 Requesting Write of address 29696 at time 17:54000
+Address 29696 in frame 54, writing data to 3 at time 17:54000
+4 Requesting Write of address 29696 at time 17:55000
+Address 29696 in frame 55, writing data to 4 at time 17:55000
+5 Requesting Write of address 29696 at time 17:56000
+Address 29696 in frame 56, writing data to 5 at time 17:56000
+6 Requesting Write of address 29696 at time 17:57000
+Address 29696 in frame 57, writing data to 6 at time 17:57000
+7 Requesting Write of address 29696 at time 17:58000
+Address 29696 in frame 58, writing data to 7 at time 17:58000
+8 Requesting Write of address 29696 at time 17:59000
+Address 29696 in frame 59, writing data to 8 at time 17:59000
+9 Requesting Write of address 29696 at time 17:60000
+Address 29696 in frame 60, writing data to 9 at time 17:60000
+10 Requesting Write of address 29696 at time 17:61000
+Address 29696 in frame 61, writing data to 10 at time 17:61000
+11 Requesting Write of address 29696 at time 17:62000
+Address 29696 in frame 62, writing data to 11 at time 17:62000
+12 Requesting Write of address 29696 at time 17:63000
+Address 29696 in frame 63, writing data to 12 at time 17:63000
+13 Requesting Write of address 29696 at time 17:64000
+Address 29696 in frame 64, writing data to 13 at time 17:64000
+14 Requesting Write of address 29696 at time 17:65000
+Address 29696 in frame 65, writing data to 14 at time 17:65000
+15 Requesting Write of address 29696 at time 17:66000
+Address 29696 in frame 66, writing data to 15 at time 17:66000
+16 Requesting Write of address 29696 at time 17:67000
+Address 29696 in frame 67, writing data to 16 at time 17:67000
+0 Requesting Write of address 9216 at time 17:68000
+Address 9216 in frame 68, writing data to 0 at time 17:68000
+1 Requesting Write of address 9216 at time 17:69000
+Address 9216 in frame 69, writing data to 1 at time 17:69000
+2 Requesting Write of address 9216 at time 17:70000
+Address 9216 in frame 70, writing data to 2 at time 17:70000
+3 Requesting Write of address 9216 at time 17:71000
+Address 9216 in frame 71, writing data to 3 at time 17:71000
+4 Requesting Write of address 9216 at time 17:72000
+Address 9216 in frame 72, writing data to 4 at time 17:72000
+5 Requesting Write of address 9216 at time 17:73000
+Address 9216 in frame 73, writing data to 5 at time 17:73000
+6 Requesting Write of address 9216 at time 17:74000
+Address 9216 in frame 74, writing data to 6 at time 17:74000
+7 Requesting Write of address 9216 at time 17:75000
+Address 9216 in frame 75, writing data to 7 at time 17:75000
+8 Requesting Write of address 9216 at time 17:76000
+Address 9216 in frame 76, writing data to 8 at time 17:76000
+9 Requesting Write of address 9216 at time 17:77000
+Address 9216 in frame 77, writing data to 9 at time 17:77000
+10 Requesting Write of address 9216 at time 17:78000
+Address 9216 in frame 78, writing data to 10 at time 17:78000
+11 Requesting Write of address 9216 at time 17:79000
+Address 9216 in frame 79, writing data to 11 at time 17:79000
+12 Requesting Write of address 9216 at time 17:80000
+Address 9216 in frame 80, writing data to 12 at time 17:80000
+13 Requesting Write of address 9216 at time 17:81000
+Address 9216 in frame 81, writing data to 13 at time 17:81000
+14 Requesting Write of address 9216 at time 17:82000
+Address 9216 in frame 82, writing data to 14 at time 17:82000
+15 Requesting Write of address 9216 at time 17:83000
+Address 9216 in frame 83, writing data to 15 at time 17:83000
+16 Requesting Write of address 9216 at time 17:84000
+Address 9216 in frame 84, writing data to 16 at time 17:84000
+0 Requesting Read of address 61440 at time 17:85000
+Address 61440 in frame 85, giving data to 0 at time 17:85000
+1 Requesting Read of address 61440 at time 17:86000
+Address 61440 in frame 86, giving data to 1 at time 17:86000
+2 Requesting Read of address 61440 at time 17:87000
+Address 61440 in frame 87, giving data to 2 at time 17:87000
+3 Requesting Read of address 61440 at time 17:88000
+Address 61440 in frame 88, giving data to 3 at time 17:88000
+4 Requesting Read of address 61440 at time 17:89000
+Address 61440 in frame 89, giving data to 4 at time 17:89000
+5 Requesting Read of address 61440 at time 17:90000
+Address 61440 in frame 90, giving data to 5 at time 17:90000
+6 Requesting Read of address 61440 at time 17:91000
+Address 61440 in frame 91, giving data to 6 at time 17:91000
+7 Requesting Read of address 61440 at time 17:92000
+Address 61440 in frame 92, giving data to 7 at time 17:92000
+8 Requesting Read of address 61440 at time 17:93000
+Address 61440 in frame 93, giving data to 8 at time 17:93000
+9 Requesting Read of address 61440 at time 17:94000
+Address 61440 in frame 94, giving data to 9 at time 17:94000
+10 Requesting Read of address 61440 at time 17:95000
+Address 61440 in frame 95, giving data to 10 at time 17:95000
+11 Requesting Read of address 61440 at time 17:96000
+Address 61440 in frame 96, giving data to 11 at time 17:96000
+12 Requesting Read of address 61440 at time 17:97000
+Address 61440 in frame 97, giving data to 12 at time 17:97000
+13 Requesting Read of address 61440 at time 17:98000
+Address 61440 in frame 98, giving data to 13 at time 17:98000
+14 Requesting Read of address 61440 at time 17:99000
+Address 61440 in frame 99, giving data to 14 at time 17:99000
+15 Requesting Read of address 61440 at time 17:100000
+Address 61440 in frame 100, giving data to 15 at time 17:100000
+Memory layout at time 17:100000
+Frame: 10: Page index: 44 |Process_id: 15242|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 11 
+Frame: 11: Page index: 44 |Process_id: 15243|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 12 
+Frame: 12: Page index: 44 |Process_id: 15244|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 13 
+Frame: 13: Page index: 44 |Process_id: 15245|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 14 
+Frame: 14: Page index: 44 |Process_id: 15246|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 15 
+Frame: 15: Page index: 44 |Process_id: 15247|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 16 
+Frame: 16: Page index: 44 |Process_id: 15248|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 17 
+Frame: 17: Page index: 22 |Process_id: 15232|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 18 
+Frame: 18: Page index: 22 |Process_id: 15233|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 19 
+Frame: 19: Page index: 22 |Process_id: 15234|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 20 
+Frame: 20: Page index: 22 |Process_id: 15235|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 21 
+Frame: 21: Page index: 22 |Process_id: 15236|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 22 
+Frame: 22: Page index: 22 |Process_id: 15237|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 23 
+Frame: 23: Page index: 22 |Process_id: 15238|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 24 
+Frame: 24: Page index: 22 |Process_id: 15239|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 25 
+Frame: 25: Page index: 22 |Process_id: 15240|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 26 
+Frame: 26: Page index: 22 |Process_id: 15241|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 27 
+Frame: 27: Page index: 22 |Process_id: 15242|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 28 
+Frame: 28: Page index: 22 |Process_id: 15243|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 29 
+Frame: 29: Page index: 22 |Process_id: 15244|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 30 
+16 Requesting Read of address 61440 at time 17:101000
+Address 61440 in frame 101, giving data to 16 at time 17:101000
+0 Requesting Write of address 43008 at time 17:102000
+Address 43008 in frame 102, writing data to 0 at time 17:102000
+1 Requesting Write of address 43008 at time 17:103000
+Address 43008 in frame 103, writing data to 1 at time 17:103000
+2 Requesting Write of address 43008 at time 17:104000
+Address 43008 in frame 104, writing data to 2 at time 17:104000
+3 Requesting Write of address 43008 at time 17:105000
+Address 43008 in frame 105, writing data to 3 at time 17:105000
+4 Requesting Write of address 43008 at time 17:106000
+Address 43008 in frame 106, writing data to 4 at time 17:106000
+5 Requesting Write of address 43008 at time 17:107000
+Address 43008 in frame 107, writing data to 5 at time 17:107000
+6 Requesting Write of address 43008 at time 17:108000
+Address 43008 in frame 108, writing data to 6 at time 17:108000
+7 Requesting Write of address 43008 at time 17:109000
+Address 43008 in frame 109, writing data to 7 at time 17:109000
+8 Requesting Write of address 43008 at time 17:110000
+Address 43008 in frame 110, writing data to 8 at time 17:110000
+9 Requesting Write of address 43008 at time 17:111000
+Address 43008 in frame 111, writing data to 9 at time 17:111000
+10 Requesting Write of address 43008 at time 17:112000
+Address 43008 in frame 112, writing data to 10 at time 17:112000
+11 Requesting Write of address 43008 at time 17:113000
+Address 43008 in frame 113, writing data to 11 at time 17:113000
+12 Requesting Write of address 43008 at time 17:114000
+Address 43008 in frame 114, writing data to 12 at time 17:114000
+13 Requesting Write of address 43008 at time 17:115000
+Address 43008 in frame 115, writing data to 13 at time 17:115000
+14 Requesting Write of address 43008 at time 17:116000
+Address 43008 in frame 116, writing data to 14 at time 17:116000
+15 Requesting Write of address 43008 at time 17:117000
+Address 43008 in frame 117, writing data to 15 at time 17:117000
+16 Requesting Write of address 43008 at time 17:118000
+Address 43008 in frame 118, writing data to 16 at time 17:118000
+0 Requesting Read of address 64512 at time 17:119000
+1 Requesting Read of address 64512 at time 17:120000
+2 Requesting Read of address 64512 at time 17:121000
+3 Requesting Read of address 64512 at time 17:122000
+4 Requesting Read of address 64512 at time 17:123000
+5 Requesting Read of address 64512 at time 17:124000
+6 Requesting Read of address 64512 at time 17:125000
+7 Requesting Read of address 64512 at time 17:126000
+8 Requesting Read of address 64512 at time 17:127000
+9 Requesting Read of address 64512 at time 17:128000
+10 Requesting Read of address 64512 at time 17:129000
+11 Requesting Read of address 64512 at time 17:130000
+12 Requesting Read of address 64512 at time 17:131000
+13 Requesting Read of address 64512 at time 17:132000
+14 Requesting Read of address 64512 at time 17:133000
+15 Requesting Read of address 64512 at time 17:134000
+16 Requesting Read of address 64512 at time 17:135000
+0 Requesting Write of address 30720 at time 17:136000
+Address 30720 in frame 119, writing data to 0 at time 17:136000
+1 Requesting Write of address 30720 at time 17:137000
+Address 30720 in frame 120, writing data to 1 at time 17:137000
+2 Requesting Write of address 30720 at time 17:138000
+Address 30720 in frame 121, writing data to 2 at time 17:138000
+3 Requesting Write of address 30720 at time 17:139000
+Address 30720 in frame 122, writing data to 3 at time 17:139000
+4 Requesting Write of address 30720 at time 17:140000
+Address 30720 in frame 123, writing data to 4 at time 17:140000
+5 Requesting Write of address 30720 at time 17:141000
+Address 30720 in frame 124, writing data to 5 at time 17:141000
+6 Requesting Write of address 30720 at time 17:142000
+Address 30720 in frame 125, writing data to 6 at time 17:142000
+7 Requesting Write of address 30720 at time 17:143000
+Address 30720 in frame 126, writing data to 7 at time 17:143000
+8 Requesting Write of address 30720 at time 17:144000
+Address 30720 in frame 127, writing data to 8 at time 17:144000
+9 Requesting Write of address 30720 at time 17:145000
+Address 30720 in frame 128, writing data to 9 at time 17:145000
+10 Requesting Write of address 30720 at time 17:146000
+Address 30720 in frame 129, writing data to 10 at time 17:146000
+11 Requesting Write of address 30720 at time 17:147000
+Address 30720 in frame 130, writing data to 11 at time 17:147000
+12 Requesting Write of address 30720 at time 17:148000
+Address 30720 in frame 131, writing data to 12 at time 17:148000
+13 Requesting Write of address 30720 at time 17:149000
+Address 30720 in frame 132, writing data to 13 at time 17:149000
+14 Requesting Write of address 30720 at time 17:150000
+Address 30720 in frame 133, writing data to 14 at time 17:150000
+Memory layout at time 17:150000
+Frame: 10: Page index: 44 |Process_id: 15242|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 11 
+Frame: 11: Page index: 44 |Process_id: 15243|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 12 
+Frame: 12: Page index: 44 |Process_id: 15244|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 13 
+Frame: 13: Page index: 44 |Process_id: 15245|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 14 
+Frame: 14: Page index: 44 |Process_id: 15246|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 15 
+Frame: 15: Page index: 44 |Process_id: 15247|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 16 
+Frame: 16: Page index: 44 |Process_id: 15248|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 17 
+Frame: 17: Page index: 22 |Process_id: 15232|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 18 
+Frame: 18: Page index: 22 |Process_id: 15233|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 19 
+Frame: 19: Page index: 22 |Process_id: 15234|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 20 
+Frame: 20: Page index: 22 |Process_id: 15235|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 21 
+Frame: 21: Page index: 22 |Process_id: 15236|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 22 
+Frame: 22: Page index: 22 |Process_id: 15237|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 23 
+Frame: 23: Page index: 22 |Process_id: 15238|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 24 
+Frame: 24: Page index: 22 |Process_id: 15239|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 25 
+Frame: 25: Page index: 22 |Process_id: 15240|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 26 
+Frame: 26: Page index: 22 |Process_id: 15241|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 27 
+Frame: 27: Page index: 22 |Process_id: 15242|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 28 
+Frame: 28: Page index: 22 |Process_id: 15243|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 29 
+Frame: 29: Page index: 22 |Process_id: 15244|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 30 
+15 Requesting Write of address 30720 at time 17:151000
+Address 30720 in frame 134, writing data to 15 at time 17:151000
+16 Requesting Write of address 30720 at time 17:152000
+Address 30720 in frame 135, writing data to 16 at time 17:152000
+0 Requesting Read of address 31744 at time 17:153000
+Address 31744 in frame 136, giving data to 0 at time 17:153000
+1 Requesting Read of address 31744 at time 17:154000
+Address 31744 in frame 137, giving data to 1 at time 17:154000
+2 Requesting Read of address 31744 at time 17:155000
+Address 31744 in frame 138, giving data to 2 at time 17:155000
+3 Requesting Read of address 31744 at time 17:156000
+Address 31744 in frame 139, giving data to 3 at time 17:156000
+4 Requesting Read of address 31744 at time 17:157000
+Address 31744 in frame 140, giving data to 4 at time 17:157000
+5 Requesting Read of address 31744 at time 17:158000
+Address 31744 in frame 141, giving data to 5 at time 17:158000
+6 Requesting Read of address 31744 at time 17:159000
+Address 31744 in frame 142, giving data to 6 at time 17:159000
+7 Requesting Read of address 31744 at time 17:160000
+Address 31744 in frame 143, giving data to 7 at time 17:160000
+8 Requesting Read of address 31744 at time 17:161000
+Address 31744 in frame 144, giving data to 8 at time 17:161000
+9 Requesting Read of address 31744 at time 17:162000
+Address 31744 in frame 145, giving data to 9 at time 17:162000
+10 Requesting Read of address 31744 at time 17:163000
+Address 31744 in frame 146, giving data to 10 at time 17:163000
+11 Requesting Read of address 31744 at time 17:164000
+Address 31744 in frame 147, giving data to 11 at time 17:164000
+12 Requesting Read of address 31744 at time 17:165000
+Address 31744 in frame 148, giving data to 12 at time 17:165000
+13 Requesting Read of address 31744 at time 17:166000
+Address 31744 in frame 149, giving data to 13 at time 17:166000
+14 Requesting Read of address 31744 at time 17:167000
+Address 31744 in frame 150, giving data to 14 at time 17:167000
+15 Requesting Read of address 31744 at time 17:168000
+Address 31744 in frame 151, giving data to 15 at time 17:168000
+16 Requesting Read of address 31744 at time 17:169000
+Address 31744 in frame 152, giving data to 16 at time 17:169000
+0 Requesting Read of address 3072 at time 17:170000
+Address 3072 in frame 153, giving data to 0 at time 17:170000
+1 Requesting Read of address 3072 at time 17:171000
+Address 3072 in frame 154, giving data to 1 at time 17:171000
+2 Requesting Read of address 3072 at time 17:172000
+Address 3072 in frame 155, giving data to 2 at time 17:172000
+3 Requesting Read of address 3072 at time 17:173000
+Address 3072 in frame 156, giving data to 3 at time 17:173000
+4 Requesting Read of address 3072 at time 17:174000
+Address 3072 in frame 157, giving data to 4 at time 17:174000
+5 Requesting Read of address 3072 at time 17:175000
+Address 3072 in frame 158, giving data to 5 at time 17:175000
+6 Requesting Read of address 3072 at time 17:176000
+Address 3072 in frame 159, giving data to 6 at time 17:176000
+7 Requesting Read of address 3072 at time 17:177000
+Address 3072 in frame 160, giving data to 7 at time 17:177000
+8 Requesting Read of address 3072 at time 17:178000
+Address 3072 in frame 161, giving data to 8 at time 17:178000
+9 Requesting Read of address 3072 at time 17:179000
+Address 3072 in frame 162, giving data to 9 at time 17:179000
+10 Requesting Read of address 3072 at time 17:180000
+Address 3072 in frame 163, giving data to 10 at time 17:180000
+11 Requesting Read of address 3072 at time 17:181000
+Address 3072 in frame 164, giving data to 11 at time 17:181000
+12 Requesting Read of address 3072 at time 17:182000
+Address 3072 in frame 165, giving data to 12 at time 17:182000
+13 Requesting Read of address 3072 at time 17:183000
+Address 3072 in frame 166, giving data to 13 at time 17:183000
+14 Requesting Read of address 3072 at time 17:184000
+Address 3072 in frame 167, giving data to 14 at time 17:184000
+15 Requesting Read of address 3072 at time 17:185000
+Address 3072 in frame 168, giving data to 15 at time 17:185000
+16 Requesting Read of address 3072 at time 17:186000
+Address 3072 in frame 169, giving data to 16 at time 17:186000
+0 Requesting Write of address 60416 at time 17:187000
+Address 60416 in frame 170, writing data to 0 at time 17:187000
+1 Requesting Write of address 60416 at time 17:188000
+Address 60416 in frame 171, writing data to 1 at time 17:188000
+2 Requesting Write of address 60416 at time 17:189000
+Address 60416 in frame 172, writing data to 2 at time 17:189000
+3 Requesting Write of address 60416 at time 17:190000
+Address 60416 in frame 173, writing data to 3 at time 17:190000
+4 Requesting Write of address 60416 at time 17:191000
+Address 60416 in frame 174, writing data to 4 at time 17:191000
+5 Requesting Write of address 60416 at time 17:192000
+Address 60416 in frame 175, writing data to 5 at time 17:192000
+6 Requesting Write of address 60416 at time 17:193000
+Address 60416 in frame 176, writing data to 6 at time 17:193000
+7 Requesting Write of address 60416 at time 17:194000
+Address 60416 in frame 177, writing data to 7 at time 17:194000
+8 Requesting Write of address 60416 at time 17:195000
+Address 60416 in frame 178, writing data to 8 at time 17:195000
+9 Requesting Write of address 60416 at time 17:196000
+Address 60416 in frame 179, writing data to 9 at time 17:196000
+10 Requesting Write of address 60416 at time 17:197000
+Address 60416 in frame 180, writing data to 10 at time 17:197000
+11 Requesting Write of address 60416 at time 17:198000
+Address 60416 in frame 181, writing data to 11 at time 17:198000
+12 Requesting Write of address 60416 at time 17:199000
+Address 60416 in frame 182, writing data to 12 at time 17:199000
+13 Requesting Write of address 60416 at time 17:200000
+Address 60416 in frame 183, writing data to 13 at time 17:200000
+Memory layout at time 17:200000
+Frame: 10: Page index: 44 |Process_id: 15242|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 11 
+Frame: 11: Page index: 44 |Process_id: 15243|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 12 
+Frame: 12: Page index: 44 |Process_id: 15244|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 13 
+Frame: 13: Page index: 44 |Process_id: 15245|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 14 
+Frame: 14: Page index: 44 |Process_id: 15246|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 15 
+Frame: 15: Page index: 44 |Process_id: 15247|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 16 
+Frame: 16: Page index: 44 |Process_id: 15248|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 17 
+Frame: 17: Page index: 22 |Process_id: 15232|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 18 
+Frame: 18: Page index: 22 |Process_id: 15233|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 19 
+Frame: 19: Page index: 22 |Process_id: 15234|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 20 
+Frame: 20: Page index: 22 |Process_id: 15235|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 21 
+Frame: 21: Page index: 22 |Process_id: 15236|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 22 
+Frame: 22: Page index: 22 |Process_id: 15237|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 23 
+Frame: 23: Page index: 22 |Process_id: 15238|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 24 
+Frame: 24: Page index: 22 |Process_id: 15239|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 25 
+Frame: 25: Page index: 22 |Process_id: 15240|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 26 
+Frame: 26: Page index: 22 |Process_id: 15241|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 27 
+Frame: 27: Page index: 22 |Process_id: 15242|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 28 
+Frame: 28: Page index: 22 |Process_id: 15243|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 29 
+Frame: 29: Page index: 22 |Process_id: 15244|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 30 
+14 Requesting Write of address 60416 at time 17:201000
+Address 60416 in frame 184, writing data to 14 at time 17:201000
+15 Requesting Write of address 60416 at time 17:202000
+Address 60416 in frame 185, writing data to 15 at time 17:202000
+16 Requesting Write of address 60416 at time 17:203000
+Address 60416 in frame 186, writing data to 16 at time 17:203000
+0 Requesting Read of address 59392 at time 17:204000
+Address 59392 in frame 187, giving data to 0 at time 17:204000
+1 Requesting Read of address 59392 at time 17:205000
+Address 59392 in frame 188, giving data to 1 at time 17:205000
+2 Requesting Read of address 59392 at time 17:206000
+Address 59392 in frame 189, giving data to 2 at time 17:206000
+3 Requesting Read of address 59392 at time 17:207000
+Address 59392 in frame 190, giving data to 3 at time 17:207000
+4 Requesting Read of address 59392 at time 17:208000
+Address 59392 in frame 191, giving data to 4 at time 17:208000
+5 Requesting Read of address 59392 at time 17:209000
+Address 59392 in frame 192, giving data to 5 at time 17:209000
+6 Requesting Read of address 59392 at time 17:210000
+Address 59392 in frame 193, giving data to 6 at time 17:210000
+7 Requesting Read of address 59392 at time 17:211000
+Address 59392 in frame 194, giving data to 7 at time 17:211000
+8 Requesting Read of address 59392 at time 17:212000
+Address 59392 in frame 195, giving data to 8 at time 17:212000
+9 Requesting Read of address 59392 at time 17:213000
+Address 59392 in frame 196, giving data to 9 at time 17:213000
+10 Requesting Read of address 59392 at time 17:214000
+Address 59392 in frame 197, giving data to 10 at time 17:214000
+11 Requesting Read of address 59392 at time 17:215000
+Address 59392 in frame 198, giving data to 11 at time 17:215000
+12 Requesting Read of address 59392 at time 17:216000
+Address 59392 in frame 199, giving data to 12 at time 17:216000
+13 Requesting Read of address 59392 at time 17:217000
+Address 59392 in frame 200, giving data to 13 at time 17:217000
+14 Requesting Read of address 59392 at time 17:218000
+Address 59392 in frame 201, giving data to 14 at time 17:218000
+15 Requesting Read of address 59392 at time 17:219000
+Address 59392 in frame 202, giving data to 15 at time 17:219000
+16 Requesting Read of address 59392 at time 17:220000
+Address 59392 in frame 203, giving data to 16 at time 17:220000
+0 Requesting Write of address 32768 at time 17:221000
+Address 32768 in frame 204, writing data to 0 at time 17:221000
+1 Requesting Write of address 32768 at time 17:222000
+Address 32768 in frame 205, writing data to 1 at time 17:222000
+2 Requesting Write of address 32768 at time 17:223000
+Address 32768 in frame 206, writing data to 2 at time 17:223000
+3 Requesting Write of address 32768 at time 17:224000
+Address 32768 in frame 207, writing data to 3 at time 17:224000
+4 Requesting Write of address 32768 at time 17:225000
+Address 32768 in frame 208, writing data to 4 at time 17:225000
+5 Requesting Write of address 32768 at time 17:226000
+Address 32768 in frame 209, writing data to 5 at time 17:226000
+6 Requesting Write of address 32768 at time 17:227000
+Address 32768 in frame 210, writing data to 6 at time 17:227000
+7 Requesting Write of address 32768 at time 17:228000
+Address 32768 in frame 211, writing data to 7 at time 17:228000
+8 Requesting Write of address 32768 at time 17:229000
+Address 32768 in frame 212, writing data to 8 at time 17:229000
+9 Requesting Write of address 32768 at time 17:230000
+Address 32768 in frame 213, writing data to 9 at time 17:230000
+10 Requesting Write of address 32768 at time 17:231000
+Address 32768 in frame 214, writing data to 10 at time 17:231000
+11 Requesting Write of address 32768 at time 17:232000
+Address 32768 in frame 215, writing data to 11 at time 17:232000
+12 Requesting Write of address 32768 at time 17:233000
+Address 32768 in frame 216, writing data to 12 at time 17:233000
+13 Requesting Write of address 32768 at time 17:234000
+Address 32768 in frame 217, writing data to 13 at time 17:234000
+14 Requesting Write of address 32768 at time 17:235000
+Address 32768 in frame 218, writing data to 14 at time 17:235000
+15 Requesting Write of address 32768 at time 17:236000
+Address 32768 in frame 219, writing data to 15 at time 17:236000
+16 Requesting Write of address 32768 at time 17:237000
+Address 32768 in frame 220, writing data to 16 at time 17:237000
+0 Requesting Read of address 27648 at time 17:238000
+Address 27648 in frame 221, giving data to 0 at time 17:238000
+1 Requesting Read of address 27648 at time 17:239000
+Address 27648 in frame 222, giving data to 1 at time 17:239000
+2 Requesting Read of address 27648 at time 17:240000
+Address 27648 in frame 223, giving data to 2 at time 17:240000
+3 Requesting Read of address 27648 at time 17:241000
+Address 27648 in frame 224, giving data to 3 at time 17:241000
+4 Requesting Read of address 27648 at time 17:242000
+Address 27648 in frame 225, giving data to 4 at time 17:242000
+5 Requesting Read of address 27648 at time 17:243000
+Address 27648 in frame 226, giving data to 5 at time 17:243000
+6 Requesting Read of address 27648 at time 17:244000
+Address 27648 in frame 227, giving data to 6 at time 17:244000
+7 Requesting Read of address 27648 at time 17:245000
+Address 27648 in frame 228, giving data to 7 at time 17:245000
+8 Requesting Read of address 27648 at time 17:246000
+Address 27648 in frame 229, giving data to 8 at time 17:246000
+9 Requesting Read of address 27648 at time 17:247000
+Address 27648 in frame 230, giving data to 9 at time 17:247000
+10 Requesting Read of address 27648 at time 17:248000
+Address 27648 in frame 231, giving data to 10 at time 17:248000
+11 Requesting Read of address 27648 at time 17:249000
+Address 27648 in frame 232, giving data to 11 at time 17:249000
+12 Requesting Read of address 27648 at time 17:250000
+Address 27648 in frame 233, giving data to 12 at time 17:250000
+Memory layout at time 17:250000
+Frame: 10: Page index: 44 |Process_id: 15242|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 11 
+Frame: 11: Page index: 44 |Process_id: 15243|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 12 
+Frame: 12: Page index: 44 |Process_id: 15244|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 13 
+Frame: 13: Page index: 44 |Process_id: 15245|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 14 
+Frame: 14: Page index: 44 |Process_id: 15246|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 15 
+Frame: 15: Page index: 44 |Process_id: 15247|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 16 
+Frame: 16: Page index: 44 |Process_id: 15248|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 17 
+Frame: 17: Page index: 22 |Process_id: 15232|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 18 
+Frame: 18: Page index: 22 |Process_id: 15233|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 19 
+Frame: 19: Page index: 22 |Process_id: 15234|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 20 
+Frame: 20: Page index: 22 |Process_id: 15235|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 21 
+Frame: 21: Page index: 22 |Process_id: 15236|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 22 
+Frame: 22: Page index: 22 |Process_id: 15237|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 23 
+Frame: 23: Page index: 22 |Process_id: 15238|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 24 
+Frame: 24: Page index: 22 |Process_id: 15239|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 25 
+Frame: 25: Page index: 22 |Process_id: 15240|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 26 
+Frame: 26: Page index: 22 |Process_id: 15241|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 27 
+Frame: 27: Page index: 22 |Process_id: 15242|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 28 
+Frame: 28: Page index: 22 |Process_id: 15243|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 29 
+Frame: 29: Page index: 22 |Process_id: 15244|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 30 
+13 Requesting Read of address 27648 at time 17:251000
+Address 27648 in frame 234, giving data to 13 at time 17:251000
+14 Requesting Read of address 27648 at time 17:252000
+Address 27648 in frame 235, giving data to 14 at time 17:252000
+15 Requesting Read of address 27648 at time 17:253000
+Address 27648 in frame 236, giving data to 15 at time 17:253000
+16 Requesting Read of address 27648 at time 17:254000
+Address 27648 in frame 237, giving data to 16 at time 17:254000
+0 Requesting Write of address 35840 at time 17:255000
+Address 35840 in frame 238, writing data to 0 at time 17:255000
+1 Requesting Write of address 35840 at time 17:256000
+Address 35840 in frame 239, writing data to 1 at time 17:256000
+2 Requesting Write of address 35840 at time 17:257000
+Address 35840 in frame 240, writing data to 2 at time 17:257000
+3 Requesting Write of address 35840 at time 17:258000
+Address 35840 in frame 241, writing data to 3 at time 17:258000
+4 Requesting Write of address 35840 at time 17:259000
+Address 35840 in frame 242, writing data to 4 at time 17:259000
+5 Requesting Write of address 35840 at time 17:260000
+Address 35840 in frame 243, writing data to 5 at time 17:260000
+6 Requesting Write of address 35840 at time 17:261000
+Address 35840 in frame 244, writing data to 6 at time 17:261000
+7 Requesting Write of address 35840 at time 17:262000
+Address 35840 in frame 245, writing data to 7 at time 17:262000
+8 Requesting Write of address 35840 at time 17:263000
+Address 35840 in frame 246, writing data to 8 at time 17:263000
+9 Requesting Write of address 35840 at time 17:264000
+Address 35840 in frame 247, writing data to 9 at time 17:264000
+10 Requesting Write of address 35840 at time 17:265000
+Address 35840 in frame 248, writing data to 10 at time 17:265000
+11 Requesting Write of address 35840 at time 17:266000
+Address 35840 in frame 249, writing data to 11 at time 17:266000
+12 Requesting Write of address 35840 at time 17:267000
+Address 35840 in frame 250, writing data to 12 at time 17:267000
+13 Requesting Write of address 35840 at time 17:268000
+Address 35840 in frame 251, writing data to 13 at time 17:268000
+14 Requesting Write of address 35840 at time 17:269000
+Address 35840 in frame 252, writing data to 14 at time 17:269000
+15 Requesting Write of address 35840 at time 17:270000
+Address 35840 in frame 253, writing data to 15 at time 17:270000
+16 Requesting Write of address 35840 at time 17:271000
+Address 35840 in frame 254, writing data to 16 at time 17:271000
+0 Requesting Read of address 11264 at time 17:272000
+Address 11264 in frame 255, giving data to 0 at time 17:272000
+1 Requesting Read of address 11264 at time 17:273000
+Page fault occurred for process 15233, page 11
+Clearing frame 0 and swapping in process 15232 page 44
+Address 11264 in frame 0, giving data to 1 at time 17:273140
+2 Requesting Read of address 11264 at time 17:274140
+Address 11264 in frame 17, giving data to 2 at time 17:274140
+3 Requesting Read of address 11264 at time 17:275140
+Address 11264 in frame 34, giving data to 3 at time 17:275140
+4 Requesting Read of address 11264 at time 17:276140
+Address 11264 in frame 51, giving data to 4 at time 17:276140
+5 Requesting Read of address 11264 at time 17:277140
+Address 11264 in frame 68, giving data to 5 at time 17:277140
+6 Requesting Read of address 11264 at time 17:278140
+Address 11264 in frame 85, giving data to 6 at time 17:278140
+7 Requesting Read of address 11264 at time 17:279140
+Address 11264 in frame 102, giving data to 7 at time 17:279140
+8 Requesting Read of address 11264 at time 17:280140
+Address 11264 in frame 119, giving data to 8 at time 17:280140
+9 Requesting Read of address 11264 at time 17:281140
+Address 11264 in frame 136, giving data to 9 at time 17:281140
+10 Requesting Read of address 11264 at time 17:282140
+Address 11264 in frame 153, giving data to 10 at time 17:282140
+11 Requesting Read of address 11264 at time 17:283140
+Address 11264 in frame 170, giving data to 11 at time 17:283140
+12 Requesting Read of address 11264 at time 17:284140
+Address 11264 in frame 187, giving data to 12 at time 17:284140
+13 Requesting Read of address 11264 at time 17:285140
+Address 11264 in frame 204, giving data to 13 at time 17:285140
+14 Requesting Read of address 11264 at time 17:286140
+Address 11264 in frame 221, giving data to 14 at time 17:286140
+15 Requesting Read of address 11264 at time 17:287140
+Address 11264 in frame 238, giving data to 15 at time 17:287140
+16 Requesting Read of address 11264 at time 17:288140
+Address 11264 in frame 255, giving data to 16 at time 17:288140
+0 Requesting Read of address 27648 at time 17:289140
+Page fault occurred for process 15232, page 27
+Clearing frame 1 and swapping in process 15233 page 44
+Address 27648 in frame 1, giving data to 0 at time 17:289280
+1 Requesting Read of address 27648 at time 17:290280
+Address 27648 in frame 0, giving data to 1 at time 17:290280
+2 Requesting Read of address 27648 at time 17:291280
+3 Requesting Read of address 27648 at time 17:292280
+4 Requesting Read of address 27648 at time 17:293280
+5 Requesting Read of address 27648 at time 17:294280
+6 Requesting Read of address 27648 at time 17:295280
+7 Requesting Read of address 27648 at time 17:296280
+8 Requesting Read of address 27648 at time 17:297280
+9 Requesting Read of address 27648 at time 17:298280
+10 Requesting Read of address 27648 at time 17:299280
+11 Requesting Read of address 27648 at time 17:300280
+12 Requesting Read of address 27648 at time 17:301280
+13 Requesting Read of address 27648 at time 17:302280
+14 Requesting Read of address 27648 at time 17:303280
+15 Requesting Read of address 27648 at time 17:304280
+16 Requesting Read of address 27648 at time 17:305280
+0 Requesting Read of address 64512 at time 17:306280
+1 Requesting Read of address 64512 at time 17:307280
+2 Requesting Read of address 64512 at time 17:308280
+3 Requesting Read of address 64512 at time 17:309280
+4 Requesting Read of address 64512 at time 17:310280
+5 Requesting Read of address 64512 at time 17:311280
+6 Requesting Read of address 64512 at time 17:312280
+7 Requesting Read of address 64512 at time 17:313280
+8 Requesting Read of address 64512 at time 17:314280
+9 Requesting Read of address 64512 at time 17:315280
+10 Requesting Read of address 64512 at time 17:316280
+11 Requesting Read of address 64512 at time 17:317280
+12 Requesting Read of address 64512 at time 17:318280
+13 Requesting Read of address 64512 at time 17:319280
+14 Requesting Read of address 64512 at time 17:320280
+15 Requesting Read of address 64512 at time 17:321280
+16 Requesting Read of address 64512 at time 17:322280
+0 Requesting Read of address 7168 at time 17:323280
+Address 7168 in frame 18, giving data to 0 at time 17:323280
+1 Requesting Read of address 7168 at time 17:324280
+Address 7168 in frame 35, giving data to 1 at time 17:324280
+2 Requesting Read of address 7168 at time 17:325280
+Address 7168 in frame 52, giving data to 2 at time 17:325280
+3 Requesting Read of address 7168 at time 17:326280
+Address 7168 in frame 69, giving data to 3 at time 17:326280
+4 Requesting Read of address 7168 at time 17:327280
+Address 7168 in frame 86, giving data to 4 at time 17:327280
+5 Requesting Read of address 7168 at time 17:328280
+Address 7168 in frame 103, giving data to 5 at time 17:328280
+6 Requesting Read of address 7168 at time 17:329280
+Address 7168 in frame 120, giving data to 6 at time 17:329280
+7 Requesting Read of address 7168 at time 17:330280
+Address 7168 in frame 137, giving data to 7 at time 17:330280
+8 Requesting Read of address 7168 at time 17:331280
+Address 7168 in frame 154, giving data to 8 at time 17:331280
+9 Requesting Read of address 7168 at time 17:332280
+Address 7168 in frame 171, giving data to 9 at time 17:332280
+10 Requesting Read of address 7168 at time 17:333280
+Address 7168 in frame 188, giving data to 10 at time 17:333280
+11 Requesting Read of address 7168 at time 17:334280
+Address 7168 in frame 205, giving data to 11 at time 17:334280
+12 Requesting Read of address 7168 at time 17:335280
+Address 7168 in frame 222, giving data to 12 at time 17:335280
+13 Requesting Read of address 7168 at time 17:336280
+Address 7168 in frame 239, giving data to 13 at time 17:336280
+14 Requesting Read of address 7168 at time 17:337280
+Page fault occurred for process 15246, page 7
+Clearing frame 2 and swapping in process 15234 page 44
+Address 7168 in frame 2, giving data to 14 at time 17:337420
+15 Requesting Read of address 7168 at time 17:338420
+Address 7168 in frame 17, giving data to 15 at time 17:338420
+16 Requesting Read of address 7168 at time 17:339420
+Address 7168 in frame 19, giving data to 16 at time 17:339420
+0 Requesting Read of address 35840 at time 17:340420
+Address 35840 in frame 36, giving data to 0 at time 17:340420
+1 Requesting Read of address 35840 at time 17:341420
+Address 35840 in frame 52, giving data to 1 at time 17:341420
+2 Requesting Read of address 35840 at time 17:342420
+Address 35840 in frame 53, giving data to 2 at time 17:342420
+3 Requesting Read of address 35840 at time 17:343420
+4 Requesting Read of address 35840 at time 17:344420
+5 Requesting Read of address 35840 at time 17:345420
+6 Requesting Read of address 35840 at time 17:346420
+7 Requesting Read of address 35840 at time 17:347420
+8 Requesting Read of address 35840 at time 17:348420
+9 Requesting Read of address 35840 at time 17:349420
+10 Requesting Read of address 35840 at time 17:350420
+11 Requesting Read of address 35840 at time 17:351420
+12 Requesting Read of address 35840 at time 17:352420
+13 Requesting Read of address 35840 at time 17:353420
+14 Requesting Read of address 35840 at time 17:354420
+15 Requesting Read of address 35840 at time 17:355420
+16 Requesting Read of address 35840 at time 17:356420
+0 Requesting Read of address 21504 at time 17:357420
+Address 21504 in frame 70, giving data to 0 at time 17:357420
+1 Requesting Read of address 21504 at time 17:358420
+Address 21504 in frame 87, giving data to 1 at time 17:358420
+2 Requesting Read of address 21504 at time 17:359420
+Address 21504 in frame 104, giving data to 2 at time 17:359420
+3 Requesting Read of address 21504 at time 17:360420
+Address 21504 in frame 121, giving data to 3 at time 17:360420
+4 Requesting Read of address 21504 at time 17:361420
+Address 21504 in frame 138, giving data to 4 at time 17:361420
+5 Requesting Read of address 21504 at time 17:362420
+Address 21504 in frame 155, giving data to 5 at time 17:362420
+6 Requesting Read of address 21504 at time 17:363420
+Address 21504 in frame 172, giving data to 6 at time 17:363420
+7 Requesting Read of address 21504 at time 17:364420
+Address 21504 in frame 189, giving data to 7 at time 17:364420
+8 Requesting Read of address 21504 at time 17:365420
+Address 21504 in frame 206, giving data to 8 at time 17:365420
+9 Requesting Read of address 21504 at time 17:366420
+Address 21504 in frame 223, giving data to 9 at time 17:366420
+10 Requesting Read of address 21504 at time 17:367420
+Address 21504 in frame 240, giving data to 10 at time 17:367420
+11 Requesting Read of address 21504 at time 17:368420
+Page fault occurred for process 15243, page 21
+Clearing frame 0 and swapping in process 15233 page 27
+Address 21504 in frame 0, giving data to 11 at time 17:368560
+12 Requesting Read of address 21504 at time 17:369560
+Address 21504 in frame 35, giving data to 12 at time 17:369560
+13 Requesting Read of address 21504 at time 17:370560
+Address 21504 in frame 52, giving data to 13 at time 17:370560
+14 Requesting Read of address 21504 at time 17:371560
+Address 21504 in frame 87, giving data to 14 at time 17:371560
+15 Requesting Read of address 21504 at time 17:372560
+Page fault occurred for process 15247, page 21
+Clearing frame 1 and swapping in process 15232 page 27
+Address 21504 in frame 1, giving data to 15 at time 17:372700
+16 Requesting Read of address 21504 at time 17:373700
+Address 21504 in frame 18, giving data to 16 at time 17:373700
+0 Requesting Read of address 52224 at time 17:374700
+Address 52224 in frame 36, giving data to 0 at time 17:374700
+1 Requesting Read of address 52224 at time 17:375700
+Address 52224 in frame 70, giving data to 1 at time 17:375700
+2 Requesting Read of address 52224 at time 17:376700
+Page fault occurred for process 15234, page 52
+Clearing frame 0 and swapping in process 15243 page 21
+Address 52224 in frame 0, giving data to 2 at time 17:376840
+3 Requesting Read of address 52224 at time 17:377840
+Address 52224 in frame 11, giving data to 3 at time 17:377840
+4 Requesting Read of address 52224 at time 17:378840
+Address 52224 in frame 28, giving data to 4 at time 17:378840
+5 Requesting Read of address 52224 at time 17:379840
+Address 52224 in frame 45, giving data to 5 at time 17:379840
+6 Requesting Read of address 52224 at time 17:380840
+Address 52224 in frame 62, giving data to 6 at time 17:380840
+7 Requesting Read of address 52224 at time 17:381840
+Address 52224 in frame 79, giving data to 7 at time 17:381840
+8 Requesting Read of address 52224 at time 17:382840
+Address 52224 in frame 96, giving data to 8 at time 17:382840
+9 Requesting Read of address 52224 at time 17:383840
+Address 52224 in frame 113, giving data to 9 at time 17:383840
+10 Requesting Read of address 52224 at time 17:384840
+Address 52224 in frame 130, giving data to 10 at time 17:384840
+11 Requesting Read of address 52224 at time 17:385840
+Address 52224 in frame 147, giving data to 11 at time 17:385840
+12 Requesting Read of address 52224 at time 17:386840
+Address 52224 in frame 164, giving data to 12 at time 17:386840
+13 Requesting Read of address 52224 at time 17:387840
+Address 52224 in frame 170, giving data to 13 at time 17:387840
+14 Requesting Read of address 52224 at time 17:388840
+Address 52224 in frame 181, giving data to 14 at time 17:388840
+15 Requesting Read of address 52224 at time 17:389840
+Address 52224 in frame 198, giving data to 15 at time 17:389840
+16 Requesting Read of address 52224 at time 17:390840
+Address 52224 in frame 205, giving data to 16 at time 17:390840
+0 Requesting Read of address 3072 at time 17:391840
+Address 3072 in frame 215, giving data to 0 at time 17:391840
+1 Requesting Read of address 3072 at time 17:392840
+Address 3072 in frame 232, giving data to 1 at time 17:392840
+2 Requesting Read of address 3072 at time 17:393840
+Address 3072 in frame 249, giving data to 2 at time 17:393840
+3 Requesting Read of address 3072 at time 17:394840
+4 Requesting Read of address 3072 at time 17:395840
+5 Requesting Read of address 3072 at time 17:396840
+6 Requesting Read of address 3072 at time 17:397840
+7 Requesting Read of address 3072 at time 17:398840
+8 Requesting Read of address 3072 at time 17:399840
+9 Requesting Read of address 3072 at time 17:400840
+10 Requesting Read of address 3072 at time 17:401840
+11 Requesting Read of address 3072 at time 17:402840
+Page fault occurred for process 15243, page 3
+Clearing frame 3 and swapping in process 15235 page 44
+Address 3072 in frame 3, giving data to 11 at time 17:402980
+12 Requesting Read of address 3072 at time 17:403980
+13 Requesting Read of address 3072 at time 17:404980
+14 Requesting Read of address 3072 at time 17:405980
+15 Requesting Read of address 3072 at time 17:406980
+16 Requesting Read of address 3072 at time 17:407980
+0 Requesting Read of address 58368 at time 17:408980
+Address 58368 in frame 11, giving data to 0 at time 17:408980
+1 Requesting Read of address 58368 at time 17:409980
+Address 58368 in frame 20, giving data to 1 at time 17:409980
+2 Requesting Read of address 58368 at time 17:410980
+Address 58368 in frame 34, giving data to 2 at time 17:410980
+3 Requesting Read of address 58368 at time 17:411980
+Address 58368 in frame 37, giving data to 3 at time 17:411980
+4 Requesting Read of address 58368 at time 17:412980
+Address 58368 in frame 54, giving data to 4 at time 17:412980
+5 Requesting Read of address 58368 at time 17:413980
+Address 58368 in frame 69, giving data to 5 at time 17:413980
+6 Requesting Read of address 58368 at time 17:414980
+Address 58368 in frame 71, giving data to 6 at time 17:414980
+7 Requesting Read of address 58368 at time 17:415980
+Address 58368 in frame 88, giving data to 7 at time 17:415980
+8 Requesting Read of address 58368 at time 17:416980
+Address 58368 in frame 105, giving data to 8 at time 17:416980
+9 Requesting Read of address 58368 at time 17:417980
+Address 58368 in frame 121, giving data to 9 at time 17:417980
+10 Requesting Read of address 58368 at time 17:418980
+Address 58368 in frame 122, giving data to 10 at time 17:418980
+11 Requesting Read of address 58368 at time 17:419980
+Address 58368 in frame 139, giving data to 11 at time 17:419980
+12 Requesting Read of address 58368 at time 17:420980
+Address 58368 in frame 156, giving data to 12 at time 17:420980
+13 Requesting Read of address 58368 at time 17:421980
+Address 58368 in frame 173, giving data to 13 at time 17:421980
+14 Requesting Read of address 58368 at time 17:422980
+Address 58368 in frame 190, giving data to 14 at time 17:422980
+15 Requesting Read of address 58368 at time 17:423980
+Address 58368 in frame 207, giving data to 15 at time 17:423980
+16 Requesting Read of address 58368 at time 17:424980
+Address 58368 in frame 224, giving data to 16 at time 17:424980
+0 Requesting Read of address 34816 at time 17:425980
+Address 34816 in frame 241, giving data to 0 at time 17:425980
+1 Requesting Read of address 34816 at time 17:426980
+Page fault occurred for process 15233, page 34
+Clearing frame 0 and swapping in process 15234 page 52
+Address 34816 in frame 0, giving data to 1 at time 17:427120
+2 Requesting Read of address 34816 at time 17:428120
+Address 34816 in frame 34, giving data to 2 at time 17:428120
+3 Requesting Read of address 34816 at time 17:429120
+Address 34816 in frame 53, giving data to 3 at time 17:429120
+4 Requesting Read of address 34816 at time 17:430120
+Address 34816 in frame 104, giving data to 4 at time 17:430120
+5 Requesting Read of address 34816 at time 17:431120
+Address 34816 in frame 249, giving data to 5 at time 17:431120
+6 Requesting Read of address 34816 at time 17:432120
+Page fault occurred for process 15238, page 34
+Clearing frame 1 and swapping in process 15247 page 21
+Address 34816 in frame 1, giving data to 6 at time 17:432260
+7 Requesting Read of address 34816 at time 17:433260
+Address 34816 in frame 15, giving data to 7 at time 17:433260
+8 Requesting Read of address 34816 at time 17:434260
+Address 34816 in frame 17, giving data to 8 at time 17:434260
+9 Requesting Read of address 34816 at time 17:435260
+Address 34816 in frame 32, giving data to 9 at time 17:435260
+10 Requesting Read of address 34816 at time 17:436260
+Address 34816 in frame 49, giving data to 10 at time 17:436260
+11 Requesting Read of address 34816 at time 17:437260
+Address 34816 in frame 66, giving data to 11 at time 17:437260
+12 Requesting Read of address 34816 at time 17:438260
+Address 34816 in frame 83, giving data to 12 at time 17:438260
+13 Requesting Read of address 34816 at time 17:439260
+Address 34816 in frame 100, giving data to 13 at time 17:439260
+14 Requesting Read of address 34816 at time 17:440260
+Address 34816 in frame 117, giving data to 14 at time 17:440260
+15 Requesting Read of address 34816 at time 17:441260
+Address 34816 in frame 134, giving data to 15 at time 17:441260
+16 Requesting Read of address 34816 at time 17:442260
+Address 34816 in frame 151, giving data to 16 at time 17:442260
+0 Requesting Read of address 27648 at time 17:443260
+Address 27648 in frame 168, giving data to 0 at time 17:443260
+1 Requesting Read of address 27648 at time 17:444260
+Address 27648 in frame 185, giving data to 1 at time 17:444260
+2 Requesting Read of address 27648 at time 17:445260
+Address 27648 in frame 198, giving data to 2 at time 17:445260
+3 Requesting Read of address 27648 at time 17:446260
+Address 27648 in frame 202, giving data to 3 at time 17:446260
+4 Requesting Read of address 27648 at time 17:447260
+5 Requesting Read of address 27648 at time 17:448260
+6 Requesting Read of address 27648 at time 17:449260
+7 Requesting Read of address 27648 at time 17:450260
+8 Requesting Read of address 27648 at time 17:451260
+9 Requesting Read of address 27648 at time 17:452260
+10 Requesting Read of address 27648 at time 17:453260
+11 Requesting Read of address 27648 at time 17:454260
+Address 27648 in frame 207, giving data to 11 at time 17:454260
+12 Requesting Read of address 27648 at time 17:455260
+13 Requesting Read of address 27648 at time 17:456260
+14 Requesting Read of address 27648 at time 17:457260
+15 Requesting Read of address 27648 at time 17:458260
+Address 27648 in frame 219, giving data to 15 at time 17:458260
+16 Requesting Read of address 27648 at time 17:459260
+0 Requesting Read of address 26624 at time 17:460260
+Address 26624 in frame 236, giving data to 0 at time 17:460260
+1 Requesting Read of address 26624 at time 17:461260
+Address 26624 in frame 238, giving data to 1 at time 17:461260
+2 Requesting Read of address 26624 at time 17:462260
+Address 26624 in frame 253, giving data to 2 at time 17:462260
+3 Requesting Read of address 26624 at time 17:463260
+Page fault occurred for process 15235, page 26
+Clearing frame 0 and swapping in process 15233 page 34
+Address 26624 in frame 0, giving data to 3 at time 17:463400
+4 Requesting Read of address 26624 at time 17:464400
+Address 26624 in frame 20, giving data to 4 at time 17:464400
+5 Requesting Read of address 26624 at time 17:465400
+Address 26624 in frame 70, giving data to 5 at time 17:465400
+6 Requesting Read of address 26624 at time 17:466400
+Address 26624 in frame 185, giving data to 6 at time 17:466400
+7 Requesting Read of address 26624 at time 17:467400
+Address 26624 in frame 232, giving data to 7 at time 17:467400
+8 Requesting Read of address 26624 at time 17:468400
+Address 26624 in frame 238, giving data to 8 at time 17:468400
+9 Requesting Read of address 26624 at time 17:469400
+Page fault occurred for process 15241, page 26
+Clearing frame 2 and swapping in process 15246 page 7
+Address 26624 in frame 2, giving data to 9 at time 17:469540
+10 Requesting Read of address 26624 at time 17:470540
+Address 26624 in frame 14, giving data to 10 at time 17:470540
+11 Requesting Read of address 26624 at time 17:471540
+Address 26624 in frame 31, giving data to 11 at time 17:471540
+12 Requesting Read of address 26624 at time 17:472540
+Address 26624 in frame 48, giving data to 12 at time 17:472540
+13 Requesting Read of address 26624 at time 17:473540
+Address 26624 in frame 65, giving data to 13 at time 17:473540
+14 Requesting Read of address 26624 at time 17:474540
+Address 26624 in frame 82, giving data to 14 at time 17:474540
+15 Requesting Read of address 26624 at time 17:475540
+Address 26624 in frame 87, giving data to 15 at time 17:475540
+16 Requesting Read of address 26624 at time 17:476540
+Address 26624 in frame 99, giving data to 16 at time 17:476540
+0 Requesting Read of address 37888 at time 17:477540
+Address 37888 in frame 116, giving data to 0 at time 17:477540
+1 Requesting Read of address 37888 at time 17:478540
+Address 37888 in frame 117, giving data to 1 at time 17:478540
+2 Requesting Read of address 37888 at time 17:479540
+Address 37888 in frame 133, giving data to 2 at time 17:479540
+3 Requesting Read of address 37888 at time 17:480540
+Address 37888 in frame 150, giving data to 3 at time 17:480540
+4 Requesting Read of address 37888 at time 17:481540
+5 Requesting Read of address 37888 at time 17:482540
+6 Requesting Read of address 37888 at time 17:483540
+7 Requesting Read of address 37888 at time 17:484540
+8 Requesting Read of address 37888 at time 17:485540
+9 Requesting Read of address 37888 at time 17:486540
+10 Requesting Read of address 37888 at time 17:487540
+11 Requesting Read of address 37888 at time 17:488540
+Address 37888 in frame 167, giving data to 11 at time 17:488540
+12 Requesting Read of address 37888 at time 17:489540
+13 Requesting Read of address 37888 at time 17:490540
+14 Requesting Read of address 37888 at time 17:491540
+Address 37888 in frame 181, giving data to 14 at time 17:491540
+15 Requesting Read of address 37888 at time 17:492540
+Address 37888 in frame 184, giving data to 15 at time 17:492540
+16 Requesting Read of address 37888 at time 17:493540
+0 Requesting Read of address 59392 at time 17:494540
+Address 59392 in frame 190, giving data to 0 at time 17:494540
+1 Requesting Read of address 59392 at time 17:495540
+Address 59392 in frame 201, giving data to 1 at time 17:495540
+2 Requesting Read of address 59392 at time 17:496540
+Address 59392 in frame 218, giving data to 2 at time 17:496540
+3 Requesting Read of address 59392 at time 17:497540
+Address 59392 in frame 221, giving data to 3 at time 17:497540
+4 Requesting Read of address 59392 at time 17:498540
+5 Requesting Read of address 59392 at time 17:499540
+6 Requesting Read of address 59392 at time 17:500540
+7 Requesting Read of address 59392 at time 17:501540
+8 Requesting Read of address 59392 at time 17:502540
+9 Requesting Read of address 59392 at time 17:503540
+10 Requesting Read of address 59392 at time 17:504540
+11 Requesting Read of address 59392 at time 17:505540
+Address 59392 in frame 235, giving data to 11 at time 17:505540
+12 Requesting Read of address 59392 at time 17:506540
+13 Requesting Read of address 59392 at time 17:507540
+14 Requesting Read of address 59392 at time 17:508540
+Address 59392 in frame 252, giving data to 14 at time 17:508540
+15 Requesting Read of address 59392 at time 17:509540
+Page fault occurred for process 15247, page 59
+Clearing frame 0 and swapping in process 15235 page 26
+Address 59392 in frame 0, giving data to 15 at time 17:509680
+16 Requesting Read of address 59392 at time 17:510680
+0 Requesting Write of address 3072 at time 17:511680
+1 Requesting Write of address 3072 at time 17:512680
+Address 3072 in frame 37, writing data to 1 at time 17:512680
+2 Requesting Write of address 3072 at time 17:513680
+Address 3072 in frame 53, writing data to 2 at time 17:513680
+3 Requesting Write of address 3072 at time 17:514680
+Address 3072 in frame 150, writing data to 3 at time 17:514680
+4 Requesting Write of address 3072 at time 17:515680
+5 Requesting Write of address 3072 at time 17:516680
+6 Requesting Write of address 3072 at time 17:517680
+7 Requesting Write of address 3072 at time 17:518680
+8 Requesting Write of address 3072 at time 17:519680
+9 Requesting Write of address 3072 at time 17:520680
+10 Requesting Write of address 3072 at time 17:521680
+11 Requesting Write of address 3072 at time 17:522680
+12 Requesting Write of address 3072 at time 17:523680
+13 Requesting Write of address 3072 at time 17:524680
+14 Requesting Write of address 3072 at time 17:525680
+Address 3072 in frame 202, writing data to 14 at time 17:525680
+15 Requesting Write of address 3072 at time 17:526680
+Address 3072 in frame 221, writing data to 15 at time 17:526680
+16 Requesting Write of address 3072 at time 17:527680
+0 Requesting Write of address 47104 at time 17:528680
+Page fault occurred for process 15232, page 47
+Clearing frame 1 and swapping in process 15238 page 34
+Address 47104 in frame 1, writing data to 0 at time 17:528820
+1 Requesting Write of address 47104 at time 17:529820
+Address 47104 in frame 6, writing data to 1 at time 17:529820
+2 Requesting Write of address 47104 at time 17:530820
+Address 47104 in frame 23, writing data to 2 at time 17:530820
+3 Requesting Write of address 47104 at time 17:531820
+Address 47104 in frame 40, writing data to 3 at time 17:531820
+4 Requesting Write of address 47104 at time 17:532820
+Address 47104 in frame 57, writing data to 4 at time 17:532820
+5 Requesting Write of address 47104 at time 17:533820
+Address 47104 in frame 62, writing data to 5 at time 17:533820
+6 Requesting Write of address 47104 at time 17:534820
+Address 47104 in frame 71, writing data to 6 at time 17:534820
+7 Requesting Write of address 47104 at time 17:535820
+Address 47104 in frame 74, writing data to 7 at time 17:535820
+8 Requesting Write of address 47104 at time 17:536820
+Address 47104 in frame 85, writing data to 8 at time 17:536820
+9 Requesting Write of address 47104 at time 17:537820
+Address 47104 in frame 91, writing data to 9 at time 17:537820
+10 Requesting Write of address 47104 at time 17:538820
+Address 47104 in frame 108, writing data to 10 at time 17:538820
+11 Requesting Write of address 47104 at time 17:539820
+Address 47104 in frame 120, writing data to 11 at time 17:539820
+12 Requesting Write of address 47104 at time 17:540820
+Address 47104 in frame 125, writing data to 12 at time 17:540820
+13 Requesting Write of address 47104 at time 17:541820
+Address 47104 in frame 142, writing data to 13 at time 17:541820
+14 Requesting Write of address 47104 at time 17:542820
+Address 47104 in frame 159, writing data to 14 at time 17:542820
+15 Requesting Write of address 47104 at time 17:543820
+Address 47104 in frame 172, writing data to 15 at time 17:543820
+16 Requesting Write of address 47104 at time 17:544820
+Address 47104 in frame 176, writing data to 16 at time 17:544820
+0 Requesting Read of address 16384 at time 17:545820
+Address 16384 in frame 185, giving data to 0 at time 17:545820
+1 Requesting Read of address 16384 at time 17:546820
+Address 16384 in frame 193, giving data to 1 at time 17:546820
+2 Requesting Read of address 16384 at time 17:547820
+Address 16384 in frame 210, giving data to 2 at time 17:547820
+3 Requesting Read of address 16384 at time 17:548820
+Address 16384 in frame 227, giving data to 3 at time 17:548820
+4 Requesting Read of address 16384 at time 17:549820
+Address 16384 in frame 244, giving data to 4 at time 17:549820
+5 Requesting Read of address 16384 at time 17:550820
+Page fault occurred for process 15237, page 16
+Clearing frame 0 and swapping in process 15247 page 59
+Address 16384 in frame 0, giving data to 5 at time 17:550960
+6 Requesting Read of address 16384 at time 17:551960
+Address 16384 in frame 87, giving data to 6 at time 17:551960
+7 Requesting Read of address 16384 at time 17:552960
+Address 16384 in frame 134, giving data to 7 at time 17:552960
+8 Requesting Read of address 16384 at time 17:553960
+Address 16384 in frame 172, giving data to 8 at time 17:553960
+9 Requesting Read of address 16384 at time 17:554960
+Address 16384 in frame 184, giving data to 9 at time 17:554960
+10 Requesting Read of address 16384 at time 17:555960
+Address 16384 in frame 219, giving data to 10 at time 17:555960
+11 Requesting Read of address 16384 at time 17:556960
+Address 16384 in frame 221, giving data to 11 at time 17:556960
+12 Requesting Read of address 16384 at time 17:557960
+Page fault occurred for process 15244, page 16
+Clearing frame 4 and swapping in process 15236 page 44
+Address 16384 in frame 4, giving data to 12 at time 17:558100
+13 Requesting Read of address 16384 at time 17:559100
+Address 16384 in frame 20, giving data to 13 at time 17:559100
+14 Requesting Read of address 16384 at time 17:560100
+Address 16384 in frame 21, giving data to 14 at time 17:560100
+15 Requesting Read of address 16384 at time 17:561100
+Address 16384 in frame 28, giving data to 15 at time 17:561100
+16 Requesting Read of address 16384 at time 17:562100
+Address 16384 in frame 38, giving data to 16 at time 17:562100
+0 Requesting Read of address 15360 at time 17:563100
+Address 15360 in frame 51, giving data to 0 at time 17:563100
+1 Requesting Read of address 15360 at time 17:564100
+Address 15360 in frame 54, giving data to 1 at time 17:564100
+2 Requesting Read of address 15360 at time 17:565100
+Address 15360 in frame 55, giving data to 2 at time 17:565100
+3 Requesting Read of address 15360 at time 17:566100
+Address 15360 in frame 57, giving data to 3 at time 17:566100
+4 Requesting Read of address 15360 at time 17:567100
+Address 15360 in frame 72, giving data to 4 at time 17:567100
+5 Requesting Read of address 15360 at time 17:568100
+Address 15360 in frame 86, giving data to 5 at time 17:568100
+6 Requesting Read of address 15360 at time 17:569100
+Address 15360 in frame 89, giving data to 6 at time 17:569100
+7 Requesting Read of address 15360 at time 17:570100
+Address 15360 in frame 104, giving data to 7 at time 17:570100
+8 Requesting Read of address 15360 at time 17:571100
+Address 15360 in frame 106, giving data to 8 at time 17:571100
+9 Requesting Read of address 15360 at time 17:572100
+Address 15360 in frame 123, giving data to 9 at time 17:572100
+10 Requesting Read of address 15360 at time 17:573100
+Address 15360 in frame 138, giving data to 10 at time 17:573100
+11 Requesting Read of address 15360 at time 17:574100
+Address 15360 in frame 140, giving data to 11 at time 17:574100
+12 Requesting Read of address 15360 at time 17:575100
+Address 15360 in frame 157, giving data to 12 at time 17:575100
+13 Requesting Read of address 15360 at time 17:576100
+Address 15360 in frame 174, giving data to 13 at time 17:576100
+14 Requesting Read of address 15360 at time 17:577100
+Address 15360 in frame 191, giving data to 14 at time 17:577100
+15 Requesting Read of address 15360 at time 17:578100
+Address 15360 in frame 208, giving data to 15 at time 17:578100
+16 Requesting Read of address 15360 at time 17:579100
+Address 15360 in frame 225, giving data to 16 at time 17:579100
+0 Requesting Read of address 9216 at time 17:580100
+Address 9216 in frame 242, giving data to 0 at time 17:580100
+1 Requesting Read of address 9216 at time 17:581100
+Address 9216 in frame 244, giving data to 1 at time 17:581100
+2 Requesting Read of address 9216 at time 17:582100
+Page fault occurred for process 15234, page 9
+Clearing frame 0 and swapping in process 15237 page 16
+Address 9216 in frame 0, giving data to 2 at time 17:582240
+3 Requesting Read of address 9216 at time 17:583240
+Address 9216 in frame 5, giving data to 3 at time 17:583240
+4 Requesting Read of address 9216 at time 17:584240
+Address 9216 in frame 22, giving data to 4 at time 17:584240
+5 Requesting Read of address 9216 at time 17:585240
+Address 9216 in frame 39, giving data to 5 at time 17:585240
+6 Requesting Read of address 9216 at time 17:586240
+Address 9216 in frame 45, giving data to 6 at time 17:586240
+7 Requesting Read of address 9216 at time 17:587240
+8 Requesting Read of address 9216 at time 17:588240
+9 Requesting Read of address 9216 at time 17:589240
+10 Requesting Read of address 9216 at time 17:590240
+11 Requesting Read of address 9216 at time 17:591240
+Address 9216 in frame 56, giving data to 11 at time 17:591240
+12 Requesting Read of address 9216 at time 17:592240
+13 Requesting Read of address 9216 at time 17:593240
+14 Requesting Read of address 9216 at time 17:594240
+Address 9216 in frame 62, giving data to 14 at time 17:594240
+15 Requesting Read of address 9216 at time 17:595240
+Address 9216 in frame 68, giving data to 15 at time 17:595240
+16 Requesting Read of address 9216 at time 17:596240
+0 Requesting Read of address 7168 at time 17:597240
+Address 7168 in frame 69, giving data to 0 at time 17:597240
+1 Requesting Read of address 7168 at time 17:598240
+Address 7168 in frame 70, giving data to 1 at time 17:598240
+2 Requesting Read of address 7168 at time 17:599240
+Address 7168 in frame 73, giving data to 2 at time 17:599240
+3 Requesting Read of address 7168 at time 17:600240
+Address 7168 in frame 86, giving data to 3 at time 17:600240
+4 Requesting Read of address 7168 at time 17:601240
+Address 7168 in frame 90, giving data to 4 at time 17:601240
+5 Requesting Read of address 7168 at time 17:602240
+Address 7168 in frame 103, giving data to 5 at time 17:602240
+6 Requesting Read of address 7168 at time 17:603240
+Address 7168 in frame 107, giving data to 6 at time 17:603240
+7 Requesting Read of address 7168 at time 17:604240
+8 Requesting Read of address 7168 at time 17:605240
+9 Requesting Read of address 7168 at time 17:606240
+10 Requesting Read of address 7168 at time 17:607240
+11 Requesting Read of address 7168 at time 17:608240
+Address 7168 in frame 124, giving data to 11 at time 17:608240
+12 Requesting Read of address 7168 at time 17:609240
+13 Requesting Read of address 7168 at time 17:610240
+14 Requesting Read of address 7168 at time 17:611240
+Address 7168 in frame 141, giving data to 14 at time 17:611240
+15 Requesting Read of address 7168 at time 17:612240
+Address 7168 in frame 155, giving data to 15 at time 17:612240
+16 Requesting Read of address 7168 at time 17:613240
+0 Requesting Read of address 7168 at time 17:614240
+1 Requesting Read of address 7168 at time 17:615240
+2 Requesting Read of address 7168 at time 17:616240
+3 Requesting Read of address 7168 at time 17:617240
+4 Requesting Read of address 7168 at time 17:618240
+5 Requesting Read of address 7168 at time 17:619240
+6 Requesting Read of address 7168 at time 17:620240
+7 Requesting Read of address 7168 at time 17:621240
+8 Requesting Read of address 7168 at time 17:622240
+9 Requesting Read of address 7168 at time 17:623240
+10 Requesting Read of address 7168 at time 17:624240
+11 Requesting Read of address 7168 at time 17:625240
+12 Requesting Read of address 7168 at time 17:626240
+13 Requesting Read of address 7168 at time 17:627240
+14 Requesting Read of address 7168 at time 17:628240
+15 Requesting Read of address 7168 at time 17:629240
+16 Requesting Read of address 7168 at time 17:630240
+0 Requesting Read of address 50176 at time 17:631240
+Address 50176 in frame 158, giving data to 0 at time 17:631240
+1 Requesting Read of address 50176 at time 17:632240
+Address 50176 in frame 175, giving data to 1 at time 17:632240
+2 Requesting Read of address 50176 at time 17:633240
+Address 50176 in frame 192, giving data to 2 at time 17:633240
+3 Requesting Read of address 50176 at time 17:634240
+Address 50176 in frame 209, giving data to 3 at time 17:634240
+4 Requesting Read of address 50176 at time 17:635240
+Address 50176 in frame 226, giving data to 4 at time 17:635240
+5 Requesting Read of address 50176 at time 17:636240
+Address 50176 in frame 243, giving data to 5 at time 17:636240
+6 Requesting Read of address 50176 at time 17:637240
+Address 50176 in frame 249, giving data to 6 at time 17:637240
+7 Requesting Read of address 50176 at time 17:638240
+Page fault occurred for process 15239, page 50
+Clearing frame 1 and swapping in process 15232 page 47
+Frame 1 dirty bit was set, adding time to clock
+Address 50176 in frame 1, giving data to 7 at time 17:638520
+8 Requesting Read of address 50176 at time 17:639520
+Address 50176 in frame 11, giving data to 8 at time 17:639520
+9 Requesting Read of address 50176 at time 17:640520
+Address 50176 in frame 36, giving data to 9 at time 17:640520
+10 Requesting Read of address 50176 at time 17:641520
+Address 50176 in frame 51, giving data to 10 at time 17:641520
+11 Requesting Read of address 50176 at time 17:642520
+Address 50176 in frame 69, giving data to 11 at time 17:642520
+12 Requesting Read of address 50176 at time 17:643520
+Address 50176 in frame 116, giving data to 12 at time 17:643520
+13 Requesting Read of address 50176 at time 17:644520
+Address 50176 in frame 158, giving data to 13 at time 17:644520
+14 Requesting Read of address 50176 at time 17:645520
+Address 50176 in frame 168, giving data to 14 at time 17:645520
+15 Requesting Read of address 50176 at time 17:646520
+Address 50176 in frame 185, giving data to 15 at time 17:646520
+16 Requesting Read of address 50176 at time 17:647520
+Address 50176 in frame 190, giving data to 16 at time 17:647520
+0 Requesting Read of address 8192 at time 17:648520
+Address 8192 in frame 215, giving data to 0 at time 17:648520
+1 Requesting Read of address 8192 at time 17:649520
+Address 8192 in frame 236, giving data to 1 at time 17:649520
+2 Requesting Read of address 8192 at time 17:650520
+Address 8192 in frame 241, giving data to 2 at time 17:650520
+3 Requesting Read of address 8192 at time 17:651520
+Address 8192 in frame 242, giving data to 3 at time 17:651520
+4 Requesting Read of address 8192 at time 17:652520
+Page fault occurred for process 15236, page 8
+Clearing frame 0 and swapping in process 15234 page 9
+Address 8192 in frame 0, giving data to 4 at time 17:652660
+5 Requesting Read of address 8192 at time 17:653660
+Address 8192 in frame 23, giving data to 5 at time 17:653660
+6 Requesting Read of address 8192 at time 17:654660
+Address 8192 in frame 34, giving data to 6 at time 17:654660
+7 Requesting Read of address 8192 at time 17:655660
+Address 8192 in frame 53, giving data to 7 at time 17:655660
+8 Requesting Read of address 8192 at time 17:656660
+Address 8192 in frame 55, giving data to 8 at time 17:656660
+9 Requesting Read of address 8192 at time 17:657660
+Address 8192 in frame 73, giving data to 9 at time 17:657660
+10 Requesting Read of address 8192 at time 17:658660
+Address 8192 in frame 133, giving data to 10 at time 17:658660
+11 Requesting Read of address 8192 at time 17:659660
+Address 8192 in frame 192, giving data to 11 at time 17:659660
+12 Requesting Read of address 8192 at time 17:660660
+Address 8192 in frame 198, giving data to 12 at time 17:660660
+13 Requesting Read of address 8192 at time 17:661660
+Address 8192 in frame 210, giving data to 13 at time 17:661660
+14 Requesting Read of address 8192 at time 17:662660
+Address 8192 in frame 218, giving data to 14 at time 17:662660
+15 Requesting Read of address 8192 at time 17:663660
+Address 8192 in frame 241, giving data to 15 at time 17:663660
+16 Requesting Read of address 8192 at time 17:664660
+Address 8192 in frame 253, giving data to 16 at time 17:664660
+0 Requesting Write of address 38912 at time 17:665660
+Page fault occurred for process 15232, page 38
+Clearing frame 2 and swapping in process 15241 page 26
+Address 38912 in frame 2, writing data to 0 at time 17:665800
+1 Requesting Write of address 38912 at time 17:666800
+Address 38912 in frame 9, writing data to 1 at time 17:666800
+2 Requesting Write of address 38912 at time 17:667800
+Address 38912 in frame 26, writing data to 2 at time 17:667800
+3 Requesting Write of address 38912 at time 17:668800
+Address 38912 in frame 32, writing data to 3 at time 17:668800
+4 Requesting Write of address 38912 at time 17:669800
+Address 38912 in frame 36, writing data to 4 at time 17:669800
+5 Requesting Write of address 38912 at time 17:670800
+Address 38912 in frame 43, writing data to 5 at time 17:670800
+6 Requesting Write of address 38912 at time 17:671800
+Address 38912 in frame 60, writing data to 6 at time 17:671800
+7 Requesting Write of address 38912 at time 17:672800
+Address 38912 in frame 73, writing data to 7 at time 17:672800
+8 Requesting Write of address 38912 at time 17:673800
+Address 38912 in frame 77, writing data to 8 at time 17:673800
+9 Requesting Write of address 38912 at time 17:674800
+Address 38912 in frame 91, writing data to 9 at time 17:674800
+10 Requesting Write of address 38912 at time 17:675800
+Address 38912 in frame 94, writing data to 10 at time 17:675800
+11 Requesting Write of address 38912 at time 17:676800
+Address 38912 in frame 111, writing data to 11 at time 17:676800
+12 Requesting Write of address 38912 at time 17:677800
+Address 38912 in frame 113, writing data to 12 at time 17:677800
+13 Requesting Write of address 38912 at time 17:678800
+Address 38912 in frame 121, writing data to 13 at time 17:678800
+14 Requesting Write of address 38912 at time 17:679800
+Address 38912 in frame 123, writing data to 14 at time 17:679800
+15 Requesting Write of address 38912 at time 17:680800
+Address 38912 in frame 128, writing data to 15 at time 17:680800
+16 Requesting Write of address 38912 at time 17:681800
+Address 38912 in frame 136, writing data to 16 at time 17:681800
+0 Requesting Read of address 49152 at time 17:682800
+Address 49152 in frame 145, giving data to 0 at time 17:682800
+1 Requesting Read of address 49152 at time 17:683800
+Address 49152 in frame 162, giving data to 1 at time 17:683800
+2 Requesting Read of address 49152 at time 17:684800
+Address 49152 in frame 171, giving data to 2 at time 17:684800
+3 Requesting Read of address 49152 at time 17:685800
+Address 49152 in frame 179, giving data to 3 at time 17:685800
+4 Requesting Read of address 49152 at time 17:686800
+Address 49152 in frame 184, giving data to 4 at time 17:686800
+5 Requesting Read of address 49152 at time 17:687800
+Address 49152 in frame 196, giving data to 5 at time 17:687800
+6 Requesting Read of address 49152 at time 17:688800
+Address 49152 in frame 213, giving data to 6 at time 17:688800
+7 Requesting Read of address 49152 at time 17:689800
+Address 49152 in frame 223, giving data to 7 at time 17:689800
+8 Requesting Read of address 49152 at time 17:690800
+Address 49152 in frame 230, giving data to 8 at time 17:690800
+9 Requesting Read of address 49152 at time 17:691800
+Address 49152 in frame 247, giving data to 9 at time 17:691800
+10 Requesting Read of address 49152 at time 17:692800
+Page fault occurred for process 15242, page 49
+Clearing frame 0 and swapping in process 15236 page 8
+Address 49152 in frame 0, giving data to 10 at time 17:692940
+11 Requesting Read of address 49152 at time 17:693940
+Address 49152 in frame 22, giving data to 11 at time 17:693940
+12 Requesting Read of address 49152 at time 17:694940
+Address 49152 in frame 36, giving data to 12 at time 17:694940
+13 Requesting Read of address 49152 at time 17:695940
+Address 49152 in frame 72, giving data to 13 at time 17:695940
+14 Requesting Read of address 49152 at time 17:696940
+Address 49152 in frame 90, giving data to 14 at time 17:696940
+15 Requesting Read of address 49152 at time 17:697940
+Address 49152 in frame 184, giving data to 15 at time 17:697940
+16 Requesting Read of address 49152 at time 17:698940
+Address 49152 in frame 226, giving data to 16 at time 17:698940
+0 Requesting Read of address 40960 at time 17:699940
+Page fault occurred for process 15232, page 40
+Clearing frame 1 and swapping in process 15239 page 50
+Address 40960 in frame 1, giving data to 0 at time 17:700080
+1 Requesting Read of address 40960 at time 17:701080
+Address 40960 in frame 7, giving data to 1 at time 17:701080
+2 Requesting Read of address 40960 at time 17:702080
+Address 40960 in frame 15, giving data to 2 at time 17:702080
+3 Requesting Read of address 40960 at time 17:703080
+Address 40960 in frame 24, giving data to 3 at time 17:703080
+4 Requesting Read of address 40960 at time 17:704080
+Address 40960 in frame 41, giving data to 4 at time 17:704080
+5 Requesting Read of address 40960 at time 17:705080
+Address 40960 in frame 53, giving data to 5 at time 17:705080
+6 Requesting Read of address 40960 at time 17:706080
+Address 40960 in frame 58, giving data to 6 at time 17:706080
+7 Requesting Read of address 40960 at time 17:707080
+Address 40960 in frame 73, giving data to 7 at time 17:707080
+8 Requesting Read of address 40960 at time 17:708080
+Address 40960 in frame 74, giving data to 8 at time 17:708080
+9 Requesting Read of address 40960 at time 17:709080
+Address 40960 in frame 75, giving data to 9 at time 17:709080
+10 Requesting Read of address 40960 at time 17:710080
+Address 40960 in frame 79, giving data to 10 at time 17:710080
+11 Requesting Read of address 40960 at time 17:711080
+Address 40960 in frame 88, giving data to 11 at time 17:711080
+12 Requesting Read of address 40960 at time 17:712080
+Address 40960 in frame 92, giving data to 12 at time 17:712080
+13 Requesting Read of address 40960 at time 17:713080
+Address 40960 in frame 102, giving data to 13 at time 17:713080
+14 Requesting Read of address 40960 at time 17:714080
+Address 40960 in frame 104, giving data to 14 at time 17:714080
+15 Requesting Read of address 40960 at time 17:715080
+Address 40960 in frame 109, giving data to 15 at time 17:715080
+16 Requesting Read of address 40960 at time 17:716080
+Address 40960 in frame 126, giving data to 16 at time 17:716080
+0 Requesting Write of address 9216 at time 17:717080
+Address 9216 in frame 134, writing data to 0 at time 17:717080
+1 Requesting Write of address 9216 at time 17:718080
+2 Requesting Write of address 9216 at time 17:719080
+Address 9216 in frame 137, writing data to 2 at time 17:719080
+3 Requesting Write of address 9216 at time 17:720080
+4 Requesting Write of address 9216 at time 17:721080
+Address 9216 in frame 143, writing data to 4 at time 17:721080
+5 Requesting Write of address 9216 at time 17:722080
+6 Requesting Write of address 9216 at time 17:723080
+7 Requesting Write of address 9216 at time 17:724080
+Address 9216 in frame 160, writing data to 7 at time 17:724080
+8 Requesting Write of address 9216 at time 17:725080
+9 Requesting Write of address 9216 at time 17:726080
+Address 9216 in frame 177, writing data to 9 at time 17:726080
+10 Requesting Write of address 9216 at time 17:727080
+11 Requesting Write of address 9216 at time 17:728080
+12 Requesting Write of address 9216 at time 17:729080
+13 Requesting Write of address 9216 at time 17:730080
+14 Requesting Write of address 9216 at time 17:731080
+15 Requesting Write of address 9216 at time 17:732080
+16 Requesting Write of address 9216 at time 17:733080
+0 Requesting Read of address 15360 at time 17:734080
+Address 15360 in frame 189, giving data to 0 at time 17:734080
+1 Requesting Read of address 15360 at time 17:735080
+2 Requesting Read of address 15360 at time 17:736080
+Address 15360 in frame 194, giving data to 2 at time 17:736080
+3 Requesting Read of address 15360 at time 17:737080
+4 Requesting Read of address 15360 at time 17:738080
+Address 15360 in frame 211, giving data to 4 at time 17:738080
+5 Requesting Read of address 15360 at time 17:739080
+Address 15360 in frame 223, giving data to 5 at time 17:739080
+6 Requesting Read of address 15360 at time 17:740080
+7 Requesting Read of address 15360 at time 17:741080
+Address 15360 in frame 228, giving data to 7 at time 17:741080
+8 Requesting Read of address 15360 at time 17:742080
+9 Requesting Read of address 15360 at time 17:743080
+Address 15360 in frame 232, giving data to 9 at time 17:743080
+10 Requesting Read of address 15360 at time 17:744080
+11 Requesting Read of address 15360 at time 17:745080
+12 Requesting Read of address 15360 at time 17:746080
+13 Requesting Read of address 15360 at time 17:747080
+14 Requesting Read of address 15360 at time 17:748080
+15 Requesting Read of address 15360 at time 17:749080
+16 Requesting Read of address 15360 at time 17:750080
+0 Requesting Write of address 29696 at time 17:751080
+Address 29696 in frame 245, writing data to 0 at time 17:751080
+1 Requesting Write of address 29696 at time 17:752080
+Page fault occurred for process 15233, page 29
+Clearing frame 0 and swapping in process 15242 page 49
+Address 29696 in frame 0, writing data to 1 at time 17:752220
+2 Requesting Write of address 29696 at time 17:753220
+Address 29696 in frame 10, writing data to 2 at time 17:753220
+3 Requesting Write of address 29696 at time 17:754220
+Address 29696 in frame 14, writing data to 3 at time 17:754220
+4 Requesting Write of address 29696 at time 17:755220
+Address 29696 in frame 27, writing data to 4 at time 17:755220
+5 Requesting Write of address 29696 at time 17:756220
+Address 29696 in frame 44, writing data to 5 at time 17:756220
+6 Requesting Write of address 29696 at time 17:757220
+Address 29696 in frame 49, writing data to 6 at time 17:757220
+7 Requesting Write of address 29696 at time 17:758220
+Address 29696 in frame 51, writing data to 7 at time 17:758220
+8 Requesting Write of address 29696 at time 17:759220
+9 Requesting Write of address 29696 at time 17:760220
+Address 29696 in frame 61, writing data to 9 at time 17:760220
+10 Requesting Write of address 29696 at time 17:761220
+Address 29696 in frame 78, writing data to 10 at time 17:761220
+11 Requesting Write of address 29696 at time 17:762220
+Address 29696 in frame 79, writing data to 11 at time 17:762220
+12 Requesting Write of address 29696 at time 17:763220
+13 Requesting Write of address 29696 at time 17:764220
+14 Requesting Write of address 29696 at time 17:765220
+Address 29696 in frame 94, writing data to 14 at time 17:765220
+15 Requesting Write of address 29696 at time 17:766220
+Address 29696 in frame 95, writing data to 15 at time 17:766220
+16 Requesting Write of address 29696 at time 17:767220
+0 Requesting Read of address 11264 at time 17:768220
+Address 11264 in frame 108, giving data to 0 at time 17:768220
+1 Requesting Read of address 11264 at time 17:769220
+Address 11264 in frame 112, giving data to 1 at time 17:769220
+2 Requesting Read of address 11264 at time 17:770220
+Address 11264 in frame 122, giving data to 2 at time 17:770220
+3 Requesting Read of address 11264 at time 17:771220
+Address 11264 in frame 129, giving data to 3 at time 17:771220
+4 Requesting Read of address 11264 at time 17:772220
+Address 11264 in frame 130, giving data to 4 at time 17:772220
+5 Requesting Read of address 11264 at time 17:773220
+Address 11264 in frame 133, giving data to 5 at time 17:773220
+6 Requesting Read of address 11264 at time 17:774220
+Address 11264 in frame 138, giving data to 6 at time 17:774220
+7 Requesting Read of address 11264 at time 17:775220
+Address 11264 in frame 146, giving data to 7 at time 17:775220
+8 Requesting Read of address 11264 at time 17:776220
+9 Requesting Read of address 11264 at time 17:777220
+Address 11264 in frame 153, giving data to 9 at time 17:777220
+10 Requesting Read of address 11264 at time 17:778220
+Address 11264 in frame 163, giving data to 10 at time 17:778220
+11 Requesting Read of address 11264 at time 17:779220
+Address 11264 in frame 180, giving data to 11 at time 17:779220
+12 Requesting Read of address 11264 at time 17:780220
+13 Requesting Read of address 11264 at time 17:781220
+14 Requesting Read of address 11264 at time 17:782220
+Address 11264 in frame 188, giving data to 14 at time 17:782220
+15 Requesting Read of address 11264 at time 17:783220
+Address 11264 in frame 197, giving data to 15 at time 17:783220
+16 Requesting Read of address 11264 at time 17:784220
+0 Requesting Read of address 62464 at time 17:785220
+Address 62464 in frame 214, giving data to 0 at time 17:785220
+1 Requesting Read of address 62464 at time 17:786220
+Address 62464 in frame 219, giving data to 1 at time 17:786220
+2 Requesting Read of address 62464 at time 17:787220
+Address 62464 in frame 231, giving data to 2 at time 17:787220
+3 Requesting Read of address 62464 at time 17:788220
+Address 62464 in frame 240, giving data to 3 at time 17:788220
+4 Requesting Read of address 62464 at time 17:789220
+Address 62464 in frame 248, giving data to 4 at time 17:789220
+5 Requesting Read of address 62464 at time 17:790220
+Page fault occurred for process 15237, page 62
+Clearing frame 3 and swapping in process 15243 page 3
+Address 62464 in frame 3, giving data to 5 at time 17:790360
+6 Requesting Read of address 62464 at time 17:791360
+Address 62464 in frame 22, giving data to 6 at time 17:791360
+7 Requesting Read of address 62464 at time 17:792360
+Address 62464 in frame 31, giving data to 7 at time 17:792360
+8 Requesting Read of address 62464 at time 17:793360
+Address 62464 in frame 56, giving data to 8 at time 17:793360
+9 Requesting Read of address 62464 at time 17:794360
+Address 62464 in frame 66, giving data to 9 at time 17:794360
+10 Requesting Read of address 62464 at time 17:795360
+Address 62464 in frame 69, giving data to 10 at time 17:795360
+11 Requesting Read of address 62464 at time 17:796360
+Address 62464 in frame 79, giving data to 11 at time 17:796360
+12 Requesting Read of address 62464 at time 17:797360
+Address 62464 in frame 88, giving data to 12 at time 17:797360
+13 Requesting Read of address 62464 at time 17:798360
+Address 62464 in frame 111, giving data to 13 at time 17:798360
+14 Requesting Read of address 62464 at time 17:799360
+Address 62464 in frame 120, giving data to 14 at time 17:799360
+15 Requesting Read of address 62464 at time 17:800360
+Address 62464 in frame 124, giving data to 15 at time 17:800360
+16 Requesting Read of address 62464 at time 17:801360
+Address 62464 in frame 139, giving data to 16 at time 17:801360
+0 Requesting Read of address 64512 at time 17:802360
+1 Requesting Read of address 64512 at time 17:803360
+2 Requesting Read of address 64512 at time 17:804360
+3 Requesting Read of address 64512 at time 17:805360
+4 Requesting Read of address 64512 at time 17:806360
+5 Requesting Read of address 64512 at time 17:807360
+6 Requesting Read of address 64512 at time 17:808360
+7 Requesting Read of address 64512 at time 17:809360
+8 Requesting Read of address 64512 at time 17:810360
+9 Requesting Read of address 64512 at time 17:811360
+10 Requesting Read of address 64512 at time 17:812360
+11 Requesting Read of address 64512 at time 17:813360
+12 Requesting Read of address 64512 at time 17:814360
+13 Requesting Read of address 64512 at time 17:815360
+14 Requesting Read of address 64512 at time 17:816360
+15 Requesting Read of address 64512 at time 17:817360
+16 Requesting Read of address 64512 at time 17:818360
+0 Requesting Read of address 46080 at time 17:819360
+Address 46080 in frame 140, giving data to 0 at time 17:819360
+1 Requesting Read of address 46080 at time 17:820360
+Address 46080 in frame 147, giving data to 1 at time 17:820360
+2 Requesting Read of address 46080 at time 17:821360
+Address 46080 in frame 167, giving data to 2 at time 17:821360
+3 Requesting Read of address 46080 at time 17:822360
+Address 46080 in frame 180, giving data to 3 at time 17:822360
+4 Requesting Read of address 46080 at time 17:823360
+Address 46080 in frame 192, giving data to 4 at time 17:823360
+5 Requesting Read of address 46080 at time 17:824360
+Address 46080 in frame 207, giving data to 5 at time 17:824360
+6 Requesting Read of address 46080 at time 17:825360
+Address 46080 in frame 221, giving data to 6 at time 17:825360
+7 Requesting Read of address 46080 at time 17:826360
+Address 46080 in frame 235, giving data to 7 at time 17:826360
+8 Requesting Read of address 46080 at time 17:827360
+Page fault occurred for process 15240, page 46
+Clearing frame 0 and swapping in process 15233 page 29
+Frame 0 dirty bit was set, adding time to clock
+Address 46080 in frame 0, giving data to 8 at time 17:827640
+9 Requesting Read of address 46080 at time 17:828640
+Address 46080 in frame 6, giving data to 9 at time 17:828640
+10 Requesting Read of address 46080 at time 17:829640
+Address 46080 in frame 7, giving data to 10 at time 17:829640
+11 Requesting Read of address 46080 at time 17:830640
+Address 46080 in frame 9, giving data to 11 at time 17:830640
+12 Requesting Read of address 46080 at time 17:831640
+Address 46080 in frame 37, giving data to 12 at time 17:831640
+13 Requesting Read of address 46080 at time 17:832640
+Address 46080 in frame 54, giving data to 13 at time 17:832640
+14 Requesting Read of address 46080 at time 17:833640
+Address 46080 in frame 70, giving data to 14 at time 17:833640
+15 Requesting Read of address 46080 at time 17:834640
+Address 46080 in frame 112, giving data to 15 at time 17:834640
+16 Requesting Read of address 46080 at time 17:835640
+Address 46080 in frame 117, giving data to 16 at time 17:835640
+0 Requesting Read of address 5120 at time 17:836640
+Address 5120 in frame 147, giving data to 0 at time 17:836640
+1 Requesting Read of address 5120 at time 17:837640
+Address 5120 in frame 162, giving data to 1 at time 17:837640
+2 Requesting Read of address 5120 at time 17:838640
+Address 5120 in frame 175, giving data to 2 at time 17:838640
+3 Requesting Read of address 5120 at time 17:839640
+Address 5120 in frame 193, giving data to 3 at time 17:839640
+4 Requesting Read of address 5120 at time 17:840640
+Address 5120 in frame 201, giving data to 4 at time 17:840640
+5 Requesting Read of address 5120 at time 17:841640
+Address 5120 in frame 219, giving data to 5 at time 17:841640
+6 Requesting Read of address 5120 at time 17:842640
+Address 5120 in frame 236, giving data to 6 at time 17:842640
+7 Requesting Read of address 5120 at time 17:843640
+Address 5120 in frame 244, giving data to 7 at time 17:843640
+8 Requesting Read of address 5120 at time 17:844640
+Page fault occurred for process 15240, page 5
+Clearing frame 1 and swapping in process 15232 page 40
+Address 5120 in frame 1, giving data to 8 at time 17:844780
+9 Requesting Read of address 5120 at time 17:845780
+Address 5120 in frame 2, giving data to 9 at time 17:845780
+10 Requesting Read of address 5120 at time 17:846780
+Address 5120 in frame 108, giving data to 10 at time 17:846780
+11 Requesting Read of address 5120 at time 17:847780
+Address 5120 in frame 134, giving data to 11 at time 17:847780
+12 Requesting Read of address 5120 at time 17:848780
+Address 5120 in frame 140, giving data to 12 at time 17:848780
+13 Requesting Read of address 5120 at time 17:849780
+Address 5120 in frame 145, giving data to 13 at time 17:849780
+14 Requesting Read of address 5120 at time 17:850780
+Address 5120 in frame 147, giving data to 14 at time 17:850780
+15 Requesting Read of address 5120 at time 17:851780
+Address 5120 in frame 189, giving data to 15 at time 17:851780
+16 Requesting Read of address 5120 at time 17:852780
+Address 5120 in frame 214, giving data to 16 at time 17:852780
+0 Requesting Read of address 21504 at time 17:853780
+Address 21504 in frame 215, giving data to 0 at time 17:853780
+1 Requesting Read of address 21504 at time 17:854780
+Address 21504 in frame 245, giving data to 1 at time 17:854780
+2 Requesting Read of address 21504 at time 17:855780
+Page fault occurred for process 15234, page 21
+Clearing frame 0 and swapping in process 15240 page 46
+Address 21504 in frame 0, giving data to 2 at time 17:855920
+3 Requesting Read of address 21504 at time 17:856920
+Address 21504 in frame 1, giving data to 3 at time 17:856920
+4 Requesting Read of address 21504 at time 17:857920
+Address 21504 in frame 8, giving data to 4 at time 17:857920
+5 Requesting Read of address 21504 at time 17:858920
+Address 21504 in frame 11, giving data to 5 at time 17:858920
+6 Requesting Read of address 21504 at time 17:859920
+Address 21504 in frame 17, giving data to 6 at time 17:859920
+7 Requesting Read of address 21504 at time 17:860920
+Address 21504 in frame 25, giving data to 7 at time 17:860920
+8 Requesting Read of address 21504 at time 17:861920
+Address 21504 in frame 42, giving data to 8 at time 17:861920
+9 Requesting Read of address 21504 at time 17:862920
+Address 21504 in frame 55, giving data to 9 at time 17:862920
+10 Requesting Read of address 21504 at time 17:863920
+Address 21504 in frame 56, giving data to 10 at time 17:863920
+11 Requesting Read of address 21504 at time 17:864920
+Address 21504 in frame 59, giving data to 11 at time 17:864920
+12 Requesting Read of address 21504 at time 17:865920
+13 Requesting Read of address 21504 at time 17:866920
+14 Requesting Read of address 21504 at time 17:867920
+Address 21504 in frame 74, giving data to 14 at time 17:867920
+15 Requesting Read of address 21504 at time 17:868920
+Address 21504 in frame 76, giving data to 15 at time 17:868920
+16 Requesting Read of address 21504 at time 17:869920
+0 Requesting Read of address 61440 at time 17:870920
+Address 61440 in frame 77, giving data to 0 at time 17:870920
+1 Requesting Read of address 61440 at time 17:871920
+Address 61440 in frame 85, giving data to 1 at time 17:871920
+2 Requesting Read of address 61440 at time 17:872920
+Address 61440 in frame 93, giving data to 2 at time 17:872920
+3 Requesting Read of address 61440 at time 17:873920
+Address 61440 in frame 96, giving data to 3 at time 17:873920
+4 Requesting Read of address 61440 at time 17:874920
+Address 61440 in frame 105, giving data to 4 at time 17:874920
+5 Requesting Read of address 61440 at time 17:875920
+Address 61440 in frame 106, giving data to 5 at time 17:875920
+6 Requesting Read of address 61440 at time 17:876920
+Address 61440 in frame 110, giving data to 6 at time 17:876920
+7 Requesting Read of address 61440 at time 17:877920
+Address 61440 in frame 119, giving data to 7 at time 17:877920
+8 Requesting Read of address 61440 at time 17:878920
+Address 61440 in frame 127, giving data to 8 at time 17:878920
+9 Requesting Read of address 61440 at time 17:879920
+Address 61440 in frame 144, giving data to 9 at time 17:879920
+10 Requesting Read of address 61440 at time 17:880920
+Address 61440 in frame 154, giving data to 10 at time 17:880920
+11 Requesting Read of address 61440 at time 17:881920
+Address 61440 in frame 161, giving data to 11 at time 17:881920
+12 Requesting Read of address 61440 at time 17:882920
+13 Requesting Read of address 61440 at time 17:883920
+14 Requesting Read of address 61440 at time 17:884920
+Address 61440 in frame 172, giving data to 14 at time 17:884920
+15 Requesting Read of address 61440 at time 17:885920
+Address 61440 in frame 178, giving data to 15 at time 17:885920
+16 Requesting Read of address 61440 at time 17:886920
+0 Requesting Read of address 15360 at time 17:887920
+Address 15360 in frame 195, giving data to 0 at time 17:887920
+1 Requesting Read of address 15360 at time 17:888920
+Address 15360 in frame 206, giving data to 1 at time 17:888920
+2 Requesting Read of address 15360 at time 17:889920
+3 Requesting Read of address 15360 at time 17:890920
+4 Requesting Read of address 15360 at time 17:891920
+5 Requesting Read of address 15360 at time 17:892920
+6 Requesting Read of address 15360 at time 17:893920
+7 Requesting Read of address 15360 at time 17:894920
+8 Requesting Read of address 15360 at time 17:895920
+Address 15360 in frame 212, giving data to 8 at time 17:895920
+9 Requesting Read of address 15360 at time 17:896920
+10 Requesting Read of address 15360 at time 17:897920
+Address 15360 in frame 229, giving data to 10 at time 17:897920
+11 Requesting Read of address 15360 at time 17:898920
+Address 15360 in frame 230, giving data to 11 at time 17:898920
+12 Requesting Read of address 15360 at time 17:899920
+13 Requesting Read of address 15360 at time 17:900920
+14 Requesting Read of address 15360 at time 17:901920
+15 Requesting Read of address 15360 at time 17:902920
+16 Requesting Read of address 15360 at time 17:903920
+0 Requesting Read of address 4096 at time 17:904920
+Address 4096 in frame 238, giving data to 0 at time 17:904920
+1 Requesting Read of address 4096 at time 17:905920
+Address 4096 in frame 246, giving data to 1 at time 17:905920
+2 Requesting Read of address 4096 at time 17:906920
+Page fault occurred for process 15234, page 4
+Clearing frame 12 and swapping in process 15244 page 44
+Address 4096 in frame 12, giving data to 2 at time 17:907060
+3 Requesting Read of address 4096 at time 17:908060
+Address 4096 in frame 4, giving data to 3 at time 17:908060
+4 Requesting Read of address 4096 at time 17:909060
+Address 4096 in frame 29, giving data to 4 at time 17:909060
+5 Requesting Read of address 4096 at time 17:910060
+Address 4096 in frame 35, giving data to 5 at time 17:910060
+6 Requesting Read of address 4096 at time 17:911060
+Address 4096 in frame 36, giving data to 6 at time 17:911060
+7 Requesting Read of address 4096 at time 17:912060
+Address 4096 in frame 37, giving data to 7 at time 17:912060
+8 Requesting Read of address 4096 at time 17:913060
+Address 4096 in frame 46, giving data to 8 at time 17:913060
+9 Requesting Read of address 4096 at time 17:914060
+Address 4096 in frame 48, giving data to 9 at time 17:914060
+10 Requesting Read of address 4096 at time 17:915060
+Address 4096 in frame 63, giving data to 10 at time 17:915060
+11 Requesting Read of address 4096 at time 17:916060
+Address 4096 in frame 80, giving data to 11 at time 17:916060
+12 Requesting Read of address 4096 at time 17:917060
+Address 4096 in frame 83, giving data to 12 at time 17:917060
+13 Requesting Read of address 4096 at time 17:918060
+Address 4096 in frame 88, giving data to 13 at time 17:918060
+14 Requesting Read of address 4096 at time 17:919060
+Address 4096 in frame 92, giving data to 14 at time 17:919060
+15 Requesting Read of address 4096 at time 17:920060
+Address 4096 in frame 97, giving data to 15 at time 17:920060
+16 Requesting Read of address 4096 at time 17:921060
+Address 4096 in frame 113, giving data to 16 at time 17:921060
+0 Requesting Read of address 30720 at time 17:922060
+Address 30720 in frame 114, giving data to 0 at time 17:922060
+1 Requesting Read of address 30720 at time 17:923060
+Address 30720 in frame 116, giving data to 1 at time 17:923060
+2 Requesting Read of address 30720 at time 17:924060
+Address 30720 in frame 125, giving data to 2 at time 17:924060
+3 Requesting Read of address 30720 at time 17:925060
+Address 30720 in frame 131, giving data to 3 at time 17:925060
+4 Requesting Read of address 30720 at time 17:926060
+Address 30720 in frame 140, giving data to 4 at time 17:926060
+5 Requesting Read of address 30720 at time 17:927060
+Address 30720 in frame 148, giving data to 5 at time 17:927060
+6 Requesting Read of address 30720 at time 17:928060
+Address 30720 in frame 156, giving data to 6 at time 17:928060
+7 Requesting Read of address 30720 at time 17:929060
+Address 30720 in frame 157, giving data to 7 at time 17:929060
+8 Requesting Read of address 30720 at time 17:930060
+Address 30720 in frame 164, giving data to 8 at time 17:930060
+9 Requesting Read of address 30720 at time 17:931060
+Address 30720 in frame 165, giving data to 9 at time 17:931060
+10 Requesting Read of address 30720 at time 17:932060
+Address 30720 in frame 182, giving data to 10 at time 17:932060
+11 Requesting Read of address 30720 at time 17:933060
+Address 30720 in frame 187, giving data to 11 at time 17:933060
+12 Requesting Read of address 30720 at time 17:934060
+Address 30720 in frame 198, giving data to 12 at time 17:934060
+13 Requesting Read of address 30720 at time 17:935060
+14 Requesting Read of address 30720 at time 17:936060
+Address 30720 in frame 199, giving data to 14 at time 17:936060
+15 Requesting Read of address 30720 at time 17:937060
+Address 30720 in frame 216, giving data to 15 at time 17:937060
+16 Requesting Read of address 30720 at time 17:938060
+0 Requesting Read of address 20480 at time 17:939060
+Address 20480 in frame 222, giving data to 0 at time 17:939060
+1 Requesting Read of address 20480 at time 17:940060
+Address 20480 in frame 233, giving data to 1 at time 17:940060
+2 Requesting Read of address 20480 at time 17:941060
+Address 20480 in frame 250, giving data to 2 at time 17:941060
+3 Requesting Read of address 20480 at time 17:942060
+Page fault occurred for process 15235, page 20
+Clearing frame 0 and swapping in process 15234 page 21
+Address 20480 in frame 0, giving data to 3 at time 17:942200
+4 Requesting Read of address 20480 at time 17:943200
+Address 20480 in frame 10, giving data to 4 at time 17:943200
+5 Requesting Read of address 20480 at time 17:944200
+Address 20480 in frame 12, giving data to 5 at time 17:944200
+6 Requesting Read of address 20480 at time 17:945200
+Address 20480 in frame 15, giving data to 6 at time 17:945200
+7 Requesting Read of address 20480 at time 17:946200
+Address 20480 in frame 26, giving data to 7 at time 17:946200
+8 Requesting Read of address 20480 at time 17:947200
+Address 20480 in frame 93, giving data to 8 at time 17:947200
+9 Requesting Read of address 20480 at time 17:948200
+Address 20480 in frame 122, giving data to 9 at time 17:948200
+10 Requesting Read of address 20480 at time 17:949200
+Address 20480 in frame 125, giving data to 10 at time 17:949200
+11 Requesting Read of address 20480 at time 17:950200
+Address 20480 in frame 137, giving data to 11 at time 17:950200
+12 Requesting Read of address 20480 at time 17:951200
+Address 20480 in frame 167, giving data to 12 at time 17:951200
+13 Requesting Read of address 20480 at time 17:952200
+Address 20480 in frame 171, giving data to 13 at time 17:952200
+14 Requesting Read of address 20480 at time 17:953200
+Address 20480 in frame 175, giving data to 14 at time 17:953200
+15 Requesting Read of address 20480 at time 17:954200
+Address 20480 in frame 194, giving data to 15 at time 17:954200
+16 Requesting Read of address 20480 at time 17:955200
+Address 20480 in frame 231, giving data to 16 at time 17:955200
+0 Requesting Read of address 12288 at time 17:956200
+Address 12288 in frame 250, giving data to 0 at time 17:956200
+1 Requesting Read of address 12288 at time 17:957200
+Page fault occurred for process 15233, page 12
+Clearing frame 1 and swapping in process 15235 page 21
+Address 12288 in frame 1, giving data to 1 at time 17:957340
+2 Requesting Read of address 12288 at time 17:958340
+Address 12288 in frame 0, giving data to 2 at time 17:958340
+3 Requesting Read of address 12288 at time 17:959340
+Address 12288 in frame 4, giving data to 3 at time 17:959340
+4 Requesting Read of address 12288 at time 17:960340
+Address 12288 in frame 5, giving data to 4 at time 17:960340
+5 Requesting Read of address 12288 at time 17:961340
+Address 12288 in frame 14, giving data to 5 at time 17:961340
+6 Requesting Read of address 12288 at time 17:962340
+Address 12288 in frame 24, giving data to 6 at time 17:962340
+7 Requesting Read of address 12288 at time 17:963340
+Address 12288 in frame 32, giving data to 7 at time 17:963340
+8 Requesting Read of address 12288 at time 17:964340
+Address 12288 in frame 40, giving data to 8 at time 17:964340
+9 Requesting Read of address 12288 at time 17:965340
+Address 12288 in frame 57, giving data to 9 at time 17:965340
+10 Requesting Read of address 12288 at time 17:966340
+Address 12288 in frame 86, giving data to 10 at time 17:966340
+11 Requesting Read of address 12288 at time 17:967340
+Address 12288 in frame 96, giving data to 11 at time 17:967340
+12 Requesting Read of address 12288 at time 17:968340
+Address 12288 in frame 129, giving data to 12 at time 17:968340
+13 Requesting Read of address 12288 at time 17:969340
+Address 12288 in frame 131, giving data to 13 at time 17:969340
+14 Requesting Read of address 12288 at time 17:970340
+Address 12288 in frame 150, giving data to 14 at time 17:970340
+15 Requesting Read of address 12288 at time 17:971340
+Address 12288 in frame 179, giving data to 15 at time 17:971340
+16 Requesting Read of address 12288 at time 17:972340
+Address 12288 in frame 180, giving data to 16 at time 17:972340
+0 Requesting Read of address 36864 at time 17:973340
+Address 36864 in frame 193, giving data to 0 at time 17:973340
+1 Requesting Read of address 36864 at time 17:974340
+Address 36864 in frame 209, giving data to 1 at time 17:974340
+2 Requesting Read of address 36864 at time 17:975340
+Address 36864 in frame 227, giving data to 2 at time 17:975340
+3 Requesting Read of address 36864 at time 17:976340
+Address 36864 in frame 240, giving data to 3 at time 17:976340
+4 Requesting Read of address 36864 at time 17:977340
+Address 36864 in frame 242, giving data to 4 at time 17:977340
+5 Requesting Read of address 36864 at time 17:978340
+Page fault occurred for process 15237, page 36
+Clearing frame 2 and swapping in process 15241 page 5
+Frame 2 dirty bit was set, adding time to clock
+Address 36864 in frame 2, giving data to 5 at time 17:978620
+6 Requesting Read of address 36864 at time 17:979620
+Address 36864 in frame 6, giving data to 6 at time 17:979620
+7 Requesting Read of address 36864 at time 17:980620
+Address 36864 in frame 48, giving data to 7 at time 17:980620
+8 Requesting Read of address 36864 at time 17:981620
+Address 36864 in frame 55, giving data to 8 at time 17:981620
+9 Requesting Read of address 36864 at time 17:982620
+Address 36864 in frame 57, giving data to 9 at time 17:982620
+10 Requesting Read of address 36864 at time 17:983620
+Address 36864 in frame 61, giving data to 10 at time 17:983620
+11 Requesting Read of address 36864 at time 17:984620
+Address 36864 in frame 66, giving data to 11 at time 17:984620
+12 Requesting Read of address 36864 at time 17:985620
+Address 36864 in frame 75, giving data to 12 at time 17:985620
+13 Requesting Read of address 36864 at time 17:986620
+Address 36864 in frame 91, giving data to 13 at time 17:986620
+14 Requesting Read of address 36864 at time 17:987620
+Address 36864 in frame 122, giving data to 14 at time 17:987620
+15 Requesting Read of address 36864 at time 17:988620
+Address 36864 in frame 144, giving data to 15 at time 17:988620
+16 Requesting Read of address 36864 at time 17:989620
+Address 36864 in frame 153, giving data to 16 at time 17:989620
+0 Requesting Read of address 51200 at time 17:990620
+Address 51200 in frame 165, giving data to 0 at time 17:990620
+1 Requesting Read of address 51200 at time 17:991620
+Address 51200 in frame 177, giving data to 1 at time 17:991620
+2 Requesting Read of address 51200 at time 17:992620
+Address 51200 in frame 232, giving data to 2 at time 17:992620
+3 Requesting Read of address 51200 at time 17:993620
+Address 51200 in frame 247, giving data to 3 at time 17:993620
+4 Requesting Read of address 51200 at time 17:994620
+Page fault occurred for process 15236, page 51
+Clearing frame 0 and swapping in process 15234 page 12
+Address 51200 in frame 0, giving data to 4 at time 17:994760
+5 Requesting Read of address 51200 at time 17:995760
+Address 51200 in frame 227, giving data to 5 at time 17:995760
+6 Requesting Read of address 51200 at time 17:996760
+Address 51200 in frame 232, giving data to 6 at time 17:996760
+7 Requesting Read of address 51200 at time 17:997760
+Page fault occurred for process 15239, page 51
+Clearing frame 1 and swapping in process 15233 page 12
+Address 51200 in frame 1, giving data to 7 at time 17:997900
+8 Requesting Read of address 51200 at time 17:998900
+Address 51200 in frame 85, giving data to 8 at time 17:998900
+9 Requesting Read of address 51200 at time 17:999900
+Address 51200 in frame 116, giving data to 9 at time 17:999900
+10 Requesting Read of address 51200 at time 17:1000900
+Address 51200 in frame 162, giving data to 10 at time 17:1000900
+11 Requesting Read of address 51200 at time 17:1001900
+Address 51200 in frame 177, giving data to 11 at time 17:1001900
+12 Requesting Read of address 51200 at time 17:1002900
+Address 51200 in frame 206, giving data to 12 at time 17:1002900
+13 Requesting Read of address 51200 at time 17:1003900
+Address 51200 in frame 209, giving data to 13 at time 17:1003900
+14 Requesting Read of address 51200 at time 17:1004900
+Address 51200 in frame 233, giving data to 14 at time 17:1004900
+15 Requesting Read of address 51200 at time 17:1005900
+Address 51200 in frame 245, giving data to 15 at time 17:1005900
+16 Requesting Read of address 51200 at time 17:1006900
+Address 51200 in frame 246, giving data to 16 at time 17:1006900
+0 Requesting Read of address 31744 at time 17:1007900
+Page fault occurred for process 15232, page 31
+Clearing frame 0 and swapping in process 15236 page 51
+Address 31744 in frame 0, giving data to 0 at time 17:1008040
+1 Requesting Read of address 31744 at time 17:1009040
+Address 31744 in frame 5, giving data to 1 at time 17:1009040
+2 Requesting Read of address 31744 at time 17:1010040
+Address 31744 in frame 8, giving data to 2 at time 17:1010040
+3 Requesting Read of address 31744 at time 17:1011040
+Address 31744 in frame 10, giving data to 3 at time 17:1011040
+4 Requesting Read of address 31744 at time 17:1012040
+Address 31744 in frame 27, giving data to 4 at time 17:1012040
+5 Requesting Read of address 31744 at time 17:1013040
+Address 31744 in frame 29, giving data to 5 at time 17:1013040
+6 Requesting Read of address 31744 at time 17:1014040
+Address 31744 in frame 41, giving data to 6 at time 17:1014040
+7 Requesting Read of address 31744 at time 17:1015040
+Address 31744 in frame 105, giving data to 7 at time 17:1015040
+8 Requesting Read of address 31744 at time 17:1016040
+Address 31744 in frame 130, giving data to 8 at time 17:1016040
+9 Requesting Read of address 31744 at time 17:1017040
+Address 31744 in frame 140, giving data to 9 at time 17:1017040
+10 Requesting Read of address 31744 at time 17:1018040
+Address 31744 in frame 143, giving data to 10 at time 17:1018040
+11 Requesting Read of address 31744 at time 17:1019040
+Address 31744 in frame 192, giving data to 11 at time 17:1019040
+12 Requesting Read of address 31744 at time 17:1020040
+Address 31744 in frame 201, giving data to 12 at time 17:1020040
+13 Requesting Read of address 31744 at time 17:1021040
+14 Requesting Read of address 31744 at time 17:1022040
+Address 31744 in frame 211, giving data to 14 at time 17:1022040
+15 Requesting Read of address 31744 at time 17:1023040
+Address 31744 in frame 242, giving data to 15 at time 17:1023040
+16 Requesting Read of address 31744 at time 17:1024040
+0 Requesting Write of address 37888 at time 17:1025040
+Address 37888 in frame 248, writing data to 0 at time 17:1025040
+1 Requesting Write of address 37888 at time 17:1026040
+Page fault occurred for process 15233, page 37
+Clearing frame 3 and swapping in process 15237 page 62
+Address 37888 in frame 3, writing data to 1 at time 17:1026180
+2 Requesting Write of address 37888 at time 17:1027180
+Address 37888 in frame 2, writing data to 2 at time 17:1027180
+3 Requesting Write of address 37888 at time 17:1028180
+Address 37888 in frame 11, writing data to 3 at time 17:1028180
+4 Requesting Write of address 37888 at time 17:1029180
+Address 37888 in frame 12, writing data to 4 at time 17:1029180
+5 Requesting Write of address 37888 at time 17:1030180
+Address 37888 in frame 14, writing data to 5 at time 17:1030180
+6 Requesting Write of address 37888 at time 17:1031180
+Address 37888 in frame 23, writing data to 6 at time 17:1031180
+7 Requesting Write of address 37888 at time 17:1032180
+Address 37888 in frame 29, writing data to 7 at time 17:1032180
+8 Requesting Write of address 37888 at time 17:1033180
+Address 37888 in frame 35, writing data to 8 at time 17:1033180
+9 Requesting Write of address 37888 at time 17:1034180
+Address 37888 in frame 39, writing data to 9 at time 17:1034180
+10 Requesting Write of address 37888 at time 17:1035180
+Address 37888 in frame 43, writing data to 10 at time 17:1035180
+11 Requesting Write of address 37888 at time 17:1036180
+Address 37888 in frame 44, writing data to 11 at time 17:1036180
+12 Requesting Write of address 37888 at time 17:1037180
+Address 37888 in frame 53, writing data to 12 at time 17:1037180
+13 Requesting Write of address 37888 at time 17:1038180
+14 Requesting Write of address 37888 at time 17:1039180
+15 Requesting Write of address 37888 at time 17:1040180
+Address 37888 in frame 103, writing data to 15 at time 17:1040180
+16 Requesting Write of address 37888 at time 17:1041180
+0 Requesting Read of address 8192 at time 17:1042180
+Address 8192 in frame 106, giving data to 0 at time 17:1042180
+1 Requesting Read of address 8192 at time 17:1043180
+Address 8192 in frame 133, giving data to 1 at time 17:1043180
+2 Requesting Read of address 8192 at time 17:1044180
+Address 8192 in frame 148, giving data to 2 at time 17:1044180
+3 Requesting Read of address 8192 at time 17:1045180
+Address 8192 in frame 196, giving data to 3 at time 17:1045180
+4 Requesting Read of address 8192 at time 17:1046180
+Address 8192 in frame 207, giving data to 4 at time 17:1046180
+5 Requesting Read of address 8192 at time 17:1047180
+Address 8192 in frame 219, giving data to 5 at time 17:1047180
+6 Requesting Read of address 8192 at time 17:1048180
+7 Requesting Read of address 8192 at time 17:1049180
+Address 8192 in frame 223, giving data to 7 at time 17:1049180
+8 Requesting Read of address 8192 at time 17:1050180
+Address 8192 in frame 227, giving data to 8 at time 17:1050180
+9 Requesting Read of address 8192 at time 17:1051180
+Address 8192 in frame 243, giving data to 9 at time 17:1051180
+10 Requesting Read of address 8192 at time 17:1052180
+Page fault occurred for process 15242, page 8
+Clearing frame 0 and swapping in process 15232 page 31
+Address 8192 in frame 0, giving data to 10 at time 17:1052320
+11 Requesting Read of address 8192 at time 17:1053320
+Address 8192 in frame 77, giving data to 11 at time 17:1053320
+12 Requesting Read of address 8192 at time 17:1054320
+Address 8192 in frame 106, giving data to 12 at time 17:1054320
+13 Requesting Read of address 8192 at time 17:1055320
+14 Requesting Read of address 8192 at time 17:1056320
+15 Requesting Read of address 8192 at time 17:1057320
+16 Requesting Read of address 8192 at time 17:1058320
+0 Requesting Write of address 54272 at time 17:1059320
+Address 54272 in frame 114, writing data to 0 at time 17:1059320
+1 Requesting Write of address 54272 at time 17:1060320
+Address 54272 in frame 165, writing data to 1 at time 17:1060320
+2 Requesting Write of address 54272 at time 17:1061320
+Address 54272 in frame 193, writing data to 2 at time 17:1061320
+3 Requesting Write of address 54272 at time 17:1062320
+Address 54272 in frame 195, writing data to 3 at time 17:1062320
+4 Requesting Write of address 54272 at time 17:1063320
+Address 54272 in frame 215, writing data to 4 at time 17:1063320
+5 Requesting Write of address 54272 at time 17:1064320
+Address 54272 in frame 222, writing data to 5 at time 17:1064320
+6 Requesting Write of address 54272 at time 17:1065320
+Address 54272 in frame 238, writing data to 6 at time 17:1065320
+7 Requesting Write of address 54272 at time 17:1066320
+Address 54272 in frame 248, writing data to 7 at time 17:1066320
+8 Requesting Write of address 54272 at time 17:1067320
+Address 54272 in frame 250, writing data to 8 at time 17:1067320
+9 Requesting Write of address 54272 at time 17:1068320
+Page fault occurred for process 15241, page 54
+Clearing frame 1 and swapping in process 15239 page 51
+Address 54272 in frame 1, writing data to 9 at time 17:1068460
+10 Requesting Write of address 54272 at time 17:1069460
+Address 54272 in frame 25, writing data to 10 at time 17:1069460
+11 Requesting Write of address 54272 at time 17:1070460
+Address 54272 in frame 26, writing data to 11 at time 17:1070460
+12 Requesting Write of address 54272 at time 17:1071460
+Address 54272 in frame 29, writing data to 12 at time 17:1071460
+13 Requesting Write of address 54272 at time 17:1072460
+Address 54272 in frame 31, writing data to 13 at time 17:1072460
+14 Requesting Write of address 54272 at time 17:1073460
+Address 54272 in frame 32, writing data to 14 at time 17:1073460
+15 Requesting Write of address 54272 at time 17:1074460
+Address 54272 in frame 37, writing data to 15 at time 17:1074460
+16 Requesting Write of address 54272 at time 17:1075460
+Address 54272 in frame 48, writing data to 16 at time 17:1075460
+0 Requesting Read of address 61440 at time 17:1076460
+Address 61440 in frame 51, giving data to 0 at time 17:1076460
+1 Requesting Read of address 61440 at time 17:1077460
+Address 61440 in frame 73, giving data to 1 at time 17:1077460
+2 Requesting Read of address 61440 at time 17:1078460
+Address 61440 in frame 105, giving data to 2 at time 17:1078460
+3 Requesting Read of address 61440 at time 17:1079460
+Address 61440 in frame 119, giving data to 3 at time 17:1079460
+4 Requesting Read of address 61440 at time 17:1080460
+Address 61440 in frame 146, giving data to 4 at time 17:1080460
+5 Requesting Read of address 61440 at time 17:1081460
+Address 61440 in frame 157, giving data to 5 at time 17:1081460
+6 Requesting Read of address 61440 at time 17:1082460
+7 Requesting Read of address 61440 at time 17:1083460
+Address 61440 in frame 160, giving data to 7 at time 17:1083460
+8 Requesting Read of address 61440 at time 17:1084460
+9 Requesting Read of address 61440 at time 17:1085460
+Address 61440 in frame 223, giving data to 9 at time 17:1085460
+10 Requesting Read of address 61440 at time 17:1086460
+11 Requesting Read of address 61440 at time 17:1087460
+12 Requesting Read of address 61440 at time 17:1088460
+Address 61440 in frame 228, giving data to 12 at time 17:1088460
+13 Requesting Read of address 61440 at time 17:1089460
+14 Requesting Read of address 61440 at time 17:1090460
+15 Requesting Read of address 61440 at time 17:1091460
+16 Requesting Read of address 61440 at time 17:1092460
+0 Requesting Read of address 49152 at time 17:1093460
+Address 49152 in frame 235, giving data to 0 at time 17:1093460
+1 Requesting Read of address 49152 at time 17:1094460
+Address 49152 in frame 244, giving data to 1 at time 17:1094460
+2 Requesting Read of address 49152 at time 17:1095460
+Address 49152 in frame 248, giving data to 2 at time 17:1095460
+3 Requesting Read of address 49152 at time 17:1096460
+Page fault occurred for process 15235, page 49
+Clearing frame 0 and swapping in process 15242 page 8
+Address 49152 in frame 0, giving data to 3 at time 17:1096600
+4 Requesting Read of address 49152 at time 17:1097600
+Address 49152 in frame 7, giving data to 4 at time 17:1097600
+5 Requesting Read of address 49152 at time 17:1098600
+Address 49152 in frame 25, giving data to 5 at time 17:1098600
+6 Requesting Read of address 49152 at time 17:1099600
+7 Requesting Read of address 49152 at time 17:1100600
+Address 49152 in frame 43, giving data to 7 at time 17:1100600
+8 Requesting Read of address 49152 at time 17:1101600
+Address 49152 in frame 56, giving data to 8 at time 17:1101600
+9 Requesting Read of address 49152 at time 17:1102600
+Address 49152 in frame 61, giving data to 9 at time 17:1102600
+10 Requesting Read of address 49152 at time 17:1103600
+Address 49152 in frame 63, giving data to 10 at time 17:1103600
+11 Requesting Read of address 49152 at time 17:1104600
+Address 49152 in frame 69, giving data to 11 at time 17:1104600
+12 Requesting Read of address 49152 at time 17:1105600
+Address 49152 in frame 78, giving data to 12 at time 17:1105600
+13 Requesting Read of address 49152 at time 17:1106600
+14 Requesting Read of address 49152 at time 17:1107600
+15 Requesting Read of address 49152 at time 17:1108600
+16 Requesting Read of address 49152 at time 17:1109600
+0 Requesting Write of address 22528 at time 17:1110600
+Address 22528 in frame 86, writing data to 0 at time 17:1110600
+1 Requesting Write of address 22528 at time 17:1111600
+Address 22528 in frame 108, writing data to 1 at time 17:1111600
+2 Requesting Write of address 22528 at time 17:1112600
+Address 22528 in frame 125, writing data to 2 at time 17:1112600
+3 Requesting Write of address 22528 at time 17:1113600
+Address 22528 in frame 143, writing data to 3 at time 17:1113600
+4 Requesting Write of address 22528 at time 17:1114600
+Address 22528 in frame 154, writing data to 4 at time 17:1114600
+5 Requesting Write of address 22528 at time 17:1115600
+Address 22528 in frame 162, writing data to 5 at time 17:1115600
+6 Requesting Write of address 22528 at time 17:1116600
+Address 22528 in frame 163, writing data to 6 at time 17:1116600
+7 Requesting Write of address 22528 at time 17:1117600
+Address 22528 in frame 182, writing data to 7 at time 17:1117600
+8 Requesting Write of address 22528 at time 17:1118600
+Address 22528 in frame 229, writing data to 8 at time 17:1118600
+9 Requesting Write of address 22528 at time 17:1119600
+Page fault occurred for process 15241, page 22
+Clearing frame 9 and swapping in process 15243 page 46
+Frame 9 dirty bit was set, adding time to clock
+Address 22528 in frame 9, writing data to 9 at time 17:1119880
+10 Requesting Write of address 22528 at time 17:1120880
+Address 22528 in frame 26, writing data to 10 at time 17:1120880
+11 Requesting Write of address 22528 at time 17:1121880
+Address 22528 in frame 44, writing data to 11 at time 17:1121880
+12 Requesting Write of address 22528 at time 17:1122880
+Address 22528 in frame 59, writing data to 12 at time 17:1122880
+13 Requesting Write of address 22528 at time 17:1123880
+14 Requesting Write of address 22528 at time 17:1124880
+Address 22528 in frame 66, writing data to 14 at time 17:1124880
+15 Requesting Write of address 22528 at time 17:1125880
+Address 22528 in frame 69, writing data to 15 at time 17:1125880
+16 Requesting Write of address 22528 at time 17:1126880
+0 Requesting Write of address 60416 at time 17:1127880
+Address 60416 in frame 77, writing data to 0 at time 17:1127880
+1 Requesting Write of address 60416 at time 17:1128880
+Address 60416 in frame 79, writing data to 1 at time 17:1128880
+2 Requesting Write of address 60416 at time 17:1129880
+Address 60416 in frame 80, writing data to 2 at time 17:1129880
+3 Requesting Write of address 60416 at time 17:1130880
+Address 60416 in frame 96, writing data to 3 at time 17:1130880
+4 Requesting Write of address 60416 at time 17:1131880
+Address 60416 in frame 134, writing data to 4 at time 17:1131880
+5 Requesting Write of address 60416 at time 17:1132880
+Address 60416 in frame 137, writing data to 5 at time 17:1132880
+6 Requesting Write of address 60416 at time 17:1133880
+Address 60416 in frame 161, writing data to 6 at time 17:1133880
+7 Requesting Write of address 60416 at time 17:1134880
+Address 60416 in frame 177, writing data to 7 at time 17:1134880
+8 Requesting Write of address 60416 at time 17:1135880
+Address 60416 in frame 187, writing data to 8 at time 17:1135880
+9 Requesting Write of address 60416 at time 17:1136880
+Address 60416 in frame 192, writing data to 9 at time 17:1136880
+10 Requesting Write of address 60416 at time 17:1137880
+Address 60416 in frame 230, writing data to 10 at time 17:1137880
+11 Requesting Write of address 60416 at time 17:1138880
+Page fault occurred for process 15243, page 60
+Clearing frame 0 and swapping in process 15235 page 49
+Address 60416 in frame 0, writing data to 11 at time 17:1139020
+12 Requesting Write of address 60416 at time 17:1140020
+Address 60416 in frame 4, writing data to 12 at time 17:1140020
+13 Requesting Write of address 60416 at time 17:1141020
+14 Requesting Write of address 60416 at time 17:1142020
+Address 60416 in frame 10, writing data to 14 at time 17:1142020
+15 Requesting Write of address 60416 at time 17:1143020
+Address 60416 in frame 11, writing data to 15 at time 17:1143020
+16 Requesting Write of address 60416 at time 17:1144020
+0 Requesting Read of address 36864 at time 17:1145020
+Address 36864 in frame 96, giving data to 0 at time 17:1145020
+1 Requesting Read of address 36864 at time 17:1146020
+Address 36864 in frame 119, giving data to 1 at time 17:1146020
+2 Requesting Read of address 36864 at time 17:1147020
+Address 36864 in frame 143, giving data to 2 at time 17:1147020
+3 Requesting Read of address 36864 at time 17:1148020
+Address 36864 in frame 195, giving data to 3 at time 17:1148020
+4 Requesting Read of address 36864 at time 17:1149020
+Address 36864 in frame 196, giving data to 4 at time 17:1149020
+5 Requesting Read of address 36864 at time 17:1150020
+Address 36864 in frame 240, giving data to 5 at time 17:1150020
+6 Requesting Read of address 36864 at time 17:1151020
+7 Requesting Read of address 36864 at time 17:1152020
+Address 36864 in frame 247, giving data to 7 at time 17:1152020
+8 Requesting Read of address 36864 at time 17:1153020
+9 Requesting Read of address 36864 at time 17:1154020
+10 Requesting Read of address 36864 at time 17:1155020
+Page fault occurred for process 15242, page 36
+Clearing frame 1 and swapping in process 15241 page 54
+Frame 1 dirty bit was set, adding time to clock
+Address 36864 in frame 1, giving data to 10 at time 17:1155300
+11 Requesting Read of address 36864 at time 17:1156300
+Address 36864 in frame 9, giving data to 11 at time 17:1156300
+12 Requesting Read of address 36864 at time 17:1157300
+13 Requesting Read of address 36864 at time 17:1158300
+14 Requesting Read of address 36864 at time 17:1159300
+15 Requesting Read of address 36864 at time 17:1160300
+16 Requesting Read of address 36864 at time 17:1161300
+0 Requesting Read of address 3072 at time 17:1162300
+Address 3072 in frame 39, giving data to 0 at time 17:1162300
+1 Requesting Read of address 3072 at time 17:1163300
+Address 3072 in frame 57, giving data to 1 at time 17:1163300
+2 Requesting Read of address 3072 at time 17:1164300
+Address 3072 in frame 61, giving data to 2 at time 17:1164300
+3 Requesting Read of address 3072 at time 17:1165300
+Address 3072 in frame 116, giving data to 3 at time 17:1165300
+4 Requesting Read of address 3072 at time 17:1166300
+Address 3072 in frame 140, giving data to 4 at time 17:1166300
+5 Requesting Read of address 3072 at time 17:1167300
+Address 3072 in frame 192, giving data to 5 at time 17:1167300
+6 Requesting Read of address 3072 at time 17:1168300
+Address 3072 in frame 223, giving data to 6 at time 17:1168300
+7 Requesting Read of address 3072 at time 17:1169300
+Address 3072 in frame 243, giving data to 7 at time 17:1169300
+8 Requesting Read of address 3072 at time 17:1170300
+Page fault occurred for process 15240, page 3
+Clearing frame 0 and swapping in process 15243 page 60
+Frame 0 dirty bit was set, adding time to clock
+Address 3072 in frame 0, giving data to 8 at time 17:1170580
+9 Requesting Read of address 3072 at time 17:1171580
+Address 3072 in frame 9, giving data to 9 at time 17:1171580
+10 Requesting Read of address 3072 at time 17:1172580
+Address 3072 in frame 44, giving data to 10 at time 17:1172580
+11 Requesting Read of address 3072 at time 17:1173580
+Page fault occurred for process 15243, page 3
+Clearing frame 2 and swapping in process 15234 page 37
+Frame 2 dirty bit was set, adding time to clock
+Address 3072 in frame 2, giving data to 11 at time 17:1173860
+12 Requesting Read of address 3072 at time 17:1174860
+Address 3072 in frame 8, giving data to 12 at time 17:1174860
+13 Requesting Read of address 3072 at time 17:1175860
+14 Requesting Read of address 3072 at time 17:1176860
+15 Requesting Read of address 3072 at time 17:1177860
+Address 3072 in frame 61, giving data to 15 at time 17:1177860
+16 Requesting Read of address 3072 at time 17:1178860
+0 Requesting Read of address 35840 at time 17:1179860
+Address 35840 in frame 80, giving data to 0 at time 17:1179860
+1 Requesting Read of address 35840 at time 17:1180860
+Address 35840 in frame 105, giving data to 1 at time 17:1180860
+2 Requesting Read of address 35840 at time 17:1181860
+Address 35840 in frame 125, giving data to 2 at time 17:1181860
+3 Requesting Read of address 35840 at time 17:1182860
+Address 35840 in frame 143, giving data to 3 at time 17:1182860
+4 Requesting Read of address 35840 at time 17:1183860
+Address 35840 in frame 148, giving data to 4 at time 17:1183860
+5 Requesting Read of address 35840 at time 17:1184860
+Address 35840 in frame 193, giving data to 5 at time 17:1184860
+6 Requesting Read of address 35840 at time 17:1185860
+Address 35840 in frame 248, giving data to 6 at time 17:1185860
+7 Requesting Read of address 35840 at time 17:1186860
+Page fault occurred for process 15239, page 35
+Clearing frame 0 and swapping in process 15240 page 3
+Address 35840 in frame 0, giving data to 7 at time 17:1187000
+8 Requesting Read of address 35840 at time 17:1188000
+Address 35840 in frame 35, giving data to 8 at time 17:1188000
+9 Requesting Read of address 35840 at time 17:1189000
+Address 35840 in frame 40, giving data to 9 at time 17:1189000
+10 Requesting Read of address 35840 at time 17:1190000
+Address 35840 in frame 42, giving data to 10 at time 17:1190000
+11 Requesting Read of address 35840 at time 17:1191000
+Address 35840 in frame 46, giving data to 11 at time 17:1191000
+12 Requesting Read of address 35840 at time 17:1192000
+Address 35840 in frame 55, giving data to 12 at time 17:1192000
+13 Requesting Read of address 35840 at time 17:1193000
+14 Requesting Read of address 35840 at time 17:1194000
+Address 35840 in frame 56, giving data to 14 at time 17:1194000
+15 Requesting Read of address 35840 at time 17:1195000
+Address 35840 in frame 85, giving data to 15 at time 17:1195000
+16 Requesting Read of address 35840 at time 17:1196000
+0 Requesting Read of address 43008 at time 17:1197000
+Address 43008 in frame 93, giving data to 0 at time 17:1197000
+1 Requesting Read of address 43008 at time 17:1198000
+Address 43008 in frame 127, giving data to 1 at time 17:1198000
+2 Requesting Read of address 43008 at time 17:1199000
+Address 43008 in frame 130, giving data to 2 at time 17:1199000
+3 Requesting Read of address 43008 at time 17:1200000
+Address 43008 in frame 164, giving data to 3 at time 17:1200000
+Memory layout at time 17:1200000
+Frame: 10: Page index: 60 |Process_id: 15246|Occupied: 1 | Dirty Bit: 1 | Second Chance: 1 | Next Frame: 11 
+Frame: 11: Page index: 60 |Process_id: 15247|Occupied: 1 | Dirty Bit: 1 | Second Chance: 1 | Next Frame: 12 
+Frame: 12: Page index: 37 |Process_id: 15236|Occupied: 1 | Dirty Bit: 1 | Second Chance: 1 | Next Frame: 13 
+Frame: 13: Page index: 44 |Process_id: 15245|Occupied: 1 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 14 
+Frame: 14: Page index: 37 |Process_id: 15237|Occupied: 1 | Dirty Bit: 1 | Second Chance: 1 | Next Frame: 15 
+Frame: 15: Page index: 20 |Process_id: 15238|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 16 
+Frame: 16: Page index: 44 |Process_id: 15248|Occupied: 1 | Dirty Bit: 0 | Second Chance: 0 | Next Frame: 17 
+Frame: 17: Page index: 21 |Process_id: 15238|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 18 
+Frame: 18: Page index: 21 |Process_id: 15248|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 19 
+Frame: 19: Page index: 7 |Process_id: 15248|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 20 
+Frame: 20: Page index: 16 |Process_id: 15245|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 21 
+Frame: 21: Page index: 16 |Process_id: 15246|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 22 
+Frame: 22: Page index: 62 |Process_id: 15238|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 23 
+Frame: 23: Page index: 37 |Process_id: 15238|Occupied: 1 | Dirty Bit: 1 | Second Chance: 1 | Next Frame: 24 
+Frame: 24: Page index: 12 |Process_id: 15238|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 25 
+Frame: 25: Page index: 49 |Process_id: 15237|Occupied: 1 | Dirty Bit: 1 | Second Chance: 1 | Next Frame: 26 
+Frame: 26: Page index: 22 |Process_id: 15242|Occupied: 1 | Dirty Bit: 1 | Second Chance: 1 | Next Frame: 27 
+Frame: 27: Page index: 31 |Process_id: 15236|Occupied: 1 | Dirty Bit: 1 | Second Chance: 1 | Next Frame: 28 
+Frame: 28: Page index: 16 |Process_id: 15247|Occupied: 1 | Dirty Bit: 0 | Second Chance: 1 | Next Frame: 29 
+Frame: 29: Page index: 54 |Process_id: 15244|Occupied: 1 | Dirty Bit: 1 | Second Chance: 1 | Next Frame: 30 
+4 Requesting Read of address 43008 at time 17:1201000
+Address 43008 in frame 187, giving data to 4 at time 17:1201000
+5 Requesting Read of address 43008 at time 17:1202000
+Address 43008 in frame 212, giving data to 5 at time 17:1202000
+6 Requesting Read of address 43008 at time 17:1203000
+Address 43008 in frame 227, giving data to 6 at time 17:1203000
+7 Requesting Read of address 43008 at time 17:1204000
+Address 43008 in frame 229, giving data to 7 at time 17:1204000
+8 Requesting Read of address 43008 at time 17:1205000
+Address 43008 in frame 250, giving data to 8 at time 17:1205000
+9 Requesting Read of address 43008 at time 17:1206000
+Page fault occurred for process 15241, page 43
+Clearing frame 1 and swapping in process 15242 page 36
+Address 43008 in frame 1, giving data to 9 at time 17:1206140
+10 Requesting Read of address 43008 at time 17:1207140
+Address 43008 in frame 26, giving data to 10 at time 17:1207140
+11 Requesting Read of address 43008 at time 17:1208140
+Address 43008 in frame 42, giving data to 11 at time 17:1208140
+12 Requesting Read of address 43008 at time 17:1209140
+Address 43008 in frame 44, giving data to 12 at time 17:1209140
+13 Requesting Read of address 43008 at time 17:1210140
+14 Requesting Read of address 43008 at time 17:1211140
+Address 43008 in frame 63, giving data to 14 at time 17:1211140
+15 Requesting Read of address 43008 at time 17:1212140
+Address 43008 in frame 230, giving data to 15 at time 17:1212140
+16 Requesting Read of address 43008 at time 17:1213140
+0 Requesting Read of address 8192 at time 17:1214140
+Page fault occurred for process 15232, page 8
+Clearing frame 0 and swapping in process 15239 page 35
+Address 8192 in frame 0, giving data to 0 at time 17:1214280
+1 Requesting Read of address 8192 at time 17:1215280
+2 Requesting Read of address 8192 at time 17:1216280
+Address 8192 in frame 43, giving data to 2 at time 17:1216280
+3 Requesting Read of address 8192 at time 17:1217280
+Address 8192 in frame 160, giving data to 3 at time 17:1217280
+4 Requesting Read of address 8192 at time 17:1218280
+5 Requesting Read of address 8192 at time 17:1219280
+6 Requesting Read of address 8192 at time 17:1220280
+7 Requesting Read of address 8192 at time 17:1221280
+Address 8192 in frame 177, giving data to 7 at time 17:1221280
+8 Requesting Read of address 8192 at time 17:1222280
+Address 8192 in frame 182, giving data to 8 at time 17:1222280
+9 Requesting Read of address 8192 at time 17:1223280
+Address 8192 in frame 229, giving data to 9 at time 17:1223280
+10 Requesting Read of address 8192 at time 17:1224280
+Address 8192 in frame 243, giving data to 10 at time 17:1224280
+11 Requesting Read of address 8192 at time 17:1225280
+Address 8192 in frame 247, giving data to 11 at time 17:1225280
+12 Requesting Read of address 8192 at time 17:1226280
+13 Requesting Read of address 8192 at time 17:1227280
+14 Requesting Read of address 8192 at time 17:1228280
+15 Requesting Read of address 8192 at time 17:1229280
+16 Requesting Read of address 8192 at time 17:1230280
+0 Requesting Read of address 39936 at time 17:1231280
+Page fault occurred for process 15232, page 39
+Clearing frame 3 and swapping in process 15233 page 37
+Frame 3 dirty bit was set, adding time to clock
+Address 39936 in frame 3, giving data to 0 at time 17:1231560
+1 Requesting Read of address 39936 at time 17:1232560
+Address 39936 in frame 5, giving data to 1 at time 17:1232560
+2 Requesting Read of address 39936 at time 17:1233560
+Address 39936 in frame 57, giving data to 2 at time 17:1233560
+3 Requesting Read of address 39936 at time 17:1234560
+Address 39936 in frame 73, giving data to 3 at time 17:1234560
+4 Requesting Read of address 39936 at time 17:1235560
+Address 39936 in frame 79, giving data to 4 at time 17:1235560
+5 Requesting Read of address 39936 at time 17:1236560
+Address 39936 in frame 105, giving data to 5 at time 17:1236560
+6 Requesting Read of address 39936 at time 17:1237560
+Address 39936 in frame 108, giving data to 6 at time 17:1237560
+7 Requesting Read of address 39936 at time 17:1238560
+Address 39936 in frame 119, giving data to 7 at time 17:1238560
+8 Requesting Read of address 39936 at time 17:1239560
+Address 39936 in frame 127, giving data to 8 at time 17:1239560
+9 Requesting Read of address 39936 at time 17:1240560
+Address 39936 in frame 133, giving data to 9 at time 17:1240560
+10 Requesting Read of address 39936 at time 17:1241560
+Address 39936 in frame 165, giving data to 10 at time 17:1241560
+11 Requesting Read of address 39936 at time 17:1242560
+Address 39936 in frame 244, giving data to 11 at time 17:1242560
+12 Requesting Read of address 39936 at time 17:1243560
+Page fault occurred for process 15244, page 39
+Clearing frame 0 and swapping in process 15232 page 8
+Address 39936 in frame 0, giving data to 12 at time 17:1243700
+13 Requesting Read of address 39936 at time 17:1244700
+Address 39936 in frame 3, giving data to 13 at time 17:1244700
+14 Requesting Read of address 39936 at time 17:1245700
+Address 39936 in frame 39, giving data to 14 at time 17:1245700
+15 Requesting Read of address 39936 at time 17:1246700
+Address 39936 in frame 51, giving data to 15 at time 17:1246700
+16 Requesting Read of address 39936 at time 17:1247700
+Address 39936 in frame 77, giving data to 16 at time 17:1247700
+0 Requesting Read of address 17408 at time 17:1248700
+Address 17408 in frame 80, giving data to 0 at time 17:1248700
+1 Requesting Read of address 17408 at time 17:1249700
+Address 17408 in frame 86, giving data to 1 at time 17:1249700
+2 Requesting Read of address 17408 at time 17:1250700
+Address 17408 in frame 93, giving data to 2 at time 17:1250700
+3 Requesting Read of address 17408 at time 17:1251700
+Address 17408 in frame 96, giving data to 3 at time 17:1251700
+4 Requesting Read of address 17408 at time 17:1252700
+Address 17408 in frame 114, giving data to 4 at time 17:1252700
+5 Requesting Read of address 17408 at time 17:1253700
+Address 17408 in frame 235, giving data to 5 at time 17:1253700
+6 Requesting Read of address 17408 at time 17:1254700
+Page fault occurred for process 15238, page 17
+Clearing frame 1 and swapping in process 15241 page 43
+Address 17408 in frame 1, giving data to 6 at time 17:1254840
+7 Requesting Read of address 17408 at time 17:1255840
+Address 17408 in frame 9, giving data to 7 at time 17:1255840
+8 Requesting Read of address 17408 at time 17:1256840
+Address 17408 in frame 40, giving data to 8 at time 17:1256840
+9 Requesting Read of address 17408 at time 17:1257840
+Address 17408 in frame 133, giving data to 9 at time 17:1257840
+10 Requesting Read of address 17408 at time 17:1258840
+Address 17408 in frame 229, giving data to 10 at time 17:1258840
+11 Requesting Read of address 17408 at time 17:1259840
+Page fault occurred for process 15243, page 17
+Clearing frame 0 and swapping in process 15244 page 39
+Address 17408 in frame 0, giving data to 11 at time 17:1259980
+12 Requesting Read of address 17408 at time 17:1260980
+Address 17408 in frame 4, giving data to 12 at time 17:1260980
+13 Requesting Read of address 17408 at time 17:1261980
+Address 17408 in frame 8, giving data to 13 at time 17:1261980
+14 Requesting Read of address 17408 at time 17:1262980
+Address 17408 in frame 29, giving data to 14 at time 17:1262980
+15 Requesting Read of address 17408 at time 17:1263980
+Address 17408 in frame 44, giving data to 15 at time 17:1263980
+16 Requesting Read of address 17408 at time 17:1264980
+Address 17408 in frame 53, giving data to 16 at time 17:1264980
+0 Requesting Read of address 24576 at time 17:1265980
+Address 24576 in frame 55, giving data to 0 at time 17:1265980
+1 Requesting Read of address 24576 at time 17:1266980
+Address 24576 in frame 59, giving data to 1 at time 17:1266980
+2 Requesting Read of address 24576 at time 17:1267980
+Address 24576 in frame 75, giving data to 2 at time 17:1267980
+3 Requesting Read of address 24576 at time 17:1268980
+Address 24576 in frame 78, giving data to 3 at time 17:1268980
+4 Requesting Read of address 24576 at time 17:1269980
+Address 24576 in frame 83, giving data to 4 at time 17:1269980
+5 Requesting Read of address 24576 at time 17:1270980
+Address 24576 in frame 106, giving data to 5 at time 17:1270980
+6 Requesting Read of address 24576 at time 17:1271980
+Address 24576 in frame 129, giving data to 6 at time 17:1271980
+7 Requesting Read of address 24576 at time 17:1272980
+Address 24576 in frame 167, giving data to 7 at time 17:1272980
+8 Requesting Read of address 24576 at time 17:1273980
+Address 24576 in frame 198, giving data to 8 at time 17:1273980
+9 Requesting Read of address 24576 at time 17:1274980
+Address 24576 in frame 201, giving data to 9 at time 17:1274980
+10 Requesting Read of address 24576 at time 17:1275980
+Address 24576 in frame 206, giving data to 10 at time 17:1275980
+11 Requesting Read of address 24576 at time 17:1276980
+Address 24576 in frame 228, giving data to 11 at time 17:1276980
+12 Requesting Read of address 24576 at time 17:1277980
+Page fault occurred for process 15244, page 24
+Clearing frame 2 and swapping in process 15243 page 3
+Address 24576 in frame 2, giving data to 12 at time 17:1278120
+13 Requesting Read of address 24576 at time 17:1279120
+Address 24576 in frame 0, giving data to 13 at time 17:1279120
+14 Requesting Read of address 24576 at time 17:1280120
+Address 24576 in frame 42, giving data to 14 at time 17:1280120
+15 Requesting Read of address 24576 at time 17:1281120
+Address 24576 in frame 46, giving data to 15 at time 17:1281120
+16 Requesting Read of address 24576 at time 17:1282120
+Address 24576 in frame 228, giving data to 16 at time 17:1282120
+0 Requesting Read of address 24576 at time 17:1283120
+1 Requesting Read of address 24576 at time 17:1284120
+2 Requesting Read of address 24576 at time 17:1285120
+3 Requesting Read of address 24576 at time 17:1286120
+4 Requesting Read of address 24576 at time 17:1287120
+5 Requesting Read of address 24576 at time 17:1288120
+6 Requesting Read of address 24576 at time 17:1289120
+7 Requesting Read of address 24576 at time 17:1290120
+8 Requesting Read of address 24576 at time 17:1291120
+9 Requesting Read of address 24576 at time 17:1292120
+10 Requesting Read of address 24576 at time 17:1293120
+11 Requesting Read of address 24576 at time 17:1294120
+Address 24576 in frame 244, giving data to 11 at time 17:1294120
+12 Requesting Read of address 24576 at time 17:1295120
+13 Requesting Read of address 24576 at time 17:1296120
+14 Requesting Read of address 24576 at time 17:1297120
+15 Requesting Read of address 24576 at time 17:1298120
+16 Requesting Read of address 24576 at time 17:1299120
+0 Requesting Read of address 29696 at time 17:1300120
+Address 29696 in frame 247, giving data to 0 at time 17:1300120
+1 Requesting Read of address 29696 at time 17:1301120
+Page fault occurred for process 15233, page 29
+Clearing frame 1 and swapping in process 15238 page 17
+Address 29696 in frame 1, giving data to 1 at time 17:1301260
+2 Requesting Read of address 29696 at time 17:1302260
+Address 29696 in frame 6, giving data to 2 at time 17:1302260
+3 Requesting Read of address 29696 at time 17:1303260
+Address 29696 in frame 15, giving data to 3 at time 17:1303260
+4 Requesting Read of address 29696 at time 17:1304260
+Address 29696 in frame 17, giving data to 4 at time 17:1304260
+5 Requesting Read of address 29696 at time 17:1305260
+Address 29696 in frame 22, giving data to 5 at time 17:1305260
+6 Requesting Read of address 29696 at time 17:1306260
+Address 29696 in frame 23, giving data to 6 at time 17:1306260
+7 Requesting Read of address 29696 at time 17:1307260
+Address 29696 in frame 24, giving data to 7 at time 17:1307260
+8 Requesting Read of address 29696 at time 17:1308260
+Address 29696 in frame 34, giving data to 8 at time 17:1308260
+9 Requesting Read of address 29696 at time 17:1309260
+Address 29696 in frame 36, giving data to 9 at time 17:1309260
+10 Requesting Read of address 29696 at time 17:1310260
+Address 29696 in frame 41, giving data to 10 at time 17:1310260
+11 Requesting Read of address 29696 at time 17:1311260
+Address 29696 in frame 45, giving data to 11 at time 17:1311260
+12 Requesting Read of address 29696 at time 17:1312260
+Address 29696 in frame 49, giving data to 12 at time 17:1312260
+13 Requesting Read of address 29696 at time 17:1313260
+14 Requesting Read of address 29696 at time 17:1314260
+15 Requesting Read of address 29696 at time 17:1315260
+16 Requesting Read of address 29696 at time 17:1316260
+0 Requesting Read of address 36864 at time 17:1317260
+Address 36864 in frame 58, giving data to 0 at time 17:1317260
+1 Requesting Read of address 36864 at time 17:1318260
+Address 36864 in frame 60, giving data to 1 at time 17:1318260
+2 Requesting Read of address 36864 at time 17:1319260
+Address 36864 in frame 71, giving data to 2 at time 17:1319260
+3 Requesting Read of address 36864 at time 17:1320260
+4 Requesting Read of address 36864 at time 17:1321260
+5 Requesting Read of address 36864 at time 17:1322260
+6 Requesting Read of address 36864 at time 17:1323260
+Address 36864 in frame 87, giving data to 6 at time 17:1323260
+7 Requesting Read of address 36864 at time 17:1324260
+Address 36864 in frame 89, giving data to 7 at time 17:1324260
+8 Requesting Read of address 36864 at time 17:1325260
+Address 36864 in frame 107, giving data to 8 at time 17:1325260
+9 Requesting Read of address 36864 at time 17:1326260
+Address 36864 in frame 108, giving data to 9 at time 17:1326260
+10 Requesting Read of address 36864 at time 17:1327260
+Address 36864 in frame 110, giving data to 10 at time 17:1327260
+11 Requesting Read of address 36864 at time 17:1328260
+Address 36864 in frame 129, giving data to 11 at time 17:1328260
+12 Requesting Read of address 36864 at time 17:1329260
+Address 36864 in frame 138, giving data to 12 at time 17:1329260
+13 Requesting Read of address 36864 at time 17:1330260
+14 Requesting Read of address 36864 at time 17:1331260
+15 Requesting Read of address 36864 at time 17:1332260
+16 Requesting Read of address 36864 at time 17:1333260
+0 Requesting Read of address 46080 at time 17:1334260
+Address 46080 in frame 156, giving data to 0 at time 17:1334260
+1 Requesting Read of address 46080 at time 17:1335260
+Address 46080 in frame 161, giving data to 1 at time 17:1335260
+2 Requesting Read of address 46080 at time 17:1336260
+Address 46080 in frame 163, giving data to 2 at time 17:1336260
+3 Requesting Read of address 46080 at time 17:1337260
+Address 46080 in frame 213, giving data to 3 at time 17:1337260
+4 Requesting Read of address 46080 at time 17:1338260
+Address 46080 in frame 221, giving data to 4 at time 17:1338260
+5 Requesting Read of address 46080 at time 17:1339260
+Address 46080 in frame 223, giving data to 5 at time 17:1339260
+6 Requesting Read of address 46080 at time 17:1340260
+Address 46080 in frame 227, giving data to 6 at time 17:1340260
+7 Requesting Read of address 46080 at time 17:1341260
+Address 46080 in frame 232, giving data to 7 at time 17:1341260
+8 Requesting Read of address 46080 at time 17:1342260
+Address 46080 in frame 236, giving data to 8 at time 17:1342260
+9 Requesting Read of address 46080 at time 17:1343260
+Address 46080 in frame 238, giving data to 9 at time 17:1343260
+10 Requesting Read of address 46080 at time 17:1344260
+Address 46080 in frame 248, giving data to 10 at time 17:1344260
+11 Requesting Read of address 46080 at time 17:1345260
+Address 46080 in frame 249, giving data to 11 at time 17:1345260
+12 Requesting Read of address 46080 at time 17:1346260
+Page fault occurred for process 15244, page 46
+Clearing frame 0 and swapping in process 15245 page 24
+Address 46080 in frame 0, giving data to 12 at time 17:1346400
+13 Requesting Read of address 46080 at time 17:1347400
+Address 46080 in frame 3, giving data to 13 at time 17:1347400
+14 Requesting Read of address 46080 at time 17:1348400
+15 Requesting Read of address 46080 at time 17:1349400
+16 Requesting Read of address 46080 at time 17:1350400
+0 Requesting Read of address 34816 at time 17:1351400
+Address 34816 in frame 8, giving data to 0 at time 17:1351400
+1 Requesting Read of address 34816 at time 17:1352400
+Address 34816 in frame 13, giving data to 1 at time 17:1352400
+2 Requesting Read of address 34816 at time 17:1353400
+Address 34816 in frame 20, giving data to 2 at time 17:1353400
+3 Requesting Read of address 34816 at time 17:1354400
+Address 34816 in frame 30, giving data to 3 at time 17:1354400
+4 Requesting Read of address 34816 at time 17:1355400
+Address 34816 in frame 31, giving data to 4 at time 17:1355400
+5 Requesting Read of address 34816 at time 17:1356400
+Address 34816 in frame 47, giving data to 5 at time 17:1356400
+6 Requesting Read of address 34816 at time 17:1357400
+Address 34816 in frame 52, giving data to 6 at time 17:1357400
+7 Requesting Read of address 34816 at time 17:1358400
+Address 34816 in frame 54, giving data to 7 at time 17:1358400
+8 Requesting Read of address 34816 at time 17:1359400
+Address 34816 in frame 64, giving data to 8 at time 17:1359400
+9 Requesting Read of address 34816 at time 17:1360400
+Address 34816 in frame 65, giving data to 9 at time 17:1360400
+10 Requesting Read of address 34816 at time 17:1361400
+Address 34816 in frame 72, giving data to 10 at time 17:1361400
+11 Requesting Read of address 34816 at time 17:1362400
+Address 34816 in frame 81, giving data to 11 at time 17:1362400
+12 Requesting Read of address 34816 at time 17:1363400
+Address 34816 in frame 88, giving data to 12 at time 17:1363400
+13 Requesting Read of address 34816 at time 17:1364400
+Address 34816 in frame 91, giving data to 13 at time 17:1364400
+14 Requesting Read of address 34816 at time 17:1365400
+Address 34816 in frame 98, giving data to 14 at time 17:1365400
+15 Requesting Read of address 34816 at time 17:1366400
+Address 34816 in frame 100, giving data to 15 at time 17:1366400
+16 Requesting Read of address 34816 at time 17:1367400
+0 Requesting Read of address 10240 at time 17:1368400
+Address 10240 in frame 102, giving data to 0 at time 17:1368400
+1 Requesting Read of address 10240 at time 17:1369400
+Address 10240 in frame 111, giving data to 1 at time 17:1369400
+2 Requesting Read of address 10240 at time 17:1370400
+Address 10240 in frame 115, giving data to 2 at time 17:1370400
+3 Requesting Read of address 10240 at time 17:1371400
+Address 10240 in frame 121, giving data to 3 at time 17:1371400
+4 Requesting Read of address 10240 at time 17:1372400
+Address 10240 in frame 131, giving data to 4 at time 17:1372400
+5 Requesting Read of address 10240 at time 17:1373400
+Address 10240 in frame 132, giving data to 5 at time 17:1373400
+6 Requesting Read of address 10240 at time 17:1374400
+Address 10240 in frame 142, giving data to 6 at time 17:1374400
+7 Requesting Read of address 10240 at time 17:1375400
+Address 10240 in frame 145, giving data to 7 at time 17:1375400
+8 Requesting Read of address 10240 at time 17:1376400
+Address 10240 in frame 149, giving data to 8 at time 17:1376400
+9 Requesting Read of address 10240 at time 17:1377400
+Address 10240 in frame 158, giving data to 9 at time 17:1377400
+10 Requesting Read of address 10240 at time 17:1378400
+Address 10240 in frame 166, giving data to 10 at time 17:1378400
+11 Requesting Read of address 10240 at time 17:1379400
+Address 10240 in frame 170, giving data to 11 at time 17:1379400
+12 Requesting Read of address 10240 at time 17:1380400
+Address 10240 in frame 171, giving data to 12 at time 17:1380400
+13 Requesting Read of address 10240 at time 17:1381400
+Address 10240 in frame 173, giving data to 13 at time 17:1381400
+14 Requesting Read of address 10240 at time 17:1382400
+Address 10240 in frame 174, giving data to 14 at time 17:1382400
+15 Requesting Read of address 10240 at time 17:1383400
+Address 10240 in frame 183, giving data to 15 at time 17:1383400
+16 Requesting Read of address 10240 at time 17:1384400
+Address 10240 in frame 200, giving data to 16 at time 17:1384400
+0 Requesting Write of address 61440 at time 17:1385400
+Address 61440 in frame 204, writing data to 0 at time 17:1385400
+1 Requesting Write of address 61440 at time 17:1386400
+Address 61440 in frame 209, writing data to 1 at time 17:1386400
+2 Requesting Write of address 61440 at time 17:1387400
+Address 61440 in frame 210, writing data to 2 at time 17:1387400
+3 Requesting Write of address 61440 at time 17:1388400
+Address 61440 in frame 217, writing data to 3 at time 17:1388400
+4 Requesting Write of address 61440 at time 17:1389400
+5 Requesting Write of address 61440 at time 17:1390400
+6 Requesting Write of address 61440 at time 17:1391400
+Address 61440 in frame 234, writing data to 6 at time 17:1391400
+7 Requesting Write of address 61440 at time 17:1392400
+Address 61440 in frame 239, writing data to 7 at time 17:1392400
+8 Requesting Write of address 61440 at time 17:1393400
+Address 61440 in frame 251, writing data to 8 at time 17:1393400
+9 Requesting Write of address 61440 at time 17:1394400
+Page fault occurred for process 15241, page 61
+Clearing frame 7 and swapping in process 15236 page 49
+Address 61440 in frame 7, writing data to 9 at time 17:1394540
+10 Requesting Write of address 61440 at time 17:1395540
+Address 61440 in frame 12, writing data to 10 at time 17:1395540
+11 Requesting Write of address 61440 at time 17:1396540
+Address 61440 in frame 17, writing data to 11 at time 17:1396540
+12 Requesting Write of address 61440 at time 17:1397540
+Address 61440 in frame 27, writing data to 12 at time 17:1397540
+13 Requesting Write of address 61440 at time 17:1398540
+Address 61440 in frame 31, writing data to 13 at time 17:1398540
+14 Requesting Write of address 61440 at time 17:1399540
+15 Requesting Write of address 61440 at time 17:1400540
+16 Requesting Write of address 61440 at time 17:1401540
+0 Requesting Read of address 52224 at time 17:1402540
+Address 52224 in frame 79, giving data to 0 at time 17:1402540
+1 Requesting Read of address 52224 at time 17:1403540
+Address 52224 in frame 83, giving data to 1 at time 17:1403540
+2 Requesting Read of address 52224 at time 17:1404540
+Address 52224 in frame 114, giving data to 2 at time 17:1404540
+3 Requesting Read of address 52224 at time 17:1405540
+Address 52224 in frame 131, giving data to 3 at time 17:1405540
+4 Requesting Read of address 52224 at time 17:1406540
+Address 52224 in frame 134, giving data to 4 at time 17:1406540
+5 Requesting Read of address 52224 at time 17:1407540
+Address 52224 in frame 140, giving data to 5 at time 17:1407540
+6 Requesting Read of address 52224 at time 17:1408540
+Address 52224 in frame 146, giving data to 6 at time 17:1408540
+7 Requesting Read of address 52224 at time 17:1409540
+Address 52224 in frame 148, giving data to 7 at time 17:1409540
+8 Requesting Read of address 52224 at time 17:1410540
+Address 52224 in frame 154, giving data to 8 at time 17:1410540
+9 Requesting Read of address 52224 at time 17:1411540
+Address 52224 in frame 187, giving data to 9 at time 17:1411540
+10 Requesting Read of address 52224 at time 17:1412540
+Address 52224 in frame 196, giving data to 10 at time 17:1412540
+11 Requesting Read of address 52224 at time 17:1413540
+Address 52224 in frame 207, giving data to 11 at time 17:1413540
+12 Requesting Read of address 52224 at time 17:1414540
+Address 52224 in frame 215, giving data to 12 at time 17:1414540
+13 Requesting Read of address 52224 at time 17:1415540
+Address 52224 in frame 221, giving data to 13 at time 17:1415540
+14 Requesting Read of address 52224 at time 17:1416540
+Page fault occurred for process 15246, page 52
+Clearing frame 0 and swapping in process 15244 page 46
+Address 52224 in frame 0, giving data to 14 at time 17:1416680
+15 Requesting Read of address 52224 at time 17:1417680
+Address 52224 in frame 2, giving data to 15 at time 17:1417680
+16 Requesting Read of address 52224 at time 17:1418680
+0 Requesting Read of address 63488 at time 17:1419680
+Address 63488 in frame 4, giving data to 0 at time 17:1419680
+1 Requesting Read of address 63488 at time 17:1420680
+Address 63488 in frame 27, giving data to 1 at time 17:1420680
+2 Requesting Read of address 63488 at time 17:1421680
+Address 63488 in frame 49, giving data to 2 at time 17:1421680
+3 Requesting Read of address 63488 at time 17:1422680
+Address 63488 in frame 88, giving data to 3 at time 17:1422680
+4 Requesting Read of address 63488 at time 17:1423680
+Address 63488 in frame 138, giving data to 4 at time 17:1423680
+5 Requesting Read of address 63488 at time 17:1424680
+Address 63488 in frame 171, giving data to 5 at time 17:1424680
+6 Requesting Read of address 63488 at time 17:1425680
+Address 63488 in frame 215, giving data to 6 at time 17:1425680
+7 Requesting Read of address 63488 at time 17:1426680
+Page fault occurred for process 15239, page 63
+Clearing frame 1 and swapping in process 15233 page 29
+Address 63488 in frame 1, giving data to 7 at time 17:1426820
+8 Requesting Read of address 63488 at time 17:1427820
+Address 63488 in frame 5, giving data to 8 at time 17:1427820
+9 Requesting Read of address 63488 at time 17:1428820
+Address 63488 in frame 13, giving data to 9 at time 17:1428820
+10 Requesting Read of address 63488 at time 17:1429820
+Address 63488 in frame 27, giving data to 10 at time 17:1429820
+11 Requesting Read of address 63488 at time 17:1430820
+Address 63488 in frame 59, giving data to 11 at time 17:1430820
+12 Requesting Read of address 63488 at time 17:1431820
+Address 63488 in frame 60, giving data to 12 at time 17:1431820
+13 Requesting Read of address 63488 at time 17:1432820
+Address 63488 in frame 83, giving data to 13 at time 17:1432820
+14 Requesting Read of address 63488 at time 17:1433820
+Address 63488 in frame 86, giving data to 14 at time 17:1433820
+15 Requesting Read of address 63488 at time 17:1434820
+Address 63488 in frame 111, giving data to 15 at time 17:1434820
+16 Requesting Read of address 63488 at time 17:1435820
+Address 63488 in frame 161, giving data to 16 at time 17:1435820
+0 Requesting Read of address 36864 at time 17:1436820
+1 Requesting Read of address 36864 at time 17:1437820
+Address 36864 in frame 209, giving data to 1 at time 17:1437820
+2 Requesting Read of address 36864 at time 17:1438820
+3 Requesting Read of address 36864 at time 17:1439820
+4 Requesting Read of address 36864 at time 17:1440820
+Page fault occurred for process 15236, page 36
+Clearing frame 0 and swapping in process 15246 page 52
+Address 36864 in frame 0, giving data to 4 at time 17:1440960
+5 Requesting Read of address 36864 at time 17:1441960
+6 Requesting Read of address 36864 at time 17:1442960
+7 Requesting Read of address 36864 at time 17:1443960
+8 Requesting Read of address 36864 at time 17:1444960
+9 Requesting Read of address 36864 at time 17:1445960
+10 Requesting Read of address 36864 at time 17:1446960
+11 Requesting Read of address 36864 at time 17:1447960
+12 Requesting Read of address 36864 at time 17:1448960
+Address 36864 in frame 10, giving data to 12 at time 17:1448960
+13 Requesting Read of address 36864 at time 17:1449960
+Address 36864 in frame 21, giving data to 13 at time 17:1449960
+14 Requesting Read of address 36864 at time 17:1450960
+Address 36864 in frame 29, giving data to 14 at time 17:1450960
+15 Requesting Read of address 36864 at time 17:1451960
+16 Requesting Read of address 36864 at time 17:1452960
+0 Requesting Write of address 2048 at time 17:1453960
+Address 2048 in frame 32, writing data to 0 at time 17:1453960
+1 Requesting Write of address 2048 at time 17:1454960
+Address 2048 in frame 39, writing data to 1 at time 17:1454960
+2 Requesting Write of address 2048 at time 17:1455960
+Address 2048 in frame 42, writing data to 2 at time 17:1455960
+3 Requesting Write of address 2048 at time 17:1456960
+Address 2048 in frame 56, writing data to 3 at time 17:1456960
+4 Requesting Write of address 2048 at time 17:1457960
+Address 2048 in frame 62, writing data to 4 at time 17:1457960
+5 Requesting Write of address 2048 at time 17:1458960
+Address 2048 in frame 63, writing data to 5 at time 17:1458960
+6 Requesting Write of address 2048 at time 17:1459960
+Address 2048 in frame 66, writing data to 6 at time 17:1459960
+7 Requesting Write of address 2048 at time 17:1460960
+Address 2048 in frame 70, writing data to 7 at time 17:1460960
+8 Requesting Write of address 2048 at time 17:1461960
+Address 2048 in frame 74, writing data to 8 at time 17:1461960
+9 Requesting Write of address 2048 at time 17:1462960
+Address 2048 in frame 82, writing data to 9 at time 17:1462960
+10 Requesting Write of address 2048 at time 17:1463960
+Address 2048 in frame 86, writing data to 10 at time 17:1463960
+11 Requesting Write of address 2048 at time 17:1464960
+Address 2048 in frame 90, writing data to 11 at time 17:1464960
+12 Requesting Write of address 2048 at time 17:1465960
+Address 2048 in frame 92, writing data to 12 at time 17:1465960
+13 Requesting Write of address 2048 at time 17:1466960
+Address 2048 in frame 94, writing data to 13 at time 17:1466960
+14 Requesting Write of address 2048 at time 17:1467960
+Address 2048 in frame 98, writing data to 14 at time 17:1467960
+15 Requesting Write of address 2048 at time 17:1468960
+Address 2048 in frame 104, writing data to 15 at time 17:1468960
+16 Requesting Write of address 2048 at time 17:1469960
+Address 2048 in frame 120, writing data to 16 at time 17:1469960
+0 Requesting Write of address 49152 at time 17:1470960
+Address 49152 in frame 122, writing data to 0 at time 17:1470960
+1 Requesting Write of address 49152 at time 17:1471960
+Address 49152 in frame 123, writing data to 1 at time 17:1471960
+2 Requesting Write of address 49152 at time 17:1472960
+Address 49152 in frame 141, writing data to 2 at time 17:1472960
+3 Requesting Write of address 49152 at time 17:1473960
+Address 49152 in frame 147, writing data to 3 at time 17:1473960
+4 Requesting Write of address 49152 at time 17:1474960
+Address 49152 in frame 150, writing data to 4 at time 17:1474960
+5 Requesting Write of address 49152 at time 17:1475960
+6 Requesting Write of address 49152 at time 17:1476960
+Address 49152 in frame 159, writing data to 6 at time 17:1476960
+7 Requesting Write of address 49152 at time 17:1477960
+Address 49152 in frame 168, writing data to 7 at time 17:1477960
+8 Requesting Write of address 49152 at time 17:1478960
+Address 49152 in frame 172, writing data to 8 at time 17:1478960
+9 Requesting Write of address 49152 at time 17:1479960
+Address 49152 in frame 174, writing data to 9 at time 17:1479960
+10 Requesting Write of address 49152 at time 17:1480960
+Address 49152 in frame 175, writing data to 10 at time 17:1480960
+11 Requesting Write of address 49152 at time 17:1481960
+Address 49152 in frame 181, writing data to 11 at time 17:1481960
+12 Requesting Write of address 49152 at time 17:1482960
+Address 49152 in frame 188, writing data to 12 at time 17:1482960
+13 Requesting Write of address 49152 at time 17:1483960
+Address 49152 in frame 191, writing data to 13 at time 17:1483960
+14 Requesting Write of address 49152 at time 17:1484960
+Address 49152 in frame 199, writing data to 14 at time 17:1484960
+15 Requesting Write of address 49152 at time 17:1485960
+16 Requesting Write of address 49152 at time 17:1486960
+Process with pid 15232 has terminated
+Process with pid 15233 has terminated
+Process with pid 15234 has terminated
+Process with pid 15235 has terminated
+Process with pid 15236 has terminated
+Process with pid 15237 has terminated
+Process with pid 15238 has terminated
+Process with pid 15239 has terminated
+Process with pid 15240 has terminated
+Process with pid 15241 has terminated
+Process with pid 15242 has terminated
+Process with pid 15243 has terminated
+Process with pid 15244 has terminated
+Process with pid 15245 has terminated
+Process with pid 15246 has terminated
+Process with pid 15247 has terminated
+Process with pid 15248 has terminated
+0 Requesting Read of address 55296 at time 20:1504960
+Address 55296 in frame 0, giving data to 0 at time 20:1504960
+1 Requesting Read of address 55296 at time 20:1505960
+Address 55296 in frame 1, giving data to 1 at time 20:1505960
+2 Requesting Read of address 37888 at time 20:1506960
+Address 37888 in frame 2, giving data to 2 at time 20:1506960
+0 Requesting Read of address 9216 at time 20:1507960
+Address 9216 in frame 3, giving data to 0 at time 20:1507960
+1 Requesting Read of address 9216 at time 20:1508960
+Address 9216 in frame 4, giving data to 1 at time 20:1508960
+2 Requesting Read of address 19456 at time 20:1509960
+Address 19456 in frame 5, giving data to 2 at time 20:1509960
+0 Requesting Read of address 34816 at time 20:1510960
+Address 34816 in frame 6, giving data to 0 at time 20:1510960
+1 Requesting Read of address 34816 at time 20:1511960
+Address 34816 in frame 7, giving data to 1 at time 20:1511960
+2 Requesting Write of address 5120 at time 20:1512960
+Address 5120 in frame 8, writing data to 2 at time 20:1512960
+0 Requesting Write of address 23552 at time 20:1513960
+Address 23552 in frame 9, writing data to 0 at time 20:1513960
+1 Requesting Write of address 23552 at time 20:1514960
+Address 23552 in frame 10, writing data to 1 at time 20:1514960
+2 Requesting Read of address 28672 at time 20:1515960
+Address 28672 in frame 11, giving data to 2 at time 20:1515960
+0 Requesting Read of address 12288 at time 20:1516960
+Address 12288 in frame 12, giving data to 0 at time 20:1516960
+1 Requesting Read of address 12288 at time 20:1517960
+Address 12288 in frame 13, giving data to 1 at time 20:1517960
+2 Requesting Write of address 36864 at time 20:1518960
+Address 36864 in frame 14, writing data to 2 at time 20:1518960
+0 Requesting Read of address 31744 at time 20:1519960
+Address 31744 in frame 15, giving data to 0 at time 20:1519960
+1 Requesting Read of address 31744 at time 20:1520960
+Address 31744 in frame 16, giving data to 1 at time 20:1520960
+2 Requesting Read of address 34816 at time 20:1521960
+Address 34816 in frame 17, giving data to 2 at time 20:1521960
+0 Requesting Read of address 48128 at time 20:1522960
+Address 48128 in frame 18, giving data to 0 at time 20:1522960
+1 Requesting Read of address 48128 at time 20:1523960
+Address 48128 in frame 19, giving data to 1 at time 20:1523960
+2 Requesting Read of address 30720 at time 20:1524960
+Address 30720 in frame 20, giving data to 2 at time 20:1524960
+0 Requesting Read of address 8192 at time 20:1525960
+Address 8192 in frame 21, giving data to 0 at time 20:1525960
+1 Requesting Read of address 8192 at time 20:1526960
+Address 8192 in frame 22, giving data to 1 at time 20:1526960
+2 Requesting Read of address 52224 at time 20:1527960
+Address 52224 in frame 23, giving data to 2 at time 20:1527960
+0 Requesting Write of address 46080 at time 20:1528960
+Address 46080 in frame 24, writing data to 0 at time 20:1528960
+1 Requesting Write of address 46080 at time 20:1529960
+Address 46080 in frame 25, writing data to 1 at time 20:1529960
+2 Requesting Read of address 24576 at time 20:1530960
+Address 24576 in frame 26, giving data to 2 at time 20:1530960
+0 Requesting Write of address 64512 at time 20:1531960
+1 Requesting Write of address 64512 at time 20:1532960
+2 Requesting Read of address 14336 at time 20:1533960
+Address 14336 in frame 27, giving data to 2 at time 20:1533960
+0 Requesting Read of address 49152 at time 20:1534960
+Address 49152 in frame 28, giving data to 0 at time 20:1534960
+1 Requesting Read of address 49152 at time 20:1535960
+Address 49152 in frame 29, giving data to 1 at time 20:1535960
+2 Requesting Read of address 36864 at time 20:1536960
+0 Requesting Read of address 22528 at time 20:1537960
+Address 22528 in frame 30, giving data to 0 at time 20:1537960
+1 Requesting Read of address 22528 at time 20:1538960
+Address 22528 in frame 31, giving data to 1 at time 20:1538960
+2 Requesting Read of address 57344 at time 20:1539960
+Address 57344 in frame 32, giving data to 2 at time 20:1539960
+0 Requesting Read of address 60416 at time 20:1540960
+Address 60416 in frame 33, giving data to 0 at time 20:1540960
+1 Requesting Read of address 60416 at time 20:1541960
+Address 60416 in frame 34, giving data to 1 at time 20:1541960
+2 Requesting Write of address 25600 at time 20:1542960
+Address 25600 in frame 35, writing data to 2 at time 20:1542960
+0 Requesting Read of address 2048 at time 20:1543960
+Address 2048 in frame 36, giving data to 0 at time 20:1543960
+1 Requesting Read of address 2048 at time 20:1544960
+Address 2048 in frame 37, giving data to 1 at time 20:1544960
+2 Requesting Read of address 30720 at time 20:1545960
+0 Requesting Read of address 27648 at time 20:1546960
+Address 27648 in frame 38, giving data to 0 at time 20:1546960
+1 Requesting Read of address 27648 at time 20:1547960
+Address 27648 in frame 39, giving data to 1 at time 20:1547960
+2 Requesting Read of address 36864 at time 20:1548960
+0 Requesting Read of address 6144 at time 20:1549960
+Address 6144 in frame 40, giving data to 0 at time 20:1549960
+1 Requesting Read of address 6144 at time 20:1550960
+Address 6144 in frame 41, giving data to 1 at time 20:1550960
+2 Requesting Read of address 27648 at time 20:1551960
+Address 27648 in frame 42, giving data to 2 at time 20:1551960
+Process with pid 15280 has terminated
+Process with pid 15281 has terminated
+2 Requesting Read of address 3072 at time 20:1554960
+Address 3072 in frame 0, giving data to 2 at time 20:1554960
+2 Requesting Read of address 13312 at time 20:1555960
+Address 13312 in frame 1, giving data to 2 at time 20:1555960
+2 Requesting Write of address 26624 at time 20:1556960
+Address 26624 in frame 3, writing data to 2 at time 20:1556960
+2 Requesting Write of address 47104 at time 20:1557960
+Address 47104 in frame 4, writing data to 2 at time 20:1557960
+2 Requesting Read of address 15360 at time 20:1558960
+Address 15360 in frame 6, giving data to 2 at time 20:1558960
+2 Requesting Read of address 29696 at time 20:1559960
+Address 29696 in frame 7, giving data to 2 at time 20:1559960
+2 Requesting Read of address 3072 at time 20:1560960
+2 Requesting Read of address 50176 at time 20:1561960
+Address 50176 in frame 9, giving data to 2 at time 20:1561960
+2 Requesting Read of address 8192 at time 20:1562960
+Address 8192 in frame 10, giving data to 2 at time 20:1562960
+2 Requesting Read of address 56320 at time 20:1563960
+Address 56320 in frame 12, giving data to 2 at time 20:1563960
+2 Requesting Read of address 55296 at time 20:1564960
+Address 55296 in frame 13, giving data to 2 at time 20:1564960
+2 Requesting Read of address 44032 at time 20:1565960
+Address 44032 in frame 15, giving data to 2 at time 20:1565960
+Process with pid 15282 has terminated

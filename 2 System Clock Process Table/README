@@ -1,0 +1,33 @@
+# READMEFILE
+AUTHOR: SEAN CLEWIS
+PURPOSE: Project 2 process tables
+
+To execute this program compile the included make file
+
+and execute ./oss -t 100 -i 50 -n 20 -s 4
+
+you can also call with -h for a help screen explaining the parameters
+
+if you forget any parameters the default values are 
+n = 10
+s = 5
+n = 7
+i = 1000
+
+Notes: my clock is based on mili seconds instead of nano seconds, i couldnt slow down the system enough to avoid overloading using nanoseconds
+
+There also seem to be a some bugs with the interval for starting processes. It seems to work but also doesn't apply the correct range input from the command line. Not sure why.
+
+The process Table, worker file, forking all seem to be functioning correctly though. 
+
+There is also a random number to randomize the time of execution for the children. It uses the srand function so it doesn't appear as random as it should. 
+
+Additionally the program gracefully terminates when calling control c.
+
+Moreover, I watched the video on signal handling a timeout and added it into the project, However it doesn't seem to work. 
+
+So, I added a loop to terminate itself after it hits 60 clock seconds instead
+
+The memory is cleared and detached when the program terminates.
+
+I've also output strings to see when processes have terminated and all workers have finished executing.

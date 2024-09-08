@@ -1,0 +1,39 @@
+Author: Sean Clewis
+Purpose: Simulated Operating system resource management
+Date 4/18/2024
+
+Description: This process is designed to simulate how an operating system Manages resources to each process. It uses banker's algorithm for deadlock detection.  It also uses shared memory to synchronize the clock and message ques to send information from children to parent. The OSS has a non blocking rcv call. I delete one process to resolve the deadlock before looping back through the program.
+
+Execution: To execute these files, ensure you oss.c and worker.c are in the same directory along with the makefile. type make to  compile the project with the included make file. 
+
+Program execution examples: ./oss
+	./oss -s 5
+	./oss -s 5 -n 4 i 10 -f logfile.txt 
+
+The parameters for this script are -h for a help menu, -s for how many processes should be executed simultaneously, -f for the name of the logfile, -i for the interval delay to launch processes is ms.
+
+You can run any combination of the parameters with each other or omit them entirely. 
+
+The default values for these parameters when simply calling ./oss is 
+
+n = 20
+s = 5
+i = 10
+f = log.txt
+
+The log file output will detail what operations the oss are performing, it is limited to 10,000 lines. The process table will output information to the screen in intervals. as well as the resource allocation. I've opted to not include the resource allocation in the logfile due to it cluttering everything and hiding the other input. 
+
+The workers chance to allocate resources is 80% while the chance to deallocate is 20%
+the workers select a random resource between 0 and max.
+
+The simulated time clock is not meant to be representative of the real time. As such, the simulated oss runs very quicky
+
+I randomize the maximum amount of resources available to the system for each resource from a value of 1 - 10
+
+When available resources are expired and a process requests resources they will be denied and eventually lead to a deadlock scenario which is detected using bakers algorithm. I call the algorithm every 10000 simulated nanoseconds
+
+Got the algorithm from https://www.javatpoint.com/bankers-algorithm-in-c. Copy and pasted then modified as needed.
+
+NOTES: the default parameters work fine but when increasing to large process and simultaneous counts it tends to crash for some reason on the opsys server.
+
+Also, I created a table large enough to run more processes, but as stated earlier, it crashes. So, most of the resource table doesn't get accessed from the lower half that exceeds the process count. So, there is a lot of extra output in the resource table that is actually just static.

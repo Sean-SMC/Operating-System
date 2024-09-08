@@ -1,0 +1,248 @@
+Generating process with pid 4148938 and putting it in queue 0 at time 0:0
+Recieving that process 4148938 ran for 10000008 nanoseconds
+Dispatching process with PID 4148938 from que 0 at time 0:20000008
+Generating process with pid 4148939 and putting it in queue 0 at time 0:20000008
+Recieving that process 4148939 ran for 10000008 nanoseconds
+Dispatching process with PID 4148939 from que 0 at time 0:40000016
+Generating process with pid 4148940 and putting it in queue 0 at time 0:40000016
+Recieving that process 4148940 ran for 10000008 nanoseconds
+Dispatching process with PID 4148940 from que 0 at time 0:60000024
+Generating process with pid 4148941 and putting it in queue 0 at time 0:60000024
+Recieving that process 4148941 ran for 10000008 nanoseconds
+Dispatching process with PID 4148941 from que 0 at time 0:80000032
+Generating process with pid 4148942 and putting it in queue 0 at time 0:80000032
+Recieving that process 4148942 ran for 10000008 nanoseconds
+Dispatching process with PID 4148942 from que 0 at time 0:100000040
+Recieving that process 4148938 ran for 20000000 nanoseconds
+Dispatching process with PID 4148938 from que 1 at time 0:120000040
+Recieving that process 4148939 ran for 20000000 nanoseconds
+Dispatching process with PID 4148939 from que 1 at time 0:140000040
+Recieving that process 4148940 ran for 20000000 nanoseconds
+Dispatching process with PID 4148940 from que 1 at time 0:160000040
+Recieving that process 4148941 ran for 20000000 nanoseconds
+Dispatching process with PID 4148941 from que 1 at time 0:180000040
+Recieving that process 4148942 ran for 20000000 nanoseconds
+Dispatching process with PID 4148942 from que 1 at time 0:200000040
+Recieving that process 4148938 ran for 40000009 nanoseconds
+Dispatching process with PID 4148938 from que 2 at time 0:240000049
+Recieving that process 4148939 ran for 40000009 nanoseconds
+Dispatching process with PID 4148939 from que 2 at time 0:280000058
+Recieving that process 4148940 ran for 40000009 nanoseconds
+Dispatching process with PID 4148940 from que 2 at time 0:320000067
+Recieving that process 4148941 ran for 40000009 nanoseconds
+Dispatching process with PID 4148941 from que 2 at time 0:360000076
+Recieving that process 4148942 ran for 40000009 nanoseconds
+Dispatching process with PID 4148942 from que 2 at time 0:400000085
+Recieving that process 4148938 ran for 40000003 nanoseconds
+Dispatching process with PID 4148938 from que 2 at time 0:440000088
+Recieving that process 4148939 ran for 40000003 nanoseconds
+Dispatching process with PID 4148939 from que 2 at time 0:480000091
+Recieving that process 4148940 ran for 40000003 nanoseconds
+Dispatching process with PID 4148940 from que 2 at time 0:520000094
+Recieving that process 4148941 ran for 40000003 nanoseconds
+Dispatching process with PID 4148941 from que 2 at time 0:560000097
+Recieving that process 4148942 ran for 40000003 nanoseconds
+Dispatching process with PID 4148942 from que 2 at time 0:600000100
+Recieving that process 4148938 ran for 40000008 nanoseconds
+Dispatching process with PID 4148938 from que 2 at time 0:640000108
+Recieving that process 4148939 ran for 40000008 nanoseconds
+Dispatching process with PID 4148939 from que 2 at time 0:680000116
+Recieving that process 4148940 ran for 40000008 nanoseconds
+Dispatching process with PID 4148940 from que 2 at time 0:720000124
+Recieving that process 4148941 ran for -40000000 nanoseconds
+Process with pid 4148941 used its time quantum
+Generating process with pid 4148943 and putting it in queue 0 at time 0:760000124
+Recieving that process 4148943 ran for 10000008 nanoseconds
+Dispatching process with PID 4148943 from que 0 at time 0:780000132
+Recieving that process 4148943 ran for 20000000 nanoseconds
+Dispatching process with PID 4148943 from que 1 at time 0:800000132
+Recieving that process 4148942 ran for 40000008 nanoseconds
+Dispatching process with PID 4148942 from que 2 at time 0:840000140
+Recieving that process 4148938 ran for -36208157 nanoseconds
+Process with pid 4148938 used its time quantum
+Generating process with pid 4148944 and putting it in queue 0 at time 0:876208297
+Recieving that process 4148944 ran for 10000008 nanoseconds
+Dispatching process with PID 4148944 from que 0 at time 0:896208305
+Recieving that process 4148944 ran for 20000000 nanoseconds
+Dispatching process with PID 4148944 from que 1 at time 0:916208305
+Recieving that process 4148939 ran for -36208157 nanoseconds
+Process with pid 4148939 used its time quantum
+Generating process with pid 4148945 and putting it in queue 0 at time 0:952416462
+Recieving that process 4148945 ran for 10000008 nanoseconds
+Dispatching process with PID 4148945 from que 0 at time 0:972416470
+Recieving that process 4148945 ran for 20000000 nanoseconds
+Dispatching process with PID 4148945 from que 1 at time 0:992416470
+Recieving that process 4148940 ran for -36208157 nanoseconds
+Process with pid 4148940 used its time quantum
+Generating process with pid 4148946 and putting it in queue 0 at time 1:28624627
+Recieving that process 4148946 ran for 10000008 nanoseconds
+Dispatching process with PID 4148946 from que 0 at time 1:48624635
+Recieving that process 4148946 ran for 20000000 nanoseconds
+Dispatching process with PID 4148946 from que 1 at time 1:68624635
+Recieving that process 4148943 ran for 40000009 nanoseconds
+Dispatching process with PID 4148943 from que 2 at time 1:108624644
+Recieving that process 4148942 ran for -36208157 nanoseconds
+Process with pid 4148942 used its time quantum
+Generating process with pid 4148947 and putting it in queue 0 at time 1:144832801
+Recieving that process 4148947 ran for 10000008 nanoseconds
+Dispatching process with PID 4148947 from que 0 at time 1:164832809
+Recieving that process 4148947 ran for 20000000 nanoseconds
+Dispatching process with PID 4148947 from que 1 at time 1:184832809
+Recieving that process 4148944 ran for 40000009 nanoseconds
+Dispatching process with PID 4148944 from que 2 at time 1:224832818
+Recieving that process 4148945 ran for 40000009 nanoseconds
+Dispatching process with PID 4148945 from que 2 at time 1:264832827
+Recieving that process 4148946 ran for 40000009 nanoseconds
+Dispatching process with PID 4148946 from que 2 at time 1:304832836
+Recieving that process 4148943 ran for 40000003 nanoseconds
+Dispatching process with PID 4148943 from que 2 at time 1:344832839
+Recieving that process 4148947 ran for 40000009 nanoseconds
+Dispatching process with PID 4148947 from que 2 at time 1:384832848
+Recieving that process 4148944 ran for 40000003 nanoseconds
+Dispatching process with PID 4148944 from que 2 at time 1:424832851
+Recieving that process 4148945 ran for 40000003 nanoseconds
+Dispatching process with PID 4148945 from que 2 at time 1:464832854
+Recieving that process 4148946 ran for 40000003 nanoseconds
+Dispatching process with PID 4148946 from que 2 at time 1:504832857
+Recieving that process 4148943 ran for 40000008 nanoseconds
+Dispatching process with PID 4148943 from que 2 at time 1:544832865
+Recieving that process 4148947 ran for 40000003 nanoseconds
+Dispatching process with PID 4148947 from que 2 at time 1:584832868
+Recieving that process 4148944 ran for 40000008 nanoseconds
+Dispatching process with PID 4148944 from que 2 at time 1:624832876
+Recieving that process 4148945 ran for 40000008 nanoseconds
+Dispatching process with PID 4148945 from que 2 at time 1:664832884
+Recieving that process 4148946 ran for 40000008 nanoseconds
+Dispatching process with PID 4148946 from que 2 at time 1:704832892
+Recieving that process 4148943 ran for -36208157 nanoseconds
+Process with pid 4148943 used its time quantum
+Generating process with pid 4148948 and putting it in queue 0 at time 1:741041049
+Recieving that process 4148948 ran for 10000008 nanoseconds
+Dispatching process with PID 4148948 from que 0 at time 1:761041057
+Recieving that process 4148948 ran for 20000000 nanoseconds
+Dispatching process with PID 4148948 from que 1 at time 1:781041057
+Recieving that process 4148947 ran for -40000000 nanoseconds
+Process with pid 4148947 used its time quantum
+Generating process with pid 4148949 and putting it in queue 0 at time 1:821041057
+Recieving that process 4148949 ran for 10000008 nanoseconds
+Dispatching process with PID 4148949 from que 0 at time 1:841041065
+Recieving that process 4148949 ran for 20000000 nanoseconds
+Dispatching process with PID 4148949 from que 1 at time 1:861041065
+Recieving that process 4148944 ran for -36208157 nanoseconds
+Process with pid 4148944 used its time quantum
+Generating process with pid 4148950 and putting it in queue 0 at time 1:897249222
+Recieving that process 4148950 ran for 10000008 nanoseconds
+Dispatching process with PID 4148950 from que 0 at time 1:917249230
+Recieving that process 4148950 ran for 20000000 nanoseconds
+Dispatching process with PID 4148950 from que 1 at time 1:937249230
+Recieving that process 4148945 ran for -36208157 nanoseconds
+Process with pid 4148945 used its time quantum
+Generating process with pid 4148951 and putting it in queue 0 at time 1:973457387
+Recieving that process 4148951 ran for 10000008 nanoseconds
+Dispatching process with PID 4148951 from que 0 at time 1:993457395
+Recieving that process 4148951 ran for 20000000 nanoseconds
+Dispatching process with PID 4148951 from que 1 at time 2:13457395
+Recieving that process 4148946 ran for -36208157 nanoseconds
+Process with pid 4148946 used its time quantum
+Generating process with pid 4148952 and putting it in queue 0 at time 2:49665552
+Recieving that process 4148952 ran for 10000008 nanoseconds
+Dispatching process with PID 4148952 from que 0 at time 2:69665560
+Recieving that process 4148952 ran for 20000000 nanoseconds
+Dispatching process with PID 4148952 from que 1 at time 2:89665560
+Recieving that process 4148948 ran for 40000009 nanoseconds
+Dispatching process with PID 4148948 from que 2 at time 2:129665569
+Recieving that process 4148949 ran for 40000009 nanoseconds
+Dispatching process with PID 4148949 from que 2 at time 2:169665578
+Recieving that process 4148950 ran for 40000009 nanoseconds
+Dispatching process with PID 4148950 from que 2 at time 2:209665587
+Recieving that process 4148951 ran for 40000009 nanoseconds
+Dispatching process with PID 4148951 from que 2 at time 2:249665596
+Recieving that process 4148952 ran for 40000009 nanoseconds
+Dispatching process with PID 4148952 from que 2 at time 2:289665605
+Recieving that process 4148948 ran for 40000003 nanoseconds
+Dispatching process with PID 4148948 from que 2 at time 2:329665608
+Recieving that process 4148949 ran for 40000003 nanoseconds
+Dispatching process with PID 4148949 from que 2 at time 2:369665611
+Recieving that process 4148950 ran for 40000003 nanoseconds
+Dispatching process with PID 4148950 from que 2 at time 2:409665614
+Recieving that process 4148951 ran for 40000003 nanoseconds
+Dispatching process with PID 4148951 from que 2 at time 2:449665617
+Recieving that process 4148952 ran for 40000003 nanoseconds
+Dispatching process with PID 4148952 from que 2 at time 2:489665620
+Recieving that process 4148948 ran for 40000008 nanoseconds
+Dispatching process with PID 4148948 from que 2 at time 2:529665628
+Recieving that process 4148949 ran for 40000008 nanoseconds
+Dispatching process with PID 4148949 from que 2 at time 2:569665636
+Recieving that process 4148950 ran for 40000008 nanoseconds
+Dispatching process with PID 4148950 from que 2 at time 2:609665644
+Recieving that process 4148951 ran for 40000008 nanoseconds
+Dispatching process with PID 4148951 from que 2 at time 2:649665652
+Recieving that process 4148952 ran for -40000000 nanoseconds
+Process with pid 4148952 used its time quantum
+Generating process with pid 4148953 and putting it in queue 0 at time 2:689665652
+Recieving that process 4148953 ran for 10000008 nanoseconds
+Dispatching process with PID 4148953 from que 0 at time 2:709665660
+Recieving that process 4148953 ran for 20000000 nanoseconds
+Dispatching process with PID 4148953 from que 1 at time 2:729665660
+Recieving that process 4148948 ran for -36208157 nanoseconds
+Process with pid 4148948 used its time quantum
+Generating process with pid 4148954 and putting it in queue 0 at time 2:765873817
+Recieving that process 4148954 ran for 10000008 nanoseconds
+Dispatching process with PID 4148954 from que 0 at time 2:785873825
+Recieving that process 4148954 ran for 20000000 nanoseconds
+Dispatching process with PID 4148954 from que 1 at time 2:805873825
+Recieving that process 4148949 ran for -36208157 nanoseconds
+Process with pid 4148949 used its time quantum
+Generating process with pid 4148955 and putting it in queue 0 at time 2:842081982
+Recieving that process 4148955 ran for 10000008 nanoseconds
+Dispatching process with PID 4148955 from que 0 at time 2:862081990
+Recieving that process 4148955 ran for 20000000 nanoseconds
+Dispatching process with PID 4148955 from que 1 at time 2:882081990
+Recieving that process 4148950 ran for -36208157 nanoseconds
+Process with pid 4148950 used its time quantum
+Generating process with pid 4148956 and putting it in queue 0 at time 2:918290147
+Recieving that process 4148956 ran for 10000008 nanoseconds
+Dispatching process with PID 4148956 from que 0 at time 2:938290155
+Recieving that process 4148956 ran for 20000000 nanoseconds
+Dispatching process with PID 4148956 from que 1 at time 2:958290155
+Recieving that process 4148951 ran for -36208157 nanoseconds
+Process with pid 4148951 used its time quantum
+Generating process with pid 4148957 and putting it in queue 0 at time 2:994498312
+Recieving that process 4148957 ran for 10000008 nanoseconds
+Dispatching process with PID 4148957 from que 0 at time 3:14498320
+Recieving that process 4148957 ran for 20000000 nanoseconds
+Dispatching process with PID 4148957 from que 1 at time 3:34498320
+Recieving that process 4148953 ran for 40000009 nanoseconds
+Dispatching process with PID 4148953 from que 2 at time 3:74498329
+Recieving that process 4148954 ran for 40000009 nanoseconds
+Dispatching process with PID 4148954 from que 2 at time 3:114498338
+Recieving that process 4148955 ran for 40000009 nanoseconds
+Dispatching process with PID 4148955 from que 2 at time 3:154498347
+Recieving that process 4148956 ran for 40000009 nanoseconds
+Dispatching process with PID 4148956 from que 2 at time 3:194498356
+Recieving that process 4148957 ran for 40000009 nanoseconds
+Dispatching process with PID 4148957 from que 2 at time 3:234498365
+Recieving that process 4148953 ran for 40000003 nanoseconds
+Dispatching process with PID 4148953 from que 2 at time 3:274498368
+Recieving that process 4148954 ran for 40000003 nanoseconds
+Dispatching process with PID 4148954 from que 2 at time 3:314498371
+Recieving that process 4148955 ran for 40000003 nanoseconds
+Dispatching process with PID 4148955 from que 2 at time 3:354498374
+Recieving that process 4148956 ran for -40000000 nanoseconds
+Process with pid 4148956 used its time quantum
+Recieving that process 4148957 ran for 40000003 nanoseconds
+Dispatching process with PID 4148957 from que 2 at time 3:434498377
+Recieving that process 4148953 ran for -40000000 nanoseconds
+Process with pid 4148953 used its time quantum
+Recieving that process 4148954 ran for 40000008 nanoseconds
+Dispatching process with PID 4148954 from que 2 at time 3:514498385
+Recieving that process 4148955 ran for 40000008 nanoseconds
+Dispatching process with PID 4148955 from que 2 at time 3:554498393
+Recieving that process 4148957 ran for 40000008 nanoseconds
+Dispatching process with PID 4148957 from que 2 at time 3:594498401
+Recieving that process 4148954 ran for -36208157 nanoseconds
+Process with pid 4148954 used its time quantum
+Recieving that process 4148955 ran for -36208157 nanoseconds
+Process with pid 4148955 used its time quantum
+Recieving that process 4148957 ran for -36208157 nanoseconds
+Process with pid 4148957 used its time quantum

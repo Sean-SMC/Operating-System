@@ -1,0 +1,30 @@
+/********************************************************
+AUTHOR: Sean Clewis
+DATE: 2/5/2024
+PURPOSE: Project 1 forking processes
+
+Description:
+
+To use this program input the following parameters (n,s,t) followed by a number 
+
+./oss -n 5 -t 3 -s 2
+
+n: represents the number of processes you wish to create
+
+t: represents the total number of iterations to run each process
+
+s: represents the number of processes you wish to run simultaneously, 
+  if you have more processes your simultaneous max, the program will wait for a process to finish before running the next
+
+You can also call this program with the -h to open a help menu
+
+This program will output the PID of the process, pid of the parent, and the number of iterations before and after waiting 1 second intervals
+
+Additionally, it will print to the screen every time a process finishes executing
+
+To compile the project just use make from the make file. It will compile both files into seperate executables (oss,user)
+
+I used the code provided in canvas for the make file but i modified it to work with my file names
+
+I also used git to manage the version control for this project
+************************************************************/

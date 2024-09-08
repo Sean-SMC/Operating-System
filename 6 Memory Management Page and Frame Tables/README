@@ -1,0 +1,44 @@
+Author: Sean Clewis
+Purpose: Simulated Operating  memory management
+Date 5/2/2024
+
+Description: This program is designed to simulate how an operating system Manages memory utilizing a page table for each process and a frame table indicating the total system memory. There are 256k frames, with a page size of 1k and 64k size page tables for each process.
+
+Execution: To execute these files, ensure you oss.c and worker.c are in the same directory along with the makefile. type make to  compile the project with the included make file. 
+
+Program execution examples: ./oss
+	./oss -s 5
+	./oss -s 5 -n 4 i 10 -f logfile.txt 
+
+The parameters for this script are -h for a help menu, -s for how many processes should be executed simultaneously, -f for the name of the logfile, -i for the interval delay to launch processes is ms.
+
+You can run any combination of the parameters with each other or omitt them entirely. 
+
+The default values for these parameters when simply calling ./oss is 
+
+n = 20
+s = 16
+i = 10
+f = log.txt
+p - flag to see full frame table
+
+The log file output will detail what operations the oss are performing, it is limited to 10,000 lines. The process table will output information to the screen in intervals. as well as the frame and page tables I've opted to shorten the output of the frame table in the console window to prevent cluttering. It only shows the first 10 entries. The log file has the next 20 entries. I've also decide not to print the entire page table due to clutter and instead gave a page index inside the frame table. Additionally, a page index of -1 means that it is not occupied. If you want to see the full log file  set the -p flag to 1 or any number greater and it will show the full frame table but it clutters the output. 
+
+The workers chance to write to a file  is 15% while the chance to read is 85%
+
+The workers select a random  integer between 0 and 64; then multiply by 1024 to get the address. 
+Additionally I've removed the offset because I'm confused on why it is needed. Adding 1023 to the address then dividing to get the page file gives me a index above 64 which crashes, so I disabled the offset.
+
+Also, the workers chance to terminate is set to a 3% chance and their resources will be cleared appropriately when that happens by the oss.
+
+The oss does not create an actual block que but just simulates that process by adding time into the system when a page fault has occurred; before making the request to write to memory. 
+
+it also used the second chance method to determine which process should be run next
+
+The simulated time clock is not meant to be representative of the real time. As such, the simulated oss runs very quicky
+
+used this website for a reference for the second chance algorithm
+
+For the statistics, I don't count page faults for the first time the frame is being allocated. 
+
+https://www.geeksforgeeks.org/second-chance-or-clock-page-replacement-policy/
