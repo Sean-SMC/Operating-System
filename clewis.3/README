@@ -1,0 +1,48 @@
+# READMEFILE
+AUTHOR: SEAN CLEWIS
+PURPOSE: Project 3 Message ques
+DATEL 5/9/2024
+
+To execute this program compile the included make file
+
+and execute ./oss -t 100 -i 50 -n 20 -s 4 -f filename.txt
+
+you can also call with -h for a help screen explaining the parameters
+
+you can also just run ./oss with no parameters as the default values are
+n = 20
+s = 17
+t = 10
+i = 10
+f - log.txt
+
+S has been capped to 17 like some of the previous project to limit resource exauhstion and crashing. I interval has been limited to max of 50 for the same reason.
+
+The difference between this project and the last is the execution of message ques. I've repurposed project 6 and removed all the paging so that it will match the specification of project 3. I've  also rewritten a lot of the code in oss and worker in order to fit the project specification.
+The message ques now successfully work unlike the last project. Additionally, the t, s, and i parameters all work as expected per specification. 
+
+The program runs as intended, though it might run slow at times. Sometimes when running large values of t and s it appears to be frozen, but it just needs a couple seconds to execute properly.
+
+The clock is incremented by 250 / running processes.
+ 
+The log file captures the output properly.
+
+The log file  has been limited to 10k lines
+
+There is also a random number to randomize the time of execution for the workers. It uses the srand function so it doesn't appear as random as it should. 
+
+Additionally the program gracefully terminates when calling control c.
+
+The signal handler on timeout works as well.
+
+The memory is cleared and detached when the program terminates.
+
+I've also output strings to see when processes have terminated and all workers have finished executing.
+
+The output of the PCB and messages from the worker are output at specific intervals relative to the system clock.
+
+The system is not designed to simulate real time and just runs through its execution as fast as possible. 
+
+Due to the gap when the PCB and Workers are printed it may seem the data is not correct but thats just do to not printing every iteration.
+
+The log file captures the data more accurately. 

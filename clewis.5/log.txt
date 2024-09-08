@@ -1,0 +1,717 @@
+Masterrunning deadlockdetectiopn at time 1:0: No Deadlock
+Masterrunning deadlockdetectiopn at time 5:10000: No Deadlock
+Masterrunning deadlockdetectiopn at time 5:20000: No Deadlock
+Master has detected Process P: 0 requested R: 7 at time 5:25000
+Master granting P: 0 request R: 7 at time 5:25000
+Master has detected Process P: 1 requested R: 7 at time 5:26000
+Master granting P: 1 request R: 7 at time 5:26000
+Master has detected Process P: 2 requested R: 7 at time 5:27000
+Master granting P: 2 request R: 7 at time 5:27000
+Master has detected Process P: 3 requested R: 7 at time 5:28000
+Master granting P: 3 request R: 7 at time 5:28000
+Master has detected Process P: 4 requested R: 7 at time 5:29000
+Master granting P: 4 request R: 7 at time 5:29000
+Masterrunning deadlockdetectiopn at time 5:30000: No Deadlock
+Masterrunning deadlockdetectiopn at time 5:40000: No Deadlock
+Master has detected Process P: 0 requested R: 4 at time 5:48000
+Master granting P: 0 request R: 4 at time 5:48000
+Master has detected Process P: 1 requested R: 4 at time 5:49000
+Master granting P: 1 request R: 4 at time 5:49000
+Master has detected Process P: 2 requested R: 4 at time 5:50000
+Master granting P: 2 request R: 4 at time 5:50000
+Masterrunning deadlockdetectiopn at time 5:50000: No Deadlock
+Master has detected Process P: 3 requested R: 4 at time 5:51000
+Master granting P: 3 request R: 4 at time 5:51000
+Master has detected Process P: 4 requested R: 4 at time 5:52000
+Master granting P: 4 request R: 4 at time 5:52000
+Masterrunning deadlockdetectiopn at time 5:60000: No Deadlock
+Masterrunning deadlockdetectiopn at time 5:70000: No Deadlock
+Master has detected Process P: 0 requested R: 3 at time 5:72000
+Master granting P: 0 request R: 3 at time 5:72000
+Master has detected Process P: 1 requested R: 3 at time 5:73000
+Master granting P: 1 request R: 3 at time 5:73000
+Master has detected Process P: 2 requested R: 3 at time 5:74000
+Master granting P: 2 request R: 3 at time 5:74000
+Master has detected Process P: 3 requested R: 3 at time 5:75000
+Master granting P: 3 request R: 3 at time 5:75000
+Master has detected Process P: 4 requested R: 3 at time 5:76000
+Master granting P: 4 request R: 3 at time 5:76000
+Master running deadlock detection at time 5:80000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 5:80000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 5:80000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 5:80000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 5:80000
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 5:80000
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 5:80000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 5:80000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 5:80000
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 5:80000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 5:80000
+Resources Released : R9: 0
+    Resources released: R9,
+Master running deadlock detection at time 6:90000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 6:90000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 6:90000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 6:90000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 6:90000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 6:90000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 6:90000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 6:90000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 6:90000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 6:90000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 6:90000
+Resources Released : R9: 0
+    Resources released: R9,
+Master has detected Process P: 1 requested R: 0 at time 7:93000
+Master granting P: 1 request R: 0 at time 7:93000
+Master has detected Process P: 2 requested R: 0 at time 7:94000
+Master granting P: 2 request R: 0 at time 7:94000
+Master has detected Process P: 3 requested R: 0 at time 7:95000
+Master granting P: 3 request R: 0 at time 7:95000
+Master has detected Process P: 4 requested R: 0 at time 7:96000
+Master granting P: 4 request R: 0 at time 7:96000
+Master running deadlock detection at time 7:100000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 7:100000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 7:100000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 7:100000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 7:100000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 7:100000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 7:100000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 7:100000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 7:100000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 7:100000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 7:100000
+Resources Released : R9: 0
+    Resources released: R9,
+Master running deadlock detection at time 8:110000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 8:110000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 8:110000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 8:110000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 8:110000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 8:110000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 8:110000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 8:110000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 8:110000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 8:110000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 8:110000
+Resources Released : R9: 0
+    Resources released: R9,
+Master has detected Process P: 1 requested R: 0 at time 9:114000
+Master granting P: 1 request R: 0 at time 9:114000
+Master has detected Process P: 2 requested R: 0 at time 9:115000
+Master granting P: 2 request R: 0 at time 9:115000
+Master has detected Process P: 3 requested R: 0 at time 9:116000
+Master granting P: 3 request R: 0 at time 9:116000
+Master has detected Process P: 4 requested R: 0 at time 9:117000
+Master granting P: 4 request R: 0 at time 9:117000
+Master running deadlock detection at time 9:120000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 9:120000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 9:120000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 9:120000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 9:120000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 9:120000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 9:120000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 9:120000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 9:120000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 9:120000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 9:120000
+Resources Released : R9: 0
+    Resources released: R9,
+Master running deadlock detection at time 10:130000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 10:130000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 10:130000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 10:130000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 10:130000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 10:130000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 10:130000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 10:130000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 10:130000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 10:130000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 10:130000
+Resources Released : R9: 0
+    Resources released: R9,
+Master has detected Process P: 1 requested R: 9 at time 11:134000
+Master granting P: 1 request R: 9 at time 11:134000
+Master has detected Process P: 2 requested R: 9 at time 11:135000
+Master granting P: 2 request R: 9 at time 11:135000
+Master has detected Process P: 3 requested R: 9 at time 11:136000
+Master granting P: 3 request R: 9 at time 11:136000
+Master has detected Process P: 4 requested R: 9 at time 11:137000
+Master granting P: 4 request R: 9 at time 11:137000
+Master running deadlock detection at time 11:140000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 11:140000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 11:140000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 11:140000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 11:140000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 11:140000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 11:140000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 11:140000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 11:140000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 11:140000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 11:140000
+Resources Released : R9: 0
+    Resources released: R9,
+Master running deadlock detection at time 12:150000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 12:150000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 12:150000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 12:150000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 12:150000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 12:150000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 12:150000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 12:150000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 12:150000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 12:150000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 12:150000
+Resources Released : R9: 0
+    Resources released: R9,
+Master has detected Process P: 1 requested R: 4 at time 13:155000
+Master granting P: 1 request R: 4 at time 13:155000
+Master has detected Process P: 2 requested R: 4 at time 13:156000
+Master granting P: 2 request R: 4 at time 13:156000
+Master has detected Process P: 3 requested R: 4 at time 13:157000
+Master granting P: 3 request R: 4 at time 13:157000
+Master has detected Process P: 4 requested R: 4 at time 13:158000
+Master granting P: 4 request R: 4 at time 13:158000
+Master running deadlock detection at time 13:160000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 13:160000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 13:160000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 13:160000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 13:160000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 13:160000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 13:160000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 13:160000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 13:160000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 13:160000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 13:160000
+Resources Released : R9: 0
+    Resources released: R9,
+Master running deadlock detection at time 14:170000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 14:170000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 14:170000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 14:170000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 14:170000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 14:170000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 14:170000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 14:170000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 14:170000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 14:170000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 14:170000
+Resources Released : R9: 0
+    Resources released: R9,
+Master has detected Process P: 1 requested R: 2 at time 15:176000
+Master granting P: 1 request R: 2 at time 15:176000
+Master has detected Process P: 2 requested R: 2 at time 15:177000
+Master granting P: 2 request R: 2 at time 15:177000
+Master has detected Process P: 3 requested R: 2 at time 15:178000
+Master granting P: 3 request R: 2 at time 15:178000
+Master has detected Process P: 4 requested R: 2 at time 15:179000
+Master granting P: 4 request R: 2 at time 15:179000
+Master running deadlock detection at time 15:180000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 15:180000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 15:180000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 15:180000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 15:180000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 15:180000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 15:180000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 15:180000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 15:180000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 15:180000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 15:180000
+Resources Released : R9: 0
+    Resources released: R9,
+Master running deadlock detection at time 16:190000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 16:190000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 16:190000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 16:190000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 16:190000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 16:190000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 16:190000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 16:190000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 16:190000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 16:190000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 16:190000
+Resources Released : R9: 0
+    Resources released: R9,
+Master has detected Process P: 1 requested R: 6 at time 17:196000
+Master granting P: 1 request R: 6 at time 17:196000
+Master has detected Process P: 2 requested R: 6 at time 17:197000
+Master granting P: 2 request R: 6 at time 17:197000
+Master has detected Process P: 3 requested R: 6 at time 17:198000
+Master granting P: 3 request R: 6 at time 17:198000
+Master has detected Process P: 4 requested R: 6 at time 17:199000
+Master granting P: 4 request R: 6 at time 17:199000
+Master running deadlock detection at time 17:200000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 17:200000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 17:200000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 17:200000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 17:200000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 17:200000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 17:200000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 17:200000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 17:200000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 17:200000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 17:200000
+Resources Released : R9: 0
+    Resources released: R9,
+Master running deadlock detection at time 18:210000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 18:210000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 18:210000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 18:210000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 18:210000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 18:210000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 18:210000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 18:210000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 18:210000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 18:210000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 18:210000
+Resources Released : R9: 0
+    Resources released: R9,
+Master has detected Process P: 1 requested R: 6 at time 19:217000
+Master has detected Process P: 2 requested R: 6 at time 19:218000
+Master granting P: 2 request R: 6 at time 19:218000
+Master has detected Process P: 3 requested R: 6 at time 19:219000
+Master granting P: 3 request R: 6 at time 19:219000
+Master has detected Process P: 4 requested R: 6 at time 19:220000
+Master granting P: 4 request R: 6 at time 19:220000
+Master running deadlock detection at time 19:220000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 19:220000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 19:220000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 19:220000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 19:220000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 19:220000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 19:220000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 19:220000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 19:220000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 19:220000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 19:220000
+Resources Released : R9: 0
+    Resources released: R9,
+Master running deadlock detection at time 20:230000: Deadlock
+Master terminating  P0 to remove deadlock
+Master  P0 terminated
+Master has aknowledged P: 0 releasing R: 0 at time 20:230000
+Resources Released : R0: 0
+    Resources released: R0,
+Master has aknowledged P: 0 releasing R: 1 at time 20:230000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 0 releasing R: 2 at time 20:230000
+Resources Released : R2: 0
+    Resources released: R2,
+Master has aknowledged P: 0 releasing R: 3 at time 20:230000
+Resources Released : R3: 0
+    Resources released: R3,
+Master has aknowledged P: 0 releasing R: 4 at time 20:230000
+Resources Released : R4: 0
+    Resources released: R4,
+Master has aknowledged P: 0 releasing R: 5 at time 20:230000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 0 releasing R: 6 at time 20:230000
+Resources Released : R6: 0
+    Resources released: R6,
+Master has aknowledged P: 0 releasing R: 7 at time 20:230000
+Resources Released : R7: 0
+    Resources released: R7,
+Master has aknowledged P: 0 releasing R: 8 at time 20:230000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 0 releasing R: 9 at time 20:230000
+Resources Released : R9: 0
+    Resources released: R9,
+Master has detected Process P: 1 requested R: 7 at time 20:237000
+Master granting P: 1 request R: 7 at time 20:237000
+Master has detected Process P: 2 requested R: 7 at time 20:238000
+Master granting P: 2 request R: 7 at time 20:238000
+Master has detected Process P: 3 requested R: 7 at time 20:239000
+Master granting P: 3 request R: 7 at time 20:239000
+Master has detected Process P: 4 requested R: 7 at time 20:240000
+Master granting P: 4 request R: 7 at time 20:240000
+Master running deadlock detection at time 20:240000: Deadlock
+Master terminating  P1 to remove deadlock
+Master  P1 terminated
+Master has aknowledged P: 1 releasing R: 0 at time 20:240000
+    Resources released: R0,
+Master has aknowledged P: 1 releasing R: 1 at time 20:240000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 1 releasing R: 2 at time 20:240000
+    Resources released: R2,
+Master has aknowledged P: 1 releasing R: 3 at time 20:240000
+    Resources released: R3,
+Master has aknowledged P: 1 releasing R: 4 at time 20:240000
+    Resources released: R4,
+Master has aknowledged P: 1 releasing R: 5 at time 20:240000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 1 releasing R: 6 at time 20:240000
+    Resources released: R6,
+Master has aknowledged P: 1 releasing R: 7 at time 20:240000
+    Resources released: R7,
+Master has aknowledged P: 1 releasing R: 8 at time 20:240000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 1 releasing R: 9 at time 20:240000
+    Resources released: R9,
+Master running deadlock detection at time 20:250000: Deadlock
+Master terminating  P2 to remove deadlock
+Master  P2 terminated
+Master has aknowledged P: 2 releasing R: 0 at time 20:250000
+    Resources released: R0,
+Master has aknowledged P: 2 releasing R: 1 at time 20:250000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 2 releasing R: 2 at time 20:250000
+    Resources released: R2,
+Master has aknowledged P: 2 releasing R: 3 at time 20:250000
+    Resources released: R3,
+Master has aknowledged P: 2 releasing R: 4 at time 20:250000
+    Resources released: R4,
+Master has aknowledged P: 2 releasing R: 5 at time 20:250000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 2 releasing R: 6 at time 20:250000
+    Resources released: R6,
+Master has aknowledged P: 2 releasing R: 7 at time 20:250000
+    Resources released: R7,
+Master has aknowledged P: 2 releasing R: 8 at time 20:250000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 2 releasing R: 9 at time 20:250000
+    Resources released: R9,
+Master running deadlock detection at time 20:260000: Deadlock
+Master terminating  P3 to remove deadlock
+Master  P3 terminated
+Master has aknowledged P: 3 releasing R: 0 at time 20:260000
+    Resources released: R0,
+Master has aknowledged P: 3 releasing R: 1 at time 20:260000
+Resources Released : R1: 0
+    Resources released: R1,
+Master has aknowledged P: 3 releasing R: 2 at time 20:260000
+    Resources released: R2,
+Master has aknowledged P: 3 releasing R: 3 at time 20:260000
+    Resources released: R3,
+Master has aknowledged P: 3 releasing R: 4 at time 20:260000
+    Resources released: R4,
+Master has aknowledged P: 3 releasing R: 5 at time 20:260000
+Resources Released : R5: 0
+    Resources released: R5,
+Master has aknowledged P: 3 releasing R: 6 at time 20:260000
+    Resources released: R6,
+Master has aknowledged P: 3 releasing R: 7 at time 20:260000
+    Resources released: R7,
+Master has aknowledged P: 3 releasing R: 8 at time 20:260000
+Resources Released : R8: 0
+    Resources released: R8,
+Master has aknowledged P: 3 releasing R: 9 at time 20:260000
+    Resources released: R9,
+Master has aknowledged P: 4 releasing R: 0 at time 20:261000
+Master has aknowledged P: 4 releasing R: 1 at time 20:261000
+Resources Released : R1: 0
+Master has aknowledged P: 4 releasing R: 2 at time 20:261000
+Master has aknowledged P: 4 releasing R: 3 at time 20:261000
+Master has aknowledged P: 4 releasing R: 4 at time 20:261000
+Master has aknowledged P: 4 releasing R: 5 at time 20:261000
+Resources Released : R5: 0
+Master has aknowledged P: 4 releasing R: 6 at time 20:261000
+Master has aknowledged P: 4 releasing R: 7 at time 20:261000
+Master has aknowledged P: 4 releasing R: 8 at time 20:261000
+Resources Released : R8: 0
+Master has aknowledged P: 4 releasing R: 9 at time 20:261000
